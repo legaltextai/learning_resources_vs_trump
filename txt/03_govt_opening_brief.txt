@@ -1,0 +1,2628 @@
+Nos. 24-1287 & 25-250
+In the Supreme Court of the United States
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL., PETITIONERS
+v.
+V.O.S. SELECTIONS, INC., ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+AND ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+OPENING BRIEF FOR THE RESPONDENTS IN NO. 24-1287
+AND THE PETITIONERS IN NO. 25-250
+D. JOHN SAUER
+Solicitor General
+Counsel of Record
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+Additional counsel listed on inside cover
+BRETT A. SHUMATE
+Assistant Attorney General
+SARAH M. HARRIS
+Deputy Solicitor General
+SOPAN JOSHI
+Assistant to the
+Solicitor General
+MARK R. FREEMAN
+MICHAEL S. RAAB
+BRAD HINSHELWOOD
+DANIEL WINIK
+SOPHIA SHAMS
+Attorneys
+QUESTIONS PRESENTED
+1. Whether the International Emergency Economic
+Powers Act (IEEPA), Pub. L. No. 95-223, Tit. II, 91
+Stat. 1626, authorizes the tariffs imposed by President
+Trump pursuant to the national emergencies declared
+or continued in Proclamation 10,886 and Executive
+Orders 14,157, 14,193, 14,194, 14,195, and 14,257, as
+amended.
+2. If IEEPA authorizes the tariffs, whether the stat-
+ute unconstitutionally delegates legislative authority to
+the President.
+3. Whether the district court in No. 24-1287 lacked
+subject-matter jurisdiction.
+(I)
+PARTIES TO THE PROCEEDING
+Petitioners in No. 24-1287 (plaintiffs-appellees be-
+low) are Learning Resources, Inc., and hand2mind, Inc.
+Respondents in No. 24-1287 and petitioners in No.
+25-250 (defendants-appellants below) are Donald J.
+Trump, President of the United States; the United
+States Department of Homeland Security; Kristi Noem,
+Secretary of Homeland Security; United States Cus-
+toms and Border Protection (CBP); Rodney S. Scott,
+Commissioner of CBP; the Office of the United States
+Trade Representative; Jamieson Greer, United States
+Trade Representative; and Howard W. Lutnick, Secre-
+tary of Commerce. Respondents in No. 24-1287 also in-
+clude Scott Bessent, Secretary of the Treasury; the
+United States Department of the Treasury; and the
+United States Department of Commerce. Petitioners in
+No. 25-250 also include the Executive Office of the Pres-
+ident; and the United States of America.*
+Respondents in No. 25-250 are V.O.S. Selections,
+Inc.; Plastic Services and Products, LLC d/b/a Genova
+Pipe; MicroKits, LLC; FishUSA Inc.; and Terry Preci-
+sion Cycling LLC (plaintiffs-appellees in Nos. 25-cv-66
+and 25-1812). Respondents also include the States of
+Oregon; Arizona; Colorado; Connecticut; Delaware; Il-
+linois; Maine; Minnesota; Nevada; New Mexico; New
+York; and Vermont (plaintiffs-appellees in Nos. 25-cv-
+77 and 25-1813).
+* All individual defendants were sued in their official capacities
+and their successors, if any, have automatically been substituted in
+their respective places. See Sup. Ct. R. 35.3; Fed. R. App. P.
+43(c)(2).
+(II)
+TABLE OF CONTENTS
+Page
+Opinions below .............................................................................. 1
+Jurisdiction .................................................................................... 2
+Statutory provisions involved ...................................................... 2
+Introduction ................................................................................... 2
+Statement:
+A. The declarations of emergencies ........................... 6
+B. Statutory background ........................................... 12
+C. Proceedings below ................................................. 16
+1. Learning Resources ....................................... 17
+2. V.O.S. Selections ............................................. 17
+Summary of argument ............................................................... 20
+Argument:
+I. IEEPA authorizes the challenged tariffs ................... 23
+A. Authority to “regulate importation” includes
+tariffs ....................................................................... 23
+B. The major-questions doctrine does not
+support reading IEEPA to prohibit some
+tariffs but not others ............................................. 32
+C. Alternative arguments for affirmance lack
+merit ........................................................................ 37
+1. Section 122 of the Trade Act of 1974
+does not displace IEEPA ............................... 37
+2. The trafficking tariffs “deal with” the
+national emergencies ...................................... 39
+3. The President’s emergency and threat
+determinations should be upheld .................. 41
+II. IEEPA does not violate the nondelegation
+doctrine ........................................................................... 43
+III. The Learning Resources district court lacked
+jurisdiction ...................................................................... 47
+Conclusion ................................................................................... 49
+Appendix A — Statutory provisions ....................................... 1a
+Appendix B — Trafficking tariff actions .............................. 10a
+A ppendix C — Trade tariff actions ....................................... 17a
+(III)
+IV
+TABLE OF AUTHORITIES
+Cases: Page
+Alabama Association of Realtors v. Department of
+Health & Human Services, 594 U.S. 758 (2021) ....... 33, 34
+American Insurance Association v. Garamendi,
+539 U.S. 396 (2003).............................................................. 44
+Biden v. Nebraska, 600 U.S. 477 (2023) ......................... 33-35
+Board of Trustees v. United States,
+289 U.S. 48 (1933) ......................................................... 25, 30
+Cargo of Brig Aurora v. United States,
+7 Cranch 382 (1813) ...................................................... 12, 45
+Clark v. Martinez, 543 U.S. 371 (2005) ............................... 30
+Dalton v. Specter, 511 U.S. 462 (1994) ................................. 42
+Dames & Moore v. Regan,
+453 U.S. 654 (1981)............................................ 15, 26, 35, 40
+Department of Agriculture Rural Development
+Rural Housing Service v. Kirtz,
+601 U.S. 42 (2024) ......................................................... 30, 38
+Department of the Navy v. Egan, 484 U.S. 518 (1988) ...... 35
+Department of Transportation v. Association of
+American Railroads, 575 U.S. 43 (2015) ......................... 45
+FAA v. Cooper, 566 U.S. 284 (2012) ..................................... 27
+FCC v. Consumers’ Research,
+145 S. Ct. 2482 (2025) .................................. 22, 34, 35, 44, 46
+FDA v. Brown & Williamson Tobacco Corp.,
+529 U.S. 120 (2000).............................................................. 34
+FEA v. Algonquin SNG, Inc.,
+426 U.S. 548 (1976)............................................ 28, 37, 45, 46
+Franklin v. Massachusetts, 505 U.S. 788 (1992) ................ 42
+Free Speech Coalition, Inc. v. Paxton,
+145 S. Ct. 2291 (2025) ......................................................... 25
+Garland v. Aleman Gonzalez, 596 U.S. 543 (2022) ............ 48
+V
+Cases—Continued: Page
+Georgia v. Public.Resource.Org, 590 U.S. 255 (2020) ........ 26
+Gibbons v. Ogden, 9 Wheat. 1 (1824) ............................. 24, 29
+Gundy v. United States, 588 U.S. 128 (2019) ...................... 44
+Haig v. Agee, 453 U.S. 280 (1981) .................................. 40, 43
+J.W. Hampton, Jr., & Co. v. United States,
+276 U.S. 394 (1928).................................................. 12, 45, 46
+K Mart Corp. v. Cartier, Inc., 485 U.S. 176 (1988) ............ 47
+Marland v. Trump, 498 F. Supp. 3d 624
+(E.D. Pa. 2020) .................................................................... 32
+Marshall Field & Co. v. Clark,
+143 U.S. 649 (1892).................................................. 12, 45, 46
+McGoldrick v. Gulf Oil Corp., 309 U.S. 414 (1940) ............ 24
+Michael Simon Design, Inc. v. United States,
+609 F.3d 1335 (Fed. Cir. 2010) ........................................... 49
+Perry v. MSPB, 582 U.S. 420 (2017).................................... 48
+POM Wonderful LLC v. Coca-Cola Co.,
+573 U.S. 102 (2014).............................................................. 39
+PrimeSource Building Products, Inc. v. United
+States, 59 F.4th 1255 (Fed. Cir. 2023), cert. denied,
+144 S. Ct. 345 (2023), and 144 S. Ct. 561 (2024) ............... 47
+Public Citizen v. FMCSA, 374 F.3d 1209
+(D.C. Cir. 2004) ................................................................... 40
+RadLAX Gateway Hotel, LLC v. Amalgamated
+Bank, 566 U.S. 639 (2012) .................................................. 39
+Regan v. Wald, 468 U.S. 222 (1984) ................... 15, 26, 40, 43
+Robers v. United States, 572 U.S. 639 (2014) ...................... 31
+Seila Law LLC v. CFPB, 591 U.S. 197 (2020) .................... 36
+Soto v. United States, 605 U.S. 360 (2025) .......................... 27
+Steel Co. v. Citizens for a Better Environment,
+523 U.S. 83 (1998) ............................................................... 49
+Trump v. Hawaii, 585 U.S. 667 (2018) .......................... 41, 42
+VI
+Cases—Continued: Page
+United States v. Curtiss-Wright Export Corp.,
+299 U.S. 304 (1936).............................................................. 44
+United States v. Mazurie, 419 U.S. 544 (1975) ................... 44
+United States v. Shih, 73 F.4th 1077 (9th Cir. 2023),
+cert. denied, 144 S. Ct. 820 (2024) ..................................... 47
+United States v. Yoshida International, Inc.,
+526 F.2d 560 (C.C.P.A. 1975) ................................. 14, 26, 46
+Utility Air Regulatory Group v. EPA,
+573 U.S. 302 (2014).................................................. 33, 34, 36
+Wayman v. Southard, 10 Wheat. 1 (1825) .......................... 45
+Webster v. Doe, 486 U.S. 592 (1988) ..................................... 40
+West Virginia v. EPA, 597 U.S. 697 (2022) ............. 33, 35-37
+Youngstown Sheet & Tube Co. v. Sawyer,
+343 U.S. 579 (1952).................................................... 5, 35, 44
+Zemel v. Rusk, 381 U.S. 1 (1965) ................................... 22, 45
+Constitution and statutes:
+U.S. Const.:
+Art. I:
+§ 8 ............................................................................... 29
+§ 9, Cl. 5 ...................................................................... 30
+Art. II ......................................................................... 22, 44
+Amend. I ........................................................................... 31
+Amend. V (Takings Clause) ........................................... 31
+Act of Apr. 10, 2023, Pub. L. No. 118-3, 137 Stat. 6 ........... 32
+First War Powers Act, 1941, ch. 593, § 301,
+55 Stat. 839-840 ................................................................... 13
+International Emergency Economic Powers Act,
+Pub. L. No. 95-223, Tit. II, 91 Stat. 1626
+(50 U.S.C. 1701 et seq.) ......................................................... 2
+50 U.S.C. 1701 .................................................................. 34
+50 U.S.C. 1701(a) ................................................. 15, 41, 46
+VII
+Statutes—Continued: Page
+50 U.S.C. 1701(b) ............................................................. 46
+50 U.S.C. 1702 .................................................................. 26
+50 U.S.C. 1702(a)(1)(A) ................................................... 15
+50 U.S.C. 1702(a)(1)(B) .................. 3, 15, 24, 25, 29, 30, 46
+50 U.S.C. 1702(a)(1)(C) ................................................... 15
+50 U.S.C. 1702(b) ................................................. 25, 34, 46
+50 U.S.C. 1702(b)(1)-(4)............................................. 16, 32
+50 U.S.C. 1703 ................................................ 26, 32, 34, 46
+50 U.S.C. 1703(a) ............................................................. 16
+50 U.S.C. 1703(b)-(c) ....................................................... 16
+50 U.S.C. 1703(d) ............................................................. 16
+National Emergencies Act, Pub. L. No. 94-412,
+90 Stat. 1255 ........................................................................ 14
+50 U.S.C. 1621 .................................................................. 43
+50 U.S.C. 1621(a) ............................................................. 14
+50 U.S.C. 1622 ................................................ 26, 32, 43, 46
+50 U.S.C. 1622(a)-(c)........................................................ 32
+50 U.S.C. 1622(a)(1) ......................................................... 14
+50 U.S.C. 1622(b) ............................................................. 14
+50 U.S.C. 1622(d) ....................................................... 14, 32
+50 U.S.C. 1631 ............................................................ 32, 43
+50 U.S.C. 1641 ................................................ 26, 32, 43, 46
+50 U.S.C. 1641(a)-(c)........................................................ 14
+Non-Intercourse Act of March 1, 1809, ch. 24,
+2 Stat. 528 ............................................................................ 12
+Reciprocal Tariff Act, ch. 474, 48 Stat. 943
+(19 U.S.C. 1351 et seq.) ....................................................... 13
+Tariff Act of 1890, ch. 1244, 26 Stat. 567 ............................. 12
+Tariff Act of 1922, ch. 356, 42 Stat. 858 ............................... 12
+Tariff Act of 1930, ch. 497, § 338, 46 Stat. 704
+(19 U.S.C. 1338) ................................................................... 13
+VIII
+Statutes—Continued: Page
+Trade Act of 1974, Pub. L. No. 93-618, 88 Stat. 1978:
+§ 122, 88 Stat. 1987 (19 U.S.C. 2132) ........ 4, 18, 21, 37-39
+§ 604, 88 Stat. 2073 (19 U.S.C. 2483) ............................. 48
+Tit., II, 88 Stat. 2011 (19 U.S.C. 2251 et seq.) ............... 13
+Tit. III, 88 Stat. 2041 (19 U.S.C. 2411 et seq.) .............. 13
+19 U.S.C. 2132(a) ....................................................... 18, 38
+19 U.S.C. 3004 .................................................................. 48
+19 U.S.C. 3004(c)(1) ......................................................... 18
+19 U.S.C. 3004(c)(1)(C) ....................................... 23, 47, 48
+Trade Expansion Act of 1962, Pub. L. No. 87-794,
+§ 232, 76 Stat. 877 (19 U.S.C. 1862) ................................... 13
+Trading with the enemy Act of 1917, ch. 106,
+§ 11, 40 Stat. 422-423 .......................................................... 13
+15 U.S.C. 78i(h)(1).................................................................. 32
+15 U.S.C. 78i(h)(2).................................................................. 32
+28 U.S.C. 1337 ........................................................................ 17
+28 U.S.C. 1337(c) .............................................................. 17, 47
+28 U.S.C. 1581 .................................................................. 17, 47
+28 U.S.C. 1581(i)(1) .......................................................... 17, 22
+28 U.S.C. 1581(i)(1)(B) .................................................... 17, 47
+28 U.S.C. 1581(i)(1)(D) .................................................... 17, 47
+42 U.S.C. 7412(d) ................................................................... 32
+50 U.S.C. 4302 ........................................................................ 15
+Miscellaneous:
+The American Heritage Dictionary of the English
+Language (1969) ........................................................... 24, 40
+Black’s Law Dictionary (5th ed. 1979) ............................... 24
+Christopher A. Casey & Jennifer K. Elsea, Congres-
+sional Research Service, R45618, The Interna-
+tional Emergency Economic Powers Act: Origins,
+Evolution, and Use (Jan. 30, 2024) ................................... 37
+IX
+Miscellaneous—Continued: Page
+Diverting Oil Imports to United States Allies,
+4A OLC Op. 295 (1981) ....................................................... 37
+Exec. Order No. 12,170, 44 Fed. Reg. 65,729
+(Nov. 15, 1979) ............................................................... 37, 42
+Exec. Order No. 12,532, 50 Fed. Reg. 36,861
+(Sept. 10, 1985) .................................................................... 43
+Exec. Order No. 13,194, 66 Fed. Reg. 7389
+(Jan. 23, 2001) ...................................................................... 37
+Exec. Order No. 13,224, 66 Fed. Reg. 49,079
+(Sept. 25, 2001) .................................................................... 37
+Exec. Order No. 13,818, 82 Fed. Reg. 60,839
+(Dec. 26, 2017) ..................................................................... 43
+Exec. Order No. 13,920, 85 Fed. Reg. 26,595
+(May 4, 2020) ....................................................................... 37
+Exec. Order No. 14,157, 90 Fed. Reg. 8439
+(Jan. 29, 2025) .................................................................... 8, 9
+Exec. Order No. 14,193, 90 Fed. Reg. 9113
+(Feb. 7, 2025) .................................................................... 8-10
+Exec. Order No. 14,194, 90 Fed. Reg. 9117
+Feb. 7, 2025) .................................................................... 9, 10
+Exec. Order No. 14,195, 90 Fed. Reg. 9121
+(Feb. 7, 2025) ................................................................... 8, 10
+Exec. Order No. 14,257, 90 Fed. Reg. 15,041
+(Apr. 7, 2025) ...................................................................... 6-9
+Exec. Order No. 14,266, 90 Fed. Reg. 15,625
+(Apr. 15, 2025) ..................................................................... 10
+Executive Power With Regard to the Libyan
+Situation, 5 OLC Op. 432 (1981) ....................................... 42
+H.R. Rep. No. 459, 95th Cong., 1st Sess. (1977) ................. 14
+Letter from James Madison to Joseph C. Cabell,
+Sep. 18, 1828, Library of Congress,
+www.loc.gov/resource/mjm.22_0553_0561 ................. 25, 29
+X
+Miscellaneous—Continued: Page
+Notice of Nov. 1, 2024, 89 Fed. Reg. 87,761
+(Nov. 4, 2024) ....................................................................... 43
+Proclamation No. 4074, 36 Fed. Reg. 15,724
+(Aug. 17, 1971) ............................................................... 13, 14
+Proclamation No. 10,886, 90 Fed. Reg. 8327
+(Jan. 29, 2025) .................................................................... 8, 9
+Antonin Scalia & Bryan A. Garner, Reading Law
+(2012) .................................................................................... 28
+Joseph Story, Commentaries on the Constitution of
+the United States:
+Vol. 1 (1833) ...................................................................... 30
+Vol. 2 (1833) .......................................................... 24, 25, 29
+In the Supreme Court of the United States
+No. 24-1287
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+No. 25-250
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL., PETITIONERS
+v.
+V.O.S. SELECTIONS, INC., ET AL.
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+OPENING BRIEF FOR THE RESPONDENTS IN NO. 24-1287
+AND THE PETITIONERS IN NO. 25-250
+OPINIONS BELOW
+The opinion of the district court in Learning Re-
+sources (24-1287 Pet. App. 3a-43a) is reported at 784
+F. Supp. 3d 209. The opinion of the Federal Circuit in
+V.O.S. Selections (25-250 Pet. App. 1a-136a) is available
+at 2025 WL 2490634. The opinion of the Court of Inter-
+national Trade in V.O.S. Selections (25-250 Pet. App.
+139a-197a) is reported at 772 F. Supp. 3d 1350.
+(1)
+2
+JURISDICTION
+The district court in Learning Resources issued a
+preliminary injunction on May 29, 2025. The govern-
+ment filed a notice of appeal on May 30, 2025. The D.C.
+Circuit’s jurisdiction rests on 28 U.S.C. 1292(a)(1). The
+petition for a writ of certiorari before judgment was
+filed on June 17, 2025, and granted on September 9,
+2025. The jurisdiction of this Court rests on 28 U.S.C.
+1254(1) and 2101(e).
+The judgment of the Federal Circuit in V.O.S. Selec-
+tions was entered on August 29, 2025. The petition for
+a writ of certiorari was filed on September 3, 2025, and
+granted on September 9, 2025. The jurisdiction of this
+Court rests on 28 U.S.C. 1254(1).
+STATUTORY PROVISIONS INVOLVED
+Pertinent statutory provisions are reproduced in the
+appendix to this brief (App., infra, 1a-9a).
+INTRODUCTION
+These consolidated cases address President Trump’s
+lawful imposition of tariffs under the International Emer-
+gency Economic Powers Act (IEEPA), Pub. L. No. 95-
+223, Tit. II, 91 Stat. 1626 (50 U.S.C. 1701 et seq.), which
+the President, in his exercise of power over the military
+and foreign affairs, has determined are necessary to
+rectify America’s country-killing trade deficits and to
+stem the flood of fentanyl and other lethal drugs across
+our borders. To the President, these cases present a
+stark choice: With tariffs, we are a rich nation; without
+tariffs, we are a poor nation. The President has stated
+that “[o]ne year ago, the United States was a dead coun-
+try, and now, because of the trillions of dollars being
+paid by countries that have so badly abused us, America
+is a strong, financially viable, and respected country
+3
+again.” CAFC Doc. 154, at 1 (Aug. 11, 2025).* “Sud-
+denly revoking the President’s tariff authority under
+IEEPA,” he warns, “would have catastrophic conse-
+quences for our national security, foreign policy, and
+economy.” Ibid. The President has made clear that “[i]f
+the United States were forced to pay back the trillions
+of dollars committed to us, America could go from
+strength to failure the moment such an incorrect deci-
+sion took effect.” Id. at 1-2.
+In short, President Trump and his advisors have de-
+termined that erroneously invalidating the IEEPA tar-
+iffs “would have catastrophic consequences for our na-
+tional security, foreign policy, and economy.” CAFC
+Doc. 154, at 1. The President observes that “[t]hese deals
+for trillions of dollars have been reached, and other coun-
+tries have committed to pay massive sums of money,”
+ibid.—which, he projects, could reach $15 trillion. The
+President has emphasized: “If the United States were
+forced to unwind these historic agreements, * * * the
+economic consequences would be ruinous, instead of un-
+precedented success.” Id. at 1-2.
+President Trump’s IEEPA tariffs are plainly lawful.
+Congress has long granted the President broad author-
+ity to employ tariffs to address emergencies. IEEPA
+continues that tradition by expressly authorizing the
+President to “regulate * * * importation” of foreign
+goods to address declared national emergencies. 50
+U.S.C. 1702(a)(1)(B). Since the early days of the Re-
+public, “regulating” trade has always encompassed the
+imposition of tariffs, and IEEPA’s broader statutory
+* Unless otherwise indicated, record citations are to Federal Cir-
+cuit No. 25-1812 and district court No. 25-cv-1248 (D.D.C.), and
+“Pet. App.” citations are to the appendix to the government’s peti-
+tion for a writ of certiorari in No. 25-250.
+4
+scheme confirms that “regulat[ing] importation” in-
+cludes the use of tariffs.
+Presidents have relied on IEEPA to address a wide
+array of emergencies and “IEEPA embodies an eyes-
+open congressional grant of broad emergency authority
+in this foreign-affairs realm.” Pet. App. 66a (Taranto,
+J., dissenting). President Trump determined that tar-
+iffs are best suited to address the trade-deficit and
+drug-trafficking emergencies, and those determina-
+tions warrant deference. IEEPA provides that Con-
+gress and the political process, not the judiciary, serve
+as the principal monitor and check on the President’s
+exercise of IEEPA authority.
+In spite of the lawfulness of the IEEPA tariffs, and
+the President’s determination of their country-saving
+impact, the lower courts wrongly invalidated the tariffs.
+These erroneous decisions jeopardize the President’s
+efforts to deal with major national emergencies without
+any sound legal basis.
+In fact, the lower courts could not agree on why, ex-
+actly, IEEPA does not authorize these tariffs. The dis-
+trict court in Learning Resources incorrectly concluded
+that IEEPA does not authorize any tariffs at all, largely
+because IEEPA does not expressly use the word “tar-
+iffs.” That rationale imposes an unjustifiable “magic
+words” requirement, contrary to this Court’s case law.
+The Court of International Trade instead held that be-
+cause another statute (Section 122 of the Trade Act of
+1974) addresses balance-of-payment deficits, IEEPA
+cannot cover the same ground. But the statutes are
+overlapping and mutually reinforcing—IEEPA ad-
+dresses emergencies whether or not they involve trade
+deficits, and Section 122 addresses trade deficits wheth-
+er or not they involve declared emergencies.
+5
+By contrast, the en banc Federal Circuit, in a 7-4 de-
+cision, incorrectly held that IEEPA might authorize
+some tariffs—just not these tariffs, or any other tariffs
+that the court considers too enduring, too significant, or
+too widespread. But neither IEEPA nor the major-
+questions doctrine allows courts to fashion such atex-
+tual, know-it-when-you-see-it limitations on the Presi-
+dent’s emergency powers. In fact, such limitations are
+in direct violation of the separation of powers. Here,
+where the President’s foreign-policy authority includes
+“all that he possesses in his own right plus all that Con-
+gress can delegate,” and his actions are “supported by
+the strongest of presumptions and the widest latitude of
+judicial interpretation.” Youngstown Sheet & Tube Co.
+v. Sawyer, 343 U.S. 579, 635, 637 (1952) (Jackson, J.,
+concurring).
+If affirmed, the erroneous lower-court decisions
+would “cause significant and irreparable harm to the
+foreign policy, trade policy, and national security of the
+United States.” CAFC Doc. 158, at 35 (Aug. 29, 2025)
+(Greer). The Secretary of State explains that “[s]us-
+pending the effectiveness of the tariffs would lead to
+dangerous diplomatic embarrassment, which embold-
+ens allies and adversaries alike,” and “would likewise
+interrupt ongoing negotiations midstream.” Id. at 28.
+As he underscores, the erroneous decisions “expose the
+United States to the risk of retaliation by other coun-
+tries based on a perception that the United States lacks
+the capacity to respond rapidly to retaliation.” Ibid.
+Upholding the invalidation, the Secretary of Commerce
+notes, “would have devastating and dire consequences.
+It would * * * resign the United States to permanent
+dependency on foreign supply chains, and accelerate
+the drift toward America’s decline into a vassal state to
+6
+global manufacturing powers that include our geopolit-
+ical rivals.” Id. at 17. “Curtailing presidential authority
+now,” he warns, “would be catastrophic.” Id. at 16.
+STATEMENT
+A. The Declarations Of Emergencies
+From the outset of his Administration, President
+Trump and his senior advisors recognized that the
+United States stood at “a ‘tipping point,’ i.e., the brink
+of a major economic and national-security catastrophe,”
+Mot. to Expedite 2a (Bessent)—even a “1929-style re-
+sult,” CAFC Doc. 154, at 1. The United States’ annual
+goods trade deficit had exploded to $1.2 trillion per
+year—increasing “over 40 percent in the past 5 years
+alone.” Executive Order No. 14,257, 90 Fed. Reg. 15,041,
+15,044 (Apr. 7, 2025). As the Secretary of the Treasury
+states, “[t]he United States ha[d] suffered trade imbal-
+ances for many decades at the hands of its major trad-
+ing partners and their imposition of asymmetrical,
+higher tariffs on us than we impose on them.” Mot. to
+Expedite 2a. “[B]y the end of 2024, foreigners owned
+approximately $26 trillion more of U.S. assets than
+Americans owned of foreign assets”—a “catastrophic
+reversal” that “financed foreign control of American
+manufacturing, supply chains, and economic life, weak-
+ening the independence of our Nation.” CAFC Doc.
+158, at 5 (Lutnick). The President and his advisors rec-
+ognized that “conditions underlying and arising from”
+those deficits created “an ongoing economic emergency
+of historic proportions.” Id. at 6 (Lutnick).
+On his first day in office, President Trump ordered
+an emergency investigation to determine the causes of
+the crisis by April 1, 2025. The results, the President
+determined, were tragic for America. “Large and per-
+sistent annual U.S. goods trade deficits,” the President
+7
+found, “have led to the hollowing out of our manufactur-
+ing base [and] inhibited our ability to scale advanced do-
+mestic manufacturing capacity.” 90 Fed. Reg. at 15,041.
+He found that they have “undermined critical supply
+chains” and “rendered our defense-industrial base de-
+pendent on foreign adversaries.” Ibid. Asymmetric
+tariffs and non-tariff barriers, he determined, have cre-
+ated “highly unbalanced” trade relationships that are
+rapidly corroding the “domestic production” that “is the
+bedrock of [America’s] national and economic security.”
+Id. at 15,042-15,043.
+The President has consistently and unequivocally
+stated that “increasing domestic manufacturing is crit-
+ical to U.S. national security.” 90 Fed. Reg. at 15,043.
+Due to “the persistent decline in U.S. manufacturing”
+from the trade deficits, he explained, “[t]he need to
+maintain robust and resilient domestic manufacturing
+capacity is particularly acute,” especially “in certain ad-
+vanced industrial sectors.” Ibid. Foreign control of
+“key inputs” for manufacturing and supplying our mili-
+tary, the President affirms, is a grave threat our na-
+tional security. Ibid.
+The President also determined that the crisis threat-
+ens our basic economic security: “Increased reliance on
+foreign producers for goods also has compromised U.S.
+economic security by rendering U.S. supply chains vul-
+nerable to geopolitical disruption and supply shocks.”
+90 Fed. Reg. at 15,043. In addition, he explained that
+“[t]he decline of U.S. manufacturing capacity threatens
+the U.S. economy * * * through the loss of ” five million
+“manufacturing jobs.” Ibid. Those losses “were con-
+centrated in specific geographical areas,” where “social
+trends, like the abuse of opioids,” spiked, thus “im-
+pos[ing] profound costs on the U.S. economy.” Id. at
+8
+15,043-15,044. The President explained that those defi-
+cits reflect a hollowing out of our agricultural sector,
+and “a nation [cannot] long survive if it cannot produce
+its own food.” Id. at 15,044. “The future of American
+competitiveness,” the President stated, “depends on re-
+versing these trends.” Ibid.
+Meanwhile, the President perceived another na-
+tional crisis arising from unchecked trafficking of fen-
+tanyl and other deadly drugs into the United States. By
+January 20, he found, “[h]undreds of thousands of
+Americans ha[d] tragically died from drug overdoses
+because of the illicit narcotics that have flowed across
+the southern border,” Proclamation No. 10,886, 90 Fed.
+Reg. 8327, 8327 (Jan. 29, 2025), and criminal cartels had
+“flooded the United States with deadly drugs, violent
+criminals, and vicious gangs,” Executive Order No.
+14,157, 90 Fed. Reg. 8439, 8439 (Jan. 29, 2025). Those
+cartels, he explained, “functionally control, through a
+campaign of assassination, terror, rape, and brute force
+nearly all illegal traffic across the southern border of
+the United States.” Ibid.
+Accordingly, the President found that “the sustained
+influx of illicit opioids and other drugs has profound
+consequences on our Nation, endangering lives and put-
+ting a severe strain on our healthcare system, public
+services, and communities.” Executive Order No.
+14,193, 90 Fed. Reg. 9113, 9113 (Feb. 7, 2025). “The flow
+of illicit drugs like fentanyl to the United States,” he
+stated, “has created a public health crisis in the United
+States.” Ibid. That crisis, he observed, is “killing ap-
+proximately two hundred Americans per day, putting a
+severe strain on our healthcare system, ravaging our
+communities, and destroying our families.” Executive
+Order No. 14,195, 90 Fed. Reg. 9121, 9121 (Feb. 7, 2025).
+9
+President Trump acted decisively to address those
+crises. On April 2, 2025, the President declared a na-
+tional emergency relating to the goods trade deficits,
+finding that it “constitute[s] an unusual and extraordi-
+nary [foreign] threat to the national security and econ-
+omy of the United States.” 90 Fed. Reg. at 15,041. In
+particular, the President found, the “large and persis-
+tent annual U.S. goods trade deficits” have “atrophied”
+our nation’s “domestic production capacity,” and “com-
+promised U.S. economic security by rendering U.S. sup-
+ply chains vulnerable to geopolitical disruption and sup-
+ply shocks.” Id. at 15,043-15,044. Those deficits, “and
+the concomitant loss of industrial capacity, have com-
+promised military readiness,” and “this vulnerability
+can only be redressed through swift corrective action to
+rebalance the flow of imports into the United States.”
+Id. at 15,045. Using his broad IEEPA powers, the Pres-
+ident addressed that unusual and extraordinary threat
+by imposing an additional duty of at least 10 percent on
+most imported goods. Ibid. The President has contin-
+ued to take additional actions to address the national
+emergency. See App., infra, 17a-21a (listing actions).
+President Trump has likewise declared IEEPA
+emergencies and imposed tariffs to address the drug-
+trafficking crisis. In January 2025, the President de-
+clared the flow of contraband drugs like fentanyl
+through illicit distribution networks, and the resulting
+public-health crisis, to be a national emergency. 90 Fed.
+Reg. at 8327; 90 Fed. Reg. at 8439. On February 1,
+2025, the President found that the failures of Canada,
+Mexico, and China to act to curtail that flow constituted
+unusual and extraordinary threats. Executive Order
+No. 14,193, 90 Fed. Reg. 9113 (Feb. 7, 2025); Executive
+Order No. 14,194, 90 Fed. Reg. 9117 (Feb. 7, 2025); Ex-
+10
+ecutive Order No. 14,195, 90 Fed. Reg. 9121 (Feb. 7,
+2025). Invoking his IEEPA powers, the President ad-
+dressed those emergencies by imposing a 25 percent
+duty on most Canadian and Mexican imports and a 10
+percent duty on most Chinese imports. 90 Fed. Reg. at
+9114, 9118, 9122-9123. Since that time, the President
+has paused and adjusted those duties following negoti-
+ations and in response to international events. See
+App., infra, 10a-16a (listing actions).
+The President and his senior advisors believe that
+the tariffs have had swift and dramatic results. Due to
+tariffs, they observe, “more than 75 * * * trading part-
+ners * * * approached the United States to address the
+lack of trade reciprocity in our economic relationships
+and our resulting national and economic security con-
+cerns.” Executive Order No. 14,266, 90 Fed. Reg.
+15,625, 15,626 (Apr. 15, 2025). Those ongoing “trade ne-
+gotiations have been one of the country’s top foreign
+policy priorities for the last several months.” CAFC
+Doc. 158, at 28 (Rubio). By late August, “the United
+States ha[d] announced trade deals with the European
+Union (EU), Indonesia, the Philippines, Vietnam, Ja-
+pan, South Korea, and the United Kingdom.” Id. at 36
+(Greer). Those bilateral framework agreements abolish
+the lopsided tariff and non-tariff barriers that those
+partners have long imposed on us. Id. at 10 (Lutnick),
+36-39 (Greer). In addition, to rectify past imbalances,
+those partners have agreed to make trillions of dollars
+of purchases and investments in the U.S. economy, fo-
+cused in sectors crucial to our national security. Ibid.
+For example, the EU has agreed to make $750 billion in
+energy purchases and $600 billion in investments, and
+Japan and South Korea collectively have agreed to al-
+most $1 trillion in investments. Id. at 11-13 (Lutnick),
+11
+31-32 (Bessent). Meanwhile, the United States is also
+“actively negotiating with dozens of [additional] coun-
+tries to reach agreements to address the emergencies
+declared by the President”—negotiations which “re-
+main in a delicate state.” Id. at 27 (Rubio). Likewise,
+“[n]egotiations with Mexico, Canada, and China are also
+ongoing in order to address” the drug-trafficking crisis.
+Id. at 25 (Rubio).
+The President’s negotiators attest that those historic
+deals and negotiations were achieved solely because of
+the IEEPA tariffs. “President Trump’s use of recipro-
+cal tariffs under IEEPA has brought foreign powers to
+the negotiating table to fundamentally change these in-
+tolerable dynamics.” CAFC Doc. 158, at 7 (Lutnick).
+“None of these agreements would be possible without
+the imposition of tariffs to regulate imports and bring
+other countries to the table.” Id. at 38 (Greer).
+In addition, the President is now “exercising his
+IEEPA authority in connection with highly sensitive
+negotiations he is conducting to end the conflict be-
+tween the Russian Federation and Ukraine,” including
+by imposing IEEPA tariffs to sanction India for pur-
+chasing Russian oil. CAFC Doc. 158, at 26 (Rubio).
+Vitally, the Congressional Budget Office recently
+projected that the IEEPA tariffs will reduce the na-
+tional deficit by $4 trillion in upcoming years. CAFC
+Doc. 158, at 19. Overall, the President and his Cabinet
+officials have determined that the tariffs are promoting
+peace and unprecedented economic prosperity, and that
+the denial of tariff authority would expose our nation to
+trade retaliation without effective defenses and thrust
+America back to the brink of economic catastrophe. See
+Id. at 8-9 (Lutnick).
+12
+B. Statutory Background
+1. For over a century, Congress has supplemented
+the President’s constitutional power over foreign affairs
+and national security by delegating to him the authority
+to manage foreign trade in response to international
+conditions, including by imposing tariffs. See Marshall
+Field & Co. v. Clark, 143 U.S. 649, 680 (1892).
+This Court has repeatedly upheld presidential exer-
+cises of such authority. In 1813, the Court upheld an
+1810 statute that authorized the President to reinstate
+the terms of the Non-Intercourse Act of March 1, 1809,
+ch. 24, 2 Stat. 528, and prohibit imports from either
+Great Britain or France if either nation “violate[d] the
+neutral commerce of the United States.” Cargo of Brig
+Aurora v. United States, 7 Cranch 382, 384 (citation
+omitted); see id. at 388. In 1892, the Court upheld the
+constitutionality of the Tariff Act of 1890, ch. 1244, 26
+Stat. 567, which authorized the President to suspend an
+exemption for certain products from import duties “for
+such time as he shall deem just” “whenever, and so of-
+ten as [he] shall be satisfied,” that the exporting coun-
+try “imposes duties or other exactions” on American
+products that “he may deem to be reciprocally unequal
+and unreasonable.” Marshall Field, 143 U.S. at 680 (ci-
+tation omitted). And in 1928, the Court upheld the Tar-
+iff Act of 1922, ch. 356, 42 Stat. 858, which empowered
+the President to raise import duties “whenever the
+President * * * shall find” that existing tariffs do not
+equalize the differences between foreign and domestic
+production costs, and to modify the tariffs “when he de-
+termines” that “the differences in costs of production
+have changed.” J.W. Hampton, Jr., & Co. v. United
+States, 276 U.S. 394, 401-402 (citation omitted).
+13
+Congress has since enacted many other statutes au-
+thorizing the Executive to impose or modify tariffs or
+duties on imports, including Section 338 of the Tariff
+Act of 1930, ch. 497, 46 Stat. 704-706 (19 U.S.C. 1338)
+(Smoot-Hawley); the Reciprocal Tariff Act, ch. 474, 48
+Stat. 943 (19 U.S.C. 1351 et seq.); Section 232 of the
+Trade Expansion Act of 1962, Pub. L. No. 87-794, 76
+Stat. 877 (19 U.S.C. 1862); Title II of the Trade Act of
+1974, Pub. L. No. 93-618, 88 Stat. 2011 (19 U.S.C. 2251
+et seq.); and Title III of the Trade Act of 1974, 88 Stat.
+2042 (19 U.S.C. 2411 et seq.).
+Most relevant here, the 1917 Trading with the enemy
+Act (TWEA), ch. 106, § 11, 40 Stat. 422-423, authorized
+the President to specify foreign goods that may not be
+imported during wartime “except at such time or times,
+and under such regulations or orders * * * as the Pres-
+ident shall prescribe.” In 1941, Congress expanded that
+authority to peacetime, permitting the President to
+investigate, regulate, direct and compel, nullify, void,
+prevent or prohibit, any acquisition holding, with-
+holding, use, transfer, withdrawal, transportation,
+importation or exportation of, or dealing in, or exer-
+cising any right, power, or privilege with respect to,
+or transactions involving, any property in which any
+foreign country or a national thereof has any inter-
+est.
+First War Powers Act, 1941, ch. 593, § 301, 55 Stat. 839-
+840 (emphases added) (amending TWEA).
+In 1971, President Nixon imposed peacetime tariffs
+that were upheld under TWEA. See Proclamation No.
+4074, 36 Fed. Reg. 15,724 (Aug. 17, 1971). Finding that
+a “prolonged decline in the international monetary re-
+serves” of the United States over a number of years had
+seriously threatened its “international competitive po-
+14
+sition” and potentially impaired national security, ibid.,
+President Nixon “declared a national emergency with
+respect to the balance-of-payments crisis and under
+that emergency imposed a surcharge on imports,” H.R.
+Rep. No. 459, 95th Cong., 1st Sess. 5 (1977) (IEEPA
+House Report); see 36 Fed. Reg. at 15,724. In United
+States v. Yoshida International, Inc., 526 F.2d 560
+(C.C.P.A. 1975), the Federal Circuit’s predecessor up-
+held those tariffs under TWEA, rejecting an argument
+that TWEA’s “regulate importation” language does not
+authorize tariffs. Id. at 575-576.
+2. In 1976 and 1977, Congress modified TWEA
+through two new laws: the National Emergencies Act
+(NEA), Pub. L. No. 94-412, 90 Stat. 1255, and IEEPA.
+The NEA “authorized” “the President” “to declare [a]
+national emergency” “[w]ith respect to Acts of Con-
+gress authorizing the exercise, during the period of a
+national emergency, of any special or extraordinary
+power.” 50 U.S.C. 1621(a).
+Congress placed only procedural, not substantive,
+limits on national-emergency declarations, giving itself
+principal oversight authority. National-emergency dec-
+larations must be “immediately * * * transmitted to
+the Congress and published in the Federal Register.”
+50 U.S.C. 1621(a); see 50 U.S.C. 1641(a)-(c). Congress
+may terminate a national emergency at any time. 50
+U.S.C. 1622(a)(1). Congress must meet within six months
+of the national-emergency declaration, and periodically
+thereafter, to consider terminating it. 50 U.S.C. 1622(b).
+And national-emergency declarations automatically
+terminate after one year unless the President notifies
+Congress that the emergency “continue[s].” 50 U.S.C.
+1622(d).
+15
+IEEPA, in turn, separated the President’s authority
+to act in wartime and peacetime. Congress limited TWEA
+to periods of declared wars. 50 U.S.C. 4302. IEEPA
+then extended the President’s powers to periods of de-
+clared national emergencies during peacetime. See Re-
+gan v. Wald, 468 U.S. 222, 227-228 (1984). IEEPA au-
+thorizes the President to exercise those powers “to deal
+with any unusual and extraordinary threat, which has
+its source in whole or substantial part outside the
+United States, to the national security, foreign policy,
+or economy of the United States.” 50 U.S.C. 1701(a).
+Once the President declares a national emergency
+relating to such a threat, IEEPA grants the President
+deliberately broad powers, including to “regulate[] or
+prohibit” certain foreign monetary transactions, 50
+U.S.C. 1702(a)(1)(A), and to “confiscate” certain prop-
+erty during “armed hostilities,” 50 U.S.C. 1702(a)(1)(C).
+As relevant here, IEEPA empowers the President to
+investigate, block during the pendency of an investi-
+gation, regulate, direct and compel, nullify, void, pre-
+vent or prohibit, any acquisition, holding, withhold-
+ing, use, transfer, withdrawal, transportation, im-
+portation or exportation of, or dealing in, or exercis-
+ing any right, power, or privilege with respect to, or
+transactions involving, any property in which any
+foreign country or a national thereof has any inter-
+est.
+50 U.S.C. 1702(a)(1)(B) (emphases added). That opera-
+tive language was “directly drawn” from TWEA.
+Dames & Moore v. Regan, 453 U.S. 654, 671 (1981). And
+the broad powers that IEEPA grants to the President
+are “essentially the same as” those under TWEA.
+Wald, 468 U.S. at 228. Congress recognized that those
+“new authorities should be sufficiently broad and flexi-
+16
+ble to enable the President to respond as appropriate
+and necessary to unforeseen contingencies.” IEEPA
+House Report 10.
+Unlike TWEA, IEEPA contains an enumerated list
+of exceptions to those broad grants of authority. See 50
+U.S.C. 1702(b)(1)-(4). The President may not, for exam-
+ple, “regulate or prohibit, directly or indirectly,” certain
+“communication[s]” that “do[] not involve a transfer of
+anything of value”; certain “donations” like “food, cloth-
+ing, and medicine, intended to be used to relieve human
+suffering”; the “importation” or “exportation” of certain
+“information or informational materials”; or “transac-
+tions ordinarily incident” to personal travel. Ibid. None
+of those exceptions is at issue here.
+Congress also expanded its oversight authority be-
+yond the NEA baseline. 50 U.S.C. 1703(d). The Presi-
+dent “shall consult regularly with the Congress so long
+as [IEEPA] authorities are exercised.” 50 U.S.C.
+1703(a). The President also is directed to “immediately
+transmit to the Congress a report” on the emergency,
+with updates at least every six months. 50 U.S.C.
+1703(b) and (c).
+C. Proceedings Below
+Petitioners in Learning Resources (No. 24-1287) and
+respondents in V.O.S. Selections (No. 25-250) are plain-
+tiffs who collectively allege that IEEPA does not au-
+thorize the trade or trafficking tariffs. The Learning
+Resources plaintiffs filed suit in the United States Dis-
+trict Court for the District of Columbia; the V.O.S. Se-
+lections plaintiffs filed suit in the Court of International
+Trade (CIT).
+17
+1. Learning Resources
+The district court denied the government’s motion to
+transfer the case to the CIT, rejecting the government’s
+argument that the court lacked subject-matter jurisdic-
+tion under 28 U.S.C. 1337(c) and 1581(i)(1). See 24-1287
+Pet. App. 18a-21a. As relevant here, Section 1581 pro-
+vides that the CIT has exclusive jurisdiction over “any
+civil action” against the federal government “that arises
+out of any law of the United States providing for * * *
+tariffs, duties, fees, or other taxes on the importation of
+merchandise for reasons other than the raising of reve-
+nue” or for “administration and enforcement with re-
+spect to” those matters. 28 U.S.C. 1581(i)(1)(B) and (D).
+Section 1337 in turn provides that “[t]he district courts
+shall not have jurisdiction under this section of any mat-
+ter within the exclusive jurisdiction of the Court of In-
+ternational Trade.” 28 U.S.C. 1337(c). The district
+court viewed its jurisdiction as depending on whether
+IEEPA authorizes tariffs at all. 24-1287 Pet. App. 18a.
+The district court then granted a preliminary injunc-
+tion prohibiting the government from collecting the tar-
+iffs from plaintiffs, finding that the President’s power
+under IEEPA to “regulate importation” likely does not
+include the power to impose tariffs at all. See 24-1287
+Pet. App. 21a-37a.
+2. V.O.S. Selections
+a. The CIT granted summary judgment to plaintiffs,
+vacated the tariff orders, and entered a universal per-
+manent injunction against the tariffs’ imposition. Pet.
+App. 139a-197a.
+The CIT first held that it had exclusive jurisdiction
+under Section 1581 because plaintiffs’ claims arose out
+of the President’s modifications to the Harmonized Tar-
+iff Schedule, and such modifications are considered “law
+18
+of the United States setting tariffs.” Pet. App. 160a; see
+19 U.S.C. 3004(c)(1) (presidential “modification[s]” to
+the schedule “shall be considered to be statutory provi-
+sions of law for all purposes”).
+The CIT next held that IEEPA does not authorize
+the trade tariffs. Pet. App. 169a-181a. The CIT
+acknowledged (id. at 174a-175a) that IEEPA’s authori-
+zation to “regulate importation” empowers the Presi-
+dent to impose some tariffs, but held that Section 122 of
+the Trade Act of 1974, 88 Stat. 1987 (19 U.S.C. 2132),
+“removes the President’s power to impose remedies in
+response to balance-of-payments deficits.” Pet. App.
+178a. Section 122 authorizes “temporary import sur-
+charge[s]” of up to 15 percent for up to 150 days “to deal
+with large and serious United States balance-of-pay-
+ments deficits.” 19 U.S.C. 2132(a). In the CIT’s view,
+any tariff that “responds to an imbalance in trade * * *
+must conform with the limits of Section 122,” even if the
+tariff otherwise complies with IEEPA. Pet. App. 179a-
+180a.
+The CIT further held that the trafficking tariffs do
+not satisfy IEEPA’s requirement that the President ex-
+ercise his authorities only to “deal with” a threat under-
+lying a declared emergency. Pet. App. 193a; see id. at
+181a-196a. In the CIT’s view, the tariffs were “ ‘pres-
+sure’ or ‘leverage’ tactics” and thus insufficiently “di-
+rect” to satisfy IEEPA’s “ ‘deal with’ ” requirement. Id.
+at 193a.
+The CIT declared the tariffs unlawful, issued a uni-
+versal permanent injunction against the tariffs, and or-
+dered the government to revert to prior tariff rates
+within 10 days. Pet. App. 199a-200a.
+b. Sitting initially en banc, the Federal Circuit in a
+7-4 decision affirmed the declaratory relief but vacated
+19
+the injunction in its entirety and remanded to the CIT
+to reconsider the scope of injunctive relief, if any. Pet.
+App. 1a-136a.
+i. In a per curiam opinion, the en banc Federal Cir-
+cuit held that IEEPA did not authorize the challenged
+tariffs. Pet. App. 25a-46a. The court agreed that the
+CIT had exclusive jurisdiction, id. at 21a-25a, but relied
+on grounds different from the CIT’s to affirm on the
+merits.
+The Federal Circuit purported not to address
+“whether IEEPA authorizes any tariffs at all,” and (un-
+like the CIT) did not categorically rule out IEEPA tar-
+iffs to address balance-of-payments deficits. Pet. App.
+at 25a. Instead, the court held, IEEPA does not author-
+ize “tariffs of the magnitude of the” challenged tariffs.
+Id. at 38a; see id. at 25a-42a. The court stated that
+“whenever Congress intends to delegate to the Presi-
+dent the authority to impose tariffs, it does so explic-
+itly.” Id. at 30a. The court found it significant that
+IEEPA does “not use the term ‘tariff ’ or any of its syn-
+onyms, like ‘duty’ or ‘tax.’ ” Id. at 27a.
+The Federal Circuit contemplated that IEEPA
+might authorize some tariffs, but held that to interpret
+IEEPA as authorizing “unlimited tariffs” would “run[]
+afoul of the major questions doctrine.” Pet. App. 34a.
+The court explained that although past Presidents had
+invoked IEEPA, they mostly did so “to freeze assets,
+block financial transfers, place embargoes, or impose
+targeted sanctions,” not to impose tariffs. Id. at 36a.
+The court distinguished the tariffs imposed by Presi-
+dent Nixon under TWEA as “ ‘limited’ ” in “time, scope,
+and amount.” Id. at 40a (brackets and citation omitted).
+ii. Judge Cunningham, joined by Judges Lourie,
+Reyna, and Stark, filed an opinion expressing additional
+20
+views. Pet. App. 47a-62a. In her view, IEEPA does not
+authorize any tariffs, and a contrary interpretation
+would violate the nondelegation doctrine. Ibid.
+iii. Judge Taranto, joined by Chief Judge Moore and
+Judges Prost and Chen, dissented. Pet. App. 63a-136a.
+He explained that the plain meaning of “regulate impor-
+tation” encompasses tariffs, and that the omission of
+“additional limits” reflects that “IEEPA embodies an
+eyes-open congressional grant of broad emergency au-
+thority in this foreign-affairs realm, which unsurpris-
+ingly extends beyond authorities available under non-
+emergency laws.” Id. at 66a; see id. at 93a-113a, 121a-
+123a. Judge Taranto also rebutted the CIT’s different
+rationales. See id. at 113a-121a, 124a-136a.
+SUMMARY OF ARGUMENT
+I. A. By authorizing the President to “regulate im-
+portation,” IEEPA plainly authorizes the President to
+impose tariffs, which are a traditional and commonplace
+way to regulate imports. This Court has long recog-
+nized that regulating trade includes imposing taxes or
+tariffs. President Nixon imposed tariffs that were up-
+held under identical language in IEEPA’s predecessor
+statute, which the Court has recognized authorized “es-
+sentially the same” actions as IEEPA. That IEEPA
+does not use the word “tariff ” is immaterial; this Court
+has repeatedly rejected such magic-words require-
+ments. Indeed, the Court has held that a statute au-
+thorizing the President to “adjust imports” includes tar-
+iffs, making this an easier case.
+B. Plaintiffs argue that even if IEEPA authorizes
+tariffs, it does not authorize “unlimited” tariffs. But
+neither plaintiffs nor the Federal Circuit, which en-
+dorsed this position, identify what limited tariffs are ac-
+ceptable, or how to tell. They also overlook the limits
+21
+that Congress fashioned in IEEPA itself, including the
+time limit on emergencies, the enumerated list of excep-
+tions, and congressional oversight. The Federal Circuit
+relied on the major-questions doctrine in interpreting
+IEEPA to allow some tariffs but not these ones. But
+that doctrine is an aid to interpret ambiguous statutory
+terms, not a license to impose atextual limits based on
+judges’ policy views of which tariffs go too far. The
+Court also has never applied the doctrine in the foreign-
+affairs context, where Congress presumptively does
+grant the President broad powers to supplement his Ar-
+ticle II authority. The major-questions doctrine has
+particularly little force when, as here, the statutory del-
+egation is to the President directly, concerns emergen-
+cies, and copies language from a predecessor statute
+that was held to authorize the challenged action.
+C. No alternative rationales justify invalidating
+these tariffs. The CIT deemed the trade tariffs invalid
+because they did not satisfy the requirements for tariffs
+imposed under Section 122 of the Trade Act of 1974,
+which imposes 15-percent and 150-day limits on non-
+emergency tariffs to address balance-of-payments defi-
+cits. But IEEPA and Section 122 are complementary
+statutes with different requirements and limitations,
+and each should be given full effect in its own domain.
+The CIT deemed the trafficking tariffs invalid because
+collecting duties on lawful goods does not directly “deal
+with” drug traffickers. But the tariffs “deal with” the
+declared national emergencies because that phrase is
+broad enough to encompass actions that serve as lever-
+age. And the President’s determinations that the goods
+trade deficits and contraband trafficking are emergen-
+cies resulting from unusual or extraordinary threats are
+essentially judicially unreviewable. IEEPA instead im-
+22
+poses comprehensive procedures to ensure that Con-
+gress periodically reviews the basis for those emergen-
+cies and whether to terminate them.
+II. Plaintiffs alternatively contend that if IEEPA
+authorizes tariffs, that authority would violate the non-
+delegation doctrine, which prohibits Congress from del-
+egating legislative power outside the legislative branch.
+See FCC v. Consumers’ Research, 145 S. Ct. 2482, 2496-
+2497 (2025). That doctrine has little or no force in the
+foreign-affairs context, where the President enjoys in-
+herent Article II authority and Congress “must of ne-
+cessity paint with” a “broader” brush. Zemel v. Rusk,
+381 U.S. 1, 17 (1965). Delegating supplemental powers
+to the primary actor in the foreign-affairs arena does
+not trigger any of the concerns underlying the nondele-
+gation doctrine in the domestic context. Thus, this
+Court has repeatedly rejected constitutional challenges
+to broad congressional delegations to the President to
+regulate international trade, including through tariffs.
+And even if the domestic version of the nondelegation
+doctrine applied, IEEPA would satisfy it. IEEPA pre-
+scribes both a general policy (to deal with certain for-
+eign threats that constitute an emergency) and suffi-
+ciently clear boundaries for the President to exercise
+IEEPA powers (including default time limits on emer-
+gencies, enumerated exceptions to IEEPA’s authoriza-
+tions, and detailed congressional reporting require-
+ments).
+III. The Learning Resources district court lacked
+jurisdiction. The CIT has exclusive jurisdiction over
+“any civil action” against the government that “arises
+out of any law” providing for tariffs or their administra-
+tion and enforcement, 28 U.S.C. 1581(i)(1). Presidential
+“modification[s]” to the Harmonized Tariff Schedule
+23
+qualify as such “law[s],” 19 U.S.C. 3004(c)(1)(C). And
+plaintiffs’ claims “arise[] out of ” those modifications;
+they seek to declare the modifications unlawful, enjoin
+their enforcement, and set them aside.
+ARGUMENT
+IEEPA’s authorization to “regulate importation” of
+foreign goods clearly encompasses the authority to im-
+pose tariffs—a traditional and commonplace means of
+“regulating” imports since the Founding. As Judge Ta-
+ranto explained, “IEEPA embodies an eyes-open con-
+gressional grant of broad emergency authority in this
+foreign-affairs realm,” Pet. App. 66a, and this Court has
+long upheld delegations to the President to regulate in-
+ternational trade through tariffs. Plaintiffs’ motte-and-
+bailey retreat to the position that IEEPA might author-
+ize some tariffs, just not these ones, is textually incoher-
+ent and would simply invite judges to impose their own
+policy preferences as to which IEEPA tariffs go too far.
+Plaintiffs accuse the government’s position of lacking
+limiting principles, but IEEPA itself imposes limits on
+the President’s authority to impose tariffs, including a
+default one-year limit on emergencies, an enumerated
+list of exceptions to the authority to regulate, and com-
+prehensive reporting requirements. Congress thus
+gave itself, not federal courts, primary oversight over
+the President’s exercise of IEEPA powers.
+I. IEEPA AUTHORIZES THE CHALLENGED TARIFFS
+A. Authority to “Regulate Importation” Includes Tariffs
+1. IEEPA’s plain text authorizes the President to
+impose the challenged tariffs. Under IEEPA, “[a]t the
+times and to the extent specified in section 1701,” the
+President may “regulate * * * importation” of “any
+property in which any foreign country or a national
+24
+thereof has any interest by any person, or with respect
+to any property, subject to the jurisdiction of the United
+States.” 50 U.S.C. 1702(a)(1)(B). The power to “regu-
+late importation” plainly encompasses the power to im-
+pose tariffs. “Regulate” is a broad term that encom-
+passes monetary exactions. When paired with “impor-
+tation,” the resulting phrase unambiguously encom-
+passes tariffs.
+The ordinary meaning of “regulate” is to “fix, estab-
+lish or control; to adjust by rule, method, or established
+mode; to direct by rule or restriction; to subject to gov-
+erning principles or laws.” Black’s Law Dictionary
+1156 (5th ed. 1979); see The American Heritage Dic-
+tionary of the English Language 1096 (1969) (Ameri-
+can Heritage) (“[t]o control or direct according to a
+rule”; “[t]o adjust in conformity to a specification or re-
+quirement”). In the context of commerce or trade, that
+self-evidently encompasses the imposition of monetary
+exactions, such as taxes or tariffs, to adjust or control
+the trade. “The laying of a duty on imports, although
+an exercise of the taxing power, is also an exercise of
+the power to regulate foreign commerce.” McGoldrick
+v. Gulf Oil Corp., 309 U.S. 414, 428 (1940).
+That “regulation” of commerce or trade includes tar-
+iffs has been understood since the Founding. As Chief
+Justice Marshall observed, the “right to regulate com-
+merce, even by the imposition of duties, was not contro-
+verted.” Gibbons v. Ogden, 9 Wheat. 1, 202 (1824). Jus-
+tice Story likewise explained that “[n]o one can doubt or
+deny, that a power to regulate trade involves a power to
+tax it,” and that “the power to regulate commerce in-
+cludes the power of laying duties to countervail the reg-
+ulations and restrictions of foreign nations.” 2 Joseph
+Story, Commentaries on the Constitution of the United
+25
+States §§ 1076, 1083, at 523, 530 (1833) (Story). James
+Madison, too, rejected the argument “that a power to
+regulate trade does not involve a power to tax it.”
+Letter from James Madison to Joseph C. Cabell, Sept.
+18, 1828 (Madison), Library of Congress, www.loc.gov/
+resource/mjm.22_0553_0561.
+When “regulate” is paired with “importation,” the
+resulting phrase even more clearly encompasses tariffs.
+Tariffs historically have been one of the most common
+ways to “regulate importation.” See pp. 12-13, supra.
+To “lay duties” is “a common means of executing the
+power” to “regulate commerce.” Story § 1084, at 531;
+see § 1076, at 523-524 (“a familiar mode” and “no nov-
+elty”); Board of Trustees v. United States, 289 U.S. 48,
+58 (1933) (same); cf. Free Speech Coalition, Inc. v. Pax-
+ton, 145 S. Ct. 2291, 2307 (2025) (authorization to gov-
+ernment to prohibit certain items “permits [the govern-
+ment] to employ the ordinary and appropriate means of
+enforcing such a prohibition”).
+Context reinforces that “regulate importation” is a
+broad grant of authority. “Regulate” appears amid a
+list of nine intentionally capacious verbs, including
+“block,” “nullify,” “void,” “prevent,” and “prohibit,” 50
+U.S.C. 1702(a)(1)(B)—so it would be particularly anom-
+alous to read “regulate importation” as excluding the
+“less extreme, more flexible tool for pursuing the same
+objective.” Pet. App. 97a (Taranto, J., dissenting). And
+IEEPA expressly carves out authority to “regulate or
+prohibit, directly or indirectly,” an enumerated list of
+items, 50 U.S.C. 1702(b), demonstrating both that the
+original grant of authority is broad enough to include
+indirect methods, and that “regulate [and] prohibit” are
+metonymic stand-ins for that broad and overlapping
+panoply of authorities.
+26
+IEEPA’s history confirms that it encompasses tar-
+iffs. Shortly before IEEPA’s enactment, President
+Nixon imposed tariffs that the Federal Circuit’s prede-
+cessor upheld under the TWEA provision authorizing
+the President to “regulate importation.” United States
+v. Yoshida International, Inc., 526 F.2d 560 (C.C.P.A.
+1975). This Court has recognized that IEEPA’s lan-
+guage was “directly drawn” from TWEA, Dames &
+Moore v. Regan, 453 U.S. 654, 671 (1981), and that the
+“authorities granted to the President” under IEEPA
+“are essentially the same as those” under TWEA, Re-
+gan v. Wald, 468 U.S. 222, 228 (1984); see id. at 228 n.8
+(listing differences, all immaterial here). “[W]hen Con-
+gress ‘adopts the language used in an earlier act,’
+[courts] presume that Congress ‘adopted also the con-
+struction given’ ” to that language. Georgia v. Public.-
+Resource.Org, 590 U.S. 255, 270 (2020) (brackets and ci-
+tation omitted). Congress indisputably knew of the
+“construction given” to TWEA. See IEEPA House Re-
+port 5 (citing Yoshida’s interpretation of TWEA as au-
+thorizing the “imposition of duties”).
+The lower courts brushed away that history by char-
+acterizing the Nixon tariffs as more “ ‘limited’ ” in “time,
+scope, and amount.” Pet. App. 40a (citation omitted);
+see 24-1287 Pet. App. 35a. But as Judge Taranto ex-
+plained, those supposed limits did not actually exist.
+Pet. App. 104a-109a. The NEA and IEEPA contain
+their own limits—such as the default one-year time limit
+on emergencies, an enumerated list of exceptions, and
+congressional reporting requirements, see 50 U.S.C.
+1622, 1641, 1702, 1703—that differ from those under
+TWEA. The courts did not claim that the tariffs here
+violate any of those unique constraints. And in any
+event, “[i]t is the obvious role of emergency laws to con-
+27
+fer authority that Congress has not conferred in non-
+emergency laws.” Pet. App. 109a (Taranto, J., dissent-
+ing).
+2. The Learning Resources court’s contrary view
+(24-1287 Pet. App. 18a-37a) that IEEPA does not au-
+thorize any tariffs at all is textually and contextually un-
+tenable. The Federal Circuit disclaimed holding that
+IEEPA does not “authorize[] any tariffs at all,” even as
+some of its reasoning suggested otherwise. Pet. App.
+25a; see id. at 25a-33a. Both courts’ reasoning lacks
+merit.
+a. The lower courts primarily emphasized that
+IEEPA “d[oes] not use the term ‘tariff ’ or any of its
+synonyms, like ‘duty’ or ‘tax.’ ” Pet. App. 27a; see 24-
+1287 Pet. App. 21a-22a. But this Court has repeatedly
+rejected such “magic words” requirements in a variety
+of statutory contexts. E.g., Soto v. United States, 605
+U.S. 360, 371 (2025); FAA v. Cooper, 566 U.S. 284, 291
+(2012). The lower courts also asserted that “whenever
+Congress intends to delegate to the President the au-
+thority to impose tariffs, it does so explicitly.” Pet. App.
+30a; see 24-1287 Pet. App. 24a-25a. Again, “even if Con-
+gress ‘typically’ confers the authority to” take certain
+actions using a particular term, “that standard practice
+does not bind legislators to specific words or formula-
+tions.” Soto, 605 U.S. at 371 (citation omitted).
+In any event, the lower courts mischaracterized Con-
+gress’s practice. In FEA v. Algonquin SNG, Inc., 425
+U.S. 548 (1976), this Court addressed a statutory provi-
+sion authorizing the President “to adjust the imports”
+of a product—without mentioning “tariffs” or “duties”
+in that provision. Id. at 555 (citation omitted). None-
+theless, the Court held, that phrase encompassed not
+just “quantitative methods—i.e., quotas” to prescribe
+28
+import quantities, but also “monetary methods—i.e., li-
+cense fees” for “effecting such adjustments.” Id. at 561.
+Like the license fees in Algonquin (imposed per barrel
+of oil there), a tariff also is a “monetary method” (im-
+posed ad valorem). Cf. id. at 553. And because “regu-
+late importation” is broader than “adjust imports,” the
+authority to impose tariffs under IEEPA follows a for-
+tiori from this Court’s decision in Algonquin.
+The Federal Circuit attempted to distinguish Algon-
+quin by noting that a neighboring provision in the stat-
+ute at issue used the term “duty.” Pet. App. 29a-30a.
+But Algonquin did not rely on that neighboring provi-
+sion; it simply analyzed the text, context, and history of
+the “adjust the imports” provision. See 426 U.S. at 561-
+562. Further, Algonquin rejected the argument that
+“reading the statute to authorize the action taken by the
+President ‘would be an anomalous departure’ from ‘the
+consistently explicit, well-defined manner in which Con-
+gress has delegated control over foreign trade and tar-
+iffs.’ ” Id. at 557 (citation omitted). This Court thus has
+already rejected the very reasoning that the lower courts
+embraced here.
+b. The lower courts erred (Pet. App. 34a; 24-1287
+Pet. App. 24a) in relying on the associated-words canon
+to conclude that because the other verbs in the opera-
+tive IEEPA provision do not encompass tariffs, “regu-
+late” must be read to exclude tariffs. Under that canon,
+when words in a list “have something in common, they
+should be assigned a permissible meaning that makes
+them similar.” Scalia & Garner, Reading Law 195 (2012).
+Critically, the “common quality suggested by a listing
+should be its most general quality—the least common
+denominator, so to speak—relevant to the context.” Id.
+at 196 (emphasis added).
+29
+The most general quality of IEEPA’s capacious string
+of verbs—“investigate, block * * * , regulate, direct and
+compel, nullify, void, prevent or prohibit”—is that they
+are means to control an equally capacious string of
+property transactions (“acquisition, holding,” etc.). 50
+U.S.C. 1702(a)(1)(B). None of those verbs details the
+specific mechanism of control; a regulation or prohibi-
+tion, for instance, could be an asset freeze, an embargo,
+a quota, or any number of other means of control. In
+the context of “importation,” tariffs easily qualify as one
+such means. The lower courts’ myopic focus on whether
+the other verbs specifically encompass tariffs violates
+the least-common-denominator requirement and, if
+taken seriously, would strip “regulate” of nearly all ef-
+fect. The better contextual reading is that IEEPA co-
+vers the waterfront: from “compel” to “prohibit” and
+everything in between (“regulate”)—the common quality
+being their breadth.
+c. The lower courts observed (Pet. App. 31a; 24-1287
+Pet. App. 22a) that Congress’s constitutional power to
+“regulate” interstate and foreign commerce and to im-
+pose “Taxes” and “Duties” are in separate clauses of Ar-
+ticle I, Section 8, and thus concluded that “regulate” and
+“duties” are mutually exclusive concepts. That is incor-
+rect. The plain meaning of “regulation” includes the
+imposition of taxes or duties, as the Framers uniformly
+recognized. See Gibbons, 9 Wheat. at 202; Story
+§§ 1076-1083, at 523-530; Madison, supra. That the
+Constitution grants the federal government an addi-
+tional, broader power to tax non-commercial and do-
+mestic activity does not constrict the power to (or mean-
+ing of ) regulate. “[T]he taxing power is a distinct power
+and embraces the power to lay duties, [but] it does not
+follow that duties may not be imposed in the exercise of
+30
+the power to regulate commerce.” Board of Trustees,
+289 U.S. at 58. The lower courts’ contrary reasoning
+conflicts with the longstanding “rule of interpretation of
+the constitution * * * that the natural import of a single
+clause is not to be narrowed, so as to exclude implied
+powers resulting from its character, simply because
+there is another clause, which enumerates certain pow-
+ers, which might otherwise be deemed implied powers
+within its scope.” 1 Story § 449, at 435.
+d. The Learning Resources district court reasoned
+(24-1287 Pet. App. 30a) that “regulate importation” can-
+not include duties because IEEPA also authorizes the
+President to “regulate * * * exportation,” 50 U.S.C.
+1702(a)(1)(B), and imposing duties on exports would be
+unconstitutional. That reasoning lacks merit. For one
+thing, the premise is incorrect: the Constitution states
+that “[n]o Tax or Duty shall be laid on Articles exported
+from any State,” U.S. Const. Art. I, § 9, Cl. 5—and thus
+permits duties on exports from the territories or the
+District of Columbia. More fundamentally, “regulate
+importation” can include duties whether or not “regu-
+late exportation” does. That does not render the statute
+a “chameleon,” Clark v. Martinez, 543 U.S. 371, 382
+(2005); it simply means that “regulate” carries its ordi-
+nary (fixed) meaning, whose broad contours are contex-
+tually shaped by the object of the regulation.
+Even if “regulate exportation” were best read to in-
+clude tariffs, it would not justify an artificially narrow
+reading of “regulate importation.” Where, as here, a
+broad statute contains a long list of verbs and a long list
+of permissible objects of those verbs, the various terms
+should be given their ordinary meanings with the un-
+derstanding that certain permutations might be ex-
+cluded or unenforceable as applied. Cf. Department of
+31
+Agriculture Rural Development Rural Housing Ser-
+vice v. Kirtz, 601 U.S. 42, 61 (2024) (statutory term
+“means what the [statute] says it means, even if ” some
+permutations might implicate “a valid constitutional de-
+fense”). As the Court explained in an analogous con-
+text, that is “the linguistic price paid for having a single
+statutory provision that covers” “many different kinds”
+of actions, and “the law does not require legislators to
+write extra language specifically exempting, phrase by
+phrase, applications in respect to which a portion of a
+phrase is not needed.” Robers v. United States, 572
+U.S. 639, 643-644 (2014). For example, there may well
+be particular exercises of IEEPA that implicate other
+constitutional provisions, such as the Takings Clause or
+the First Amendment. That would not justify unduly
+narrow readings of the statutory terms, which would
+rob IEEPA of its intended breadth.
+e. The lower courts thought that interpreting “reg-
+ulate importation” to include tariffs “would mean, for
+example, that Congress delegated to the SEC power to
+tax substantial swaths of the American economy by
+granting the SEC the authority to regulate various ac-
+tivities,” Pet. App. 32a, or that EPA’s authority to
+“ ‘promulgate regulations establishing emissions stand-
+ards’ ” would allow it “to raise revenue by imposing fees,
+tariffs, or taxes,” 24-1287 Pet. App. 28a-29a (citation
+omitted). That misconstrues the government’s argu-
+ment: when the broad term “regulate” is paired with
+“importation” in a foreign-affairs delegation to the
+President, the resulting phrase is best read to include
+the power to impose tariffs because that is a traditional
+and commonplace way to regulate importation. The
+grant of authority to SEC to “regulate the trading” of
+certain securities consistent with its mission to protect
+32
+investors and maintain fair, orderly, and efficient mar-
+kets, 15 U.S.C. 78i(h)(1) and (2), or to EPA to regulate
+emissions standards consistent with its mission to pro-
+tect human health and the environment, 42 U.S.C.
+7412(d), does not naturally carry the same inference or
+have the same pedigree.
+B. The Major-Questions Doctrine Does Not Support Read-
+ing IEEPA to Prohibit Some Tariffs But Not Others
+Despite expressing skepticism that IEEPA author-
+izes tariffs, the Federal Circuit ultimately declined to
+hold so broadly. See Pet. App. 25a. Instead, the court
+contemplated that IEEPA might authorize some tariffs,
+just not “tariffs of the magnitude” of the tariffs chal-
+lenged here. Id. at 38a; see id. at 34a-39a. That echoes
+plaintiffs’ fallback claim that even if IEEPA authorizes
+tariffs, it does not authorize “unlimited” or “unbounded”
+tariffs.
+That claim attacks a strawman. IEEPA and the
+NEA itself impose limits, including a default one-year
+limit on emergencies, 50 U.S.C. 1622(d); an enumerated
+list of exceptions, 50 U.S.C. 1702(b)(1)-(4); and a slew of
+procedural and reporting requirements that allow Con-
+gress to oversee and override the President’s determi-
+nations, 50 U.S.C. 1622(a)-(c), 1631, 1641, 1703. Those
+limits are not toothless: courts have found exercises of
+IEEPA authority to violate the exceptions, e.g., Mar-
+land v. Trump, 498 F. Supp. 3d 624, 636-641 (E.D. Pa.
+2020), and Congress recently exercised its powers to
+terminate a national emergency, see Act of Apr. 10,
+2023, Pub. L. No. 118-3, 137 Stat. 6. Neither the lower
+courts nor plaintiffs have explained what additional
+atextual limits might apply, or from where those limits
+would be derived (if not from IEEPA’s text).
+33
+The Federal Circuit grounded its holding that these
+tariffs go too far on the major-questions doctrine, under
+which, “in certain extraordinary cases, both separation
+of powers principles and a practical understanding of
+legislative intent make [courts] ‘reluctant to read into
+ambiguous statutory text’ the delegation claimed to be
+lurking there.” West Virginia v. EPA, 597 U.S. 697, 723
+(2022) (citation omitted). The court’s reliance on that
+doctrine was misplaced for several interrelated reasons.
+1. This Court has applied the major-questions doc-
+trine only as a guide to interpreting “ambiguous” statu-
+tory terms. West Virginia, 597 U.S. at 723 (citation
+omitted); Alabama Association of Realtors v. Depart-
+ment of Health & Human Services, 594 U.S. 758, 764
+(2021) (per curiam); Utility Air Regulatory Group v.
+EPA, 573 U.S. 302, 324 (2014). Here, the phrase “regu-
+late importation” unambiguously includes tariffs. See
+Part I.A, supra.
+The Federal Circuit’s textually incoherent holding—
+that “regulate importation” authorizes the imposition of
+some tariffs, but not others, depending on their dura-
+tion, amount, or scope—invites judges to gauge the le-
+gality of tariffs based on their own policy views of how
+long is too long, how much is too much, or how many
+countries are too many. That holding improperly twists
+the major-questions doctrine from one that restores
+power from unelected agencies to Congress, see Biden
+v. Nebraska, 600 U.S. 477, 503 (2023), into one that
+transfers power to an unelected judiciary.
+This Court has not applied the major-questions doc-
+trine in a way that would permit such judicial policy-
+making through the imposition of atextual limits. In-
+stead, the doctrine asks whether an ambiguous statu-
+tory term encompasses a particular exercise of author-
+34
+ity, full stop—for instance, whether “drug delivery de-
+vices” in the Food, Drug, and Cosmetic Act includes cig-
+arettes; whether “air pollutant” in a particular provision
+of the Clean Air Act includes greenhouse gases; or
+whether authority in a public-health statute “to prevent
+the * * * spread of communicable diseases” includes
+prohibiting landlords from evicting tenants. See FDA
+v. Brown & Williamson Tobacco Corp., 529 U.S. 120,
+159-161 (2000); Utility Air, 573 U.S. at 324; Alabama
+Realtors, 594 U.S. at 764. The Court did not suggest
+that FDA could regulate some cigarettes but not others,
+that EPA could regulate some greenhouse gases but not
+others, or that CDC could prohibit some evictions but
+not others. Nor did the Court suggest that those agen-
+cies could regulate those things as long as the regula-
+tions did not go too far, or last too long. That would be
+illogical and inconsistent with the description of the
+major-questions doctrine as an “interpretive tool.” Ne-
+braska, 600 U.S. at 511 (Barrett, J., concurring).
+The phrase “regulate importation” either includes
+the authority to impose tariffs or it does not; and if it
+does, any limits must be found in IEEPA’s text—which
+does contain limits, e.g., 50 U.S.C. 1701, 1702(b), 1703—
+and not simply created by judges under the aegis of the
+major-questions doctrine.
+2. Independently, “the major questions canon has
+not been applied by this Court in the national security
+or foreign policy contexts, because the canon does not
+reflect ordinary congressional intent in those areas.”
+FCC v. Consumers’ Research, 145 S. Ct. 2482, 2516 (2025)
+(Kavanaugh, J., concurring). In those areas, Congress
+and the President enjoy concurrent constitutional au-
+thority, so the presumption flips: “Congress specifies
+limits on the President when it wants to restrict Presi-
+35
+dential power.” Ibid. Foreign policy and national secu-
+rity also are uniquely within the President’s expertise.
+Cf. Department of the Navy v. Egan, 484 U.S. 518, 529-
+530 (1988). When Congress authorizes the President to
+impose tariffs (as multiple overlapping statutes, includ-
+ing IEEPA, do), that should eliminate doubts about the
+President’s authority, not create them. Cf. Youngstown
+Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 635-637 (1952)
+(Jackson, J., concurring).
+That IEEPA addresses foreign-policy emergencies
+—the most major of major questions—underscores why
+“ ‘common sense as to the manner in which Congress
+would have been likely to delegate’ such power” to the
+President, West Virginia, 597 U.S. at 722-723 (brackets
+and citation omitted), counsels a broad reading of the
+statutory delegation. “Congress can hardly have been
+expected to anticipate in any detail” the “nature of ” or
+requisite “responses to” the sorts of “international cri-
+ses” that IEEPA covers. Dames & Moore v. Regan, 453
+U.S. 654, 669 (1981). As Judge Taranto explained,
+“IEEPA embodies an eyes-open congressional grant of
+broad emergency authority in this foreign-affairs realm,
+which unsurprisingly extends beyond authorities avail-
+able under non-emergency laws.” Pet. App. 66a.
+Accordingly, there is no “ ‘mismatch[]’ ” between the
+breadth of the asserted power and the “narrow[ness]”
+of the statute. Nebraska, 600 U.S. at 517 (Barrett, J.,
+concurring) (citation omitted). IEEPA is the opposite
+of “narrow.” IEEPA addresses national emergencies (the
+most important of circumstances) and authorizes the
+President (the most important person in government—
+and uniquely situated to react quickly) to respond to
+those emergencies. IEEPA, in short, is all about major
+questions, and the more natural presumption is that
+36
+Congress intends broad language conferring emer-
+gency powers to be construed broadly, not narrowly.
+Indeed, IEEPA authorizes the President to “prohibit”
+importation altogether, so it would make little sense to
+apply the major-questions doctrine to curtail the more
+modest authority to “regulate” importation.
+3. Further, the major-questions doctrine provides
+no basis to artificially narrow IEEPA’s text because
+that doctrine addresses the “particular and recurring
+problem” of “agencies asserting highly consequential
+power beyond what Congress could reasonably be un-
+derstood to have granted.” West Virginia, 597 U.S. at
+724 (emphasis added). Those concerns dissipate where,
+as here, Congress delegates authority directly to the
+President—“the most democratic and politically ac-
+countable official in Government,” Seila Law LLC v.
+CFPB, 591 U.S. 197, 224 (2020). Congress is far more
+likely to grant “consequential power” to the President
+than it is to grant such power to an agency as a matter
+of course.
+Relatedly, the major-questions doctrine counsels
+“skepticism” where “an agency claims to discover in a
+long-extant statute an unheralded power to regulate ‘a
+significant portion of the American economy.’ ” Utility
+Air, 573 U.S. at 324 (citation omitted). Presidential au-
+thority to impose tariffs is hardly “unheralded”: Con-
+gress has long granted Presidents capacious authority
+over tariffs and international trade, and President
+Nixon’s tariffs in particular were upheld under IEEPA’s
+predecessor. IEEPA also has long been understood to
+authorize similar exercises of emergency authority,
+such as “to require American oil companies and entities
+they control to sell any oil they acquire or can acquire
+abroad * * * and to sell it only to nations specified by
+37
+the President and in quantities the President specifies.”
+Diverting Oil Imports to United States Allies, 4A OLC
+Op. 295, 295 (1981). As Algonquin long ago recognized,
+there is no substantive difference between directly
+specifying the quantities of a foreign product to be sold
+and exploiting price-demand curves (via tariffs) to
+achieve the same end.
+Nor is IEEPA some “little-used backwater” of a
+statute. West Virginia, 597 U.S. at 730. “IEEPA is the
+most frequently cited emergency authority when the
+President declares a national emergency”; as of Janu-
+ary 2024, “Presidents ha[d] issued roughly 4.5 executive
+orders citing IEEPA” each year since 1990. Casey &
+Elsea, Congressional Research Service, R45618, The
+International Emergency Economic Powers Act: Ori-
+gins, Evolution, and Use 16-17 (Jan. 30, 2024). Presi-
+dents have invoked IEEPA to deal with emergencies
+ranging from the Iranian hostage crisis to the 9/11 at-
+tacks to the Sierra Leone diamond trade to bulk-power
+system electric equipment. See Executive Order No.
+12,170, 44 Fed. Reg. 65,729 (Nov. 15, 1979); Executive
+Order No. 13,224, 66 Fed. Reg. 49,079 (Sept. 25, 2001);
+Executive Order No. 13,194, 66 Fed. Reg. 7389 (Jan. 23,
+2001); Executive Order No. 13,920, 85 Fed. Reg. 26,595
+(May 4, 2020). IEEPA is thus an oft-tapped wellspring,
+not a little-used backwater.
+C. Alternative Arguments For Affirmance Lack Merit
+1. Section 122 of the Trade Act of 1974 does not displace
+IEEPA
+The CIT incorrectly concluded that the trade tariffs
+addressing goods trade deficits are unlawful because
+they do not satisfy the limits in Section 122 of the Trade
+Act of 1974, 19 U.S.C. 2132. Section 122 provides that
+38
+whenever “fundamental international payments prob-
+lems require special import measures to restrict im-
+ports,” including “to deal with large and serious United
+States balance-of-payments deficits,” “the President
+shall proclaim, for a period not exceeding 150 days,” “a
+temporary import surcharge, not to exceed 15 percent
+ad valorem, in the form of duties (in addition to those
+already imposed, if any) on articles imported into the
+United States.” 19 U.S.C. 2132(a). The CIT held that
+even if IEEPA’s text authorizes tariffs to address bal-
+ance-of-payments problems, those tariffs must never-
+theless satisfy the 150-day and 15-percent limitations
+because Section 122 “removes the President’s power to
+impose remedies” that IEEPA otherwise authorizes as
+to balance-of-payments imbalances. Pet. App. 178a; see
+id. at 177a-181a.
+That holding is incorrect. Section 122 and IEEPA
+each provides an independent source of authority; the
+President’s choice to exercise his authority under one
+does not compel him to comply with the terms of the
+other. Although both Section 122 and IEEPA address
+tariffs, courts “approach federal statutes touching on
+the same topic with a ‘strong presumption’ they can co-
+exist harmoniously. Only by carrying a ‘heavy burden’
+can a party convince us that one statute ‘displaces’ a
+second.” Kirtz, 601 U.S. at 63 (citation omitted). Here,
+the two statutes are “merely complementary.” Ibid.
+Section 122 is available to address balance-of-payments
+deficits whether or not they rise to the level of a de-
+clared emergency. IEEPA is available to address
+emergencies whether or not they involve balance-of-
+payments deficits. That Section 122 contains scope and
+duration limits that IEEPA omits is hardly surprising
+given that Congress naturally gave the President
+39
+broader leeway in the narrower circumstance of an
+emergency covered by IEEPA. See Pet. App. 113a-
+121a (Taranto, J., dissenting).
+For similar reasons, the CIT’s reasoning cannot be
+defended under the canon that “the specific governs the
+general.” RadLAX Gateway Hotel, LLC v. Amalga-
+mated Bank, 566 U.S. 639, 645 (2012) (citation omitted).
+Neither Section 122 nor IEEPA can be deemed the
+more “specific” statute because each applies to different
+circumstances (only some of which overlap). The two
+statutes thus “are complementary and have separate
+scopes and purposes,” and there is no “difficulty in fully
+enforcing each statute according to its terms.” POM
+Wonderful LLC v. Coca-Cola Co., 573 U.S. 102, 118
+(2014). That is especially true given the vast array of
+statutes that authorize tariffs, see p. 13, supra, which
+Congress plainly intended to operate in parallel with
+full force. For example, if a balance-of-payments deficit
+is the product of discriminatory trade practices, the
+President may impose tariffs under either Section 122
+or Section 338 of the Tariff Act of 1930 (19 U.S.C.
+1338)—or both. It would make little sense to apply the
+general/specific canon to artificially limit the scope of
+either statute. The same goes for IEEPA.
+2. The trafficking tariffs “deal with” the national
+emergencies
+The CIT held that IEEPA does not authorize the
+trafficking tariffs because the phrase “deal with” in
+IEEPA requires “a direct link between an act and the
+problem it purports to address,” and precludes actions
+that merely “aim to create leverage to ‘deal with’ th[e
+stated] objectives.” Pet. App. 191a-192a; see id. at 190a-
+196a. But the intransitive verb “deal,” when paired with
+“with,” is a broad term that simply means “[t]o be occu-
+40
+pied or concerned,” “[t]o behave in a specified way to-
+ward another,” or “[t]o take action.” American Herit-
+age 339; cf. Public Citizen v. FMCSA, 374 F.3d 1209,
+1221 (D.C. Cir. 2004) (“ ‘Deal with,’ in the sense meant
+here, means ‘to take action with regard to someone or
+something.’ ”) (brackets and citation omitted).
+Nothing in that broad definition supports the CIT’s
+proposition that one can “deal with” a problem only di-
+rectly, not indirectly through leverage. See Pet. App.
+134a-136a (Taranto, J., dissenting). History is littered
+with counterexamples, including this Court’s recogni-
+tion that IEEPA permits using property to “serve as a
+‘bargaining chip’ to be used by the President when deal-
+ing with a hostile country.” Dames & Moore, 453 U.S.
+at 673. Plaintiffs assert (Oregon Cert. Resp. 8) that
+“[t]axing tomatoes does not ‘deal with’ fentanyl.” But
+imposing duties on Mexican tomatoes “deals with”
+Mexico’s failure to curtail fentanyl-smuggling in the
+same way that taking away the car keys “deals with” a
+teenager’s failure to do chores: It serves as leverage to
+incentivize a change in behavior.
+Besides, whether a given action in fact “deal[s] with”
+an identified threat or emergency in the areas of foreign
+affairs and national security is a question that resists
+meaningful judicial review because of its discretion-
+laden nature and the lack of judicially manageable stand-
+ards. See Webster v. Doe, 486 U.S. 592, 599-601 (1988).
+At a minimum, courts should give substantial deference
+to the President’s determinations. See Wald, 468 U.S.
+at 242 (“Matters relating ‘to the conduct of foreign re-
+lations * * * are so exclusively entrusted to the political
+branches of government as to be largely immune from
+judicial inquiry or interference.’ ”) (citation and ellipsis
+omitted); Haig v. Agee, 453 U.S. 280, 292 (1981) (“Mat-
+41
+ters intimately related to foreign policy and national se-
+curity are rarely proper subjects for judicial interven-
+tion.”).
+In another national-security and foreign-relations
+context, this Court stated that courts should not scruti-
+nize “ ‘[w]hether the President’s chosen method’ of ad-
+dressing perceived risks is justified from a policy per-
+spective.” Trump v. Hawaii, 585 U.S. 667, 686 (2018)
+(citation omitted). There, the President suspended the
+entry of aliens from certain countries not because each
+and every covered alien necessarily posed a threat, but
+in part as leverage to encourage those countries to im-
+prove their vetting and information sharing. The Court
+made clear that second-guessing that use of leverage
+would be “inconsistent with the broad statutory text
+and the deference traditionally accorded the President
+in this sphere.” Ibid. So too here.
+3. The President’s emergency and threat determina-
+tions should be upheld
+IEEPA’s authorities “may be exercised to deal with
+any unusual and extraordinary threat” originating
+overseas “if the President declares a national emer-
+gency with respect to such threat.” 50 U.S.C. 1701(a).
+Plaintiffs argued below that a “longstanding trade defi-
+cit is neither an ‘emergency’ nor ‘an unusual and ex-
+traordinary threat.’ ” CAFC Doc. 92, at 57 (July 8, 2025)
+(V.O.S. Selections C.A. Br.); see id. at 56-61; CAFC
+Doc. 100, at 41-45 (July 8, 2025) (Oregon C.A. Br.); DDC
+Doc. 9, at 43-46 (Apr. 24, 2025) (Learning Resources
+Mot. for Prelim. Inj.). No lower court accepted those
+arguments, and for good reason.
+Setting aside the compelling justifications for the
+emergency declarations reflected in the Executive Or-
+ders and the sworn statements of four Cabinet-level of-
+42
+ficials, the President’s determinations in this area are
+not amenable to judicial review. Judges lack the insti-
+tutional competence to determine when foreign affairs
+pose an unusual and extraordinary threat that requires
+an emergency response; that is a task for the political
+Branches. The NEA and IEEPA delegate to the Pres-
+ident the authority to declare and respond to emergen-
+cies, and “[h]ow the President chooses to exercise the
+discretion Congress has granted him is not a matter for
+our review.” Dalton v. Specter, 511 U.S. 462, 476 (1994).
+That both the NEA and IEEPA include various con-
+gressional reporting requirements underscores that
+Congress envisioned itself, not the courts, as the princi-
+pal monitor of the President’s exercise of authority.
+It is unclear how courts could meaningfully review
+an emergency declaration or determination of an unu-
+sual and extraordinary threat, given that Presidents are
+neither agencies nor required to provide detailed rea-
+sons for their decisions. Cf. Hawaii, 585 U.S. at 685-
+686; Franklin v. Massachusetts, 505 U.S. 788, 827
+(1992) (Scalia, J., concurring in part and in the judg-
+ment). Presidents often have made their determina-
+tions in a single sentence—including in the very first
+IEEPA action, undertaken in response to the Iranian
+hostage crisis of 1979, in which President Carter simply
+declared that “the situation in Iran constitutes an unu-
+sual and extraordinary threat.” 44 Fed. Reg. at 65,729;
+see Executive Power With Regard to the Libyan Situa-
+tion, 5 OLC Op. 432, 434 (1981) (“A presidential decla-
+ration of emergency under IEEPA can be short and to
+the point.”).
+Even if judicially manageable standards could be
+found, review of presidential determinations would have
+to be highly deferential. See Hawaii, 585 U.S. at 686;
+43
+Wald, 468 U.S. at 242; Agee, 453 U.S. at 292. The Pres-
+ident indisputably complied with the NEA’s procedural
+requirements in declaring the relevant emergencies
+here. See 50 U.S.C. 1621, 1622, 1631, 1641. And con-
+trary to plaintiffs’ assertions, nothing in the NEA or
+IEEPA precludes emergencies resulting from “long-
+standing” threats. The 1979 hostage-crisis emergency,
+for example, is still “ongoing.” Notice of Nov. 1, 2024,
+89 Fed. Reg. 87,761 (Nov. 4, 2024).
+Nor does IEEPA estop a President from responding
+to longstanding but theretofore unaddressed threats
+that eventually rise to the level of an emergency. Pres-
+idents have used IEEPA to respond to longstanding
+threats ranging from South Africa’s “policy and prac-
+tice of apartheid,” Executive Order No. 12,532, 50 Fed.
+Reg. 36,861 (Sept. 10, 1985), to global “human rights
+abuse and corruption” whose “prevalence and severity”
+had “reached such scope and gravity that they
+threaten[ed] the stability of international political and
+economic systems,” Executive Order No. 13,818, 82
+Fed. Reg. 60,839 (Dec. 26, 2017). Here, “President
+Trump and his senior economic advisors concluded that
+decades of cumulative, uncorrected trade imbalances
+had brought the United States to a ‘tipping point,’ i.e.,
+the brink of a major economic and national-security ca-
+tastrophe.” Mot. to Expedite 2a (Bessent). Those con-
+clusions warrant judicial respect, not second-guessing.
+II. IEEPA DOES NOT VIOLATE THE NONDELEGATION
+DOCTRINE
+IEEPA’s authorization of tariffs does not amount to
+“a functionally limitless delegation of Congressional
+taxation authority” in violation of the Constitution. Pet.
+App. 58a; see id. at 169a-172a.
+44
+A. “[I]n the national security and foreign policy
+realms, the nondelegation doctrine (whatever its scope
+with respect to domestic legislation) appropriately has
+played an even more limited role in light of the Presi-
+dent’s constitutional responsibilities and independent
+Article II authority.” Consumers Research, 145 S. Ct.
+at 2516 (Kavanaugh, J., concurring); see United States
+v. Curtiss-Wright Export Corp., 299 U.S. 304, 320 (1936)
+(greater delegation permissible in areas implicating
+“the very delicate, plenary and exclusive power of the
+President as the sole organ of the federal government
+in the field of international relations”).
+Constitutional “limitations” on Congress’s authority
+to delegate are thus “less stringent in cases where the
+entity exercising the delegated authority itself pos-
+sesses independent authority over the subject matter.”
+United States v. Mazurie, 419 U.S. 544, 556-557 (1975).
+Where the President possesses both his own inherent
+constitutional authority and a broad delegation of au-
+thority from Congress, “his authority is at its maximum,
+for it includes all that he possesses in his own right plus
+all that Congress can delegate,” and his actions are
+“supported by the strongest of presumptions and the
+widest latitude of judicial interpretation.” Youngstown,
+343 U.S. at 635-637 (Jackson, J., concurring). It follows
+that “Congress may assign the President broad author-
+ity regarding the conduct of foreign affairs or other
+matters where he enjoys his own inherent Article II
+powers.” Gundy v. United States, 588 U.S. 128, 170-171
+(2019) (Gorsuch, J., dissenting).
+Relevant here, Article II gives the President the
+“lead role in foreign policy.” American Insurance As-
+sociation v. Garamendi, 539 U.S. 396, 415 (2003) (cita-
+tions and ellipsis omitted). When Congress delegates
+45
+“authority over matters of foreign affairs,” therefore, it
+“must of necessity paint with a brush broader than that
+it customarily wields in domestic areas.” Zemel v.
+Rusk, 381 U.S. 1, 17 (1965).
+Accordingly, Congress may, without running afoul of
+the Constitution, “invest the President with large dis-
+cretion in matters arising out of the execution of stat-
+utes relating to trade and commerce with other na-
+tions.” Marshall Field & Co. v. Clark, 143 U.S. 649, 691
+(1892); see Department of Transportation v. Associa-
+tion of American Railroads, 575 U.S. 43, 80 n.5 (2015)
+(Thomas, J., concurring in the judgment) (discussing
+Marshall Field and finding it “likely the Constitution
+grants the President a greater measure of discretion in
+the realm of foreign relations”).
+This Court has thus long approved broad congres-
+sional delegations to the President to regulate interna-
+tional trade, including through tariffs. E.g., Algonquin,
+426 U.S. at 558-560; J.W. Hampton, Jr., & Co. v. United
+States, 276 U.S. 394, 406, 409 (1928); Marshall Field,
+143 U.S. at 680; Cargo of Brig Aurora v. United States,
+7 Cranch 382, 384-388 (1813); see p. 7, supra (describing
+the delegations). IEEPA resembles those statutes, and
+those precedents are sufficient to uphold the delegation
+of authority here.
+B. Even if the domestic version of the nondelegation
+doctrine were applicable, IEEPA would easily pass
+muster. Congress at most “commit[ted] something to
+the discretion” of the Executive, Wayman v. Southard,
+10 Wheat. 1, 46 (1825), which is permissible so long as
+Congress sets forth “an intelligible principle to which
+the person or body authorized to [act] is directed to con-
+form,” J.W. Hampton, 276 U.S. at 409. Congress must
+delineate both “ ‘the general policy’ ” and “ ‘the bounda-
+46
+ries of [the] delegated authority,’ ” so that “both ‘the
+courts and the public’ ” can “ ‘ascertain whether the [ex-
+ecutive]’ has followed the law.” Consumers’ Research,
+145 S. Ct. at 2497 (citations omitted).
+IEEPA satisfies those standards. It prescribes a
+general policy for Presidents to pursue: “to deal with
+any unusual and extraordinary [foreign] threat * * * to
+the national security, foreign policy, or economy of the
+United States” during a declared “national emergency”
+by “regulat[ing] * * * importation” of certain property,
+among other options. 50 U.S.C. 1701(a), 1702(a)(1)(B).
+IEEPA also erects sufficient boundaries, even if not
+in the form of numerical limits on rate or duration: the
+President may exercise his authorities only “to deal
+with an unusual and extraordinary threat with respect
+to which a national emergency has been declared,” and
+may not exercise those authorities to “regulate or pro-
+hibit, directly or indirectly,” an enumerated list of items,
+such as “informational materials.” 50 U.S.C. 1701(b),
+1702(b). In addition, national emergencies have a one-
+year time limit and other boundaries. 50 U.S.C. 1622.
+Congress itself extensively oversees the President’s ex-
+ercise of authority in this area. 50 U.S.C. 1622, 1641,
+1703.
+As noted, this Court has repeatedly upheld multiple
+statutes granting the President broad authority to set
+or change tariffs. See Algonquin, 426 U.S. at 558-560;
+J.W. Hampton, 276 U.S. at 409; Marshall Field, 143
+U.S. at 683-689. And lower courts have uniformly
+rejected nondelegation challenges to similar delega-
+tions of tariff authority, e.g., Yoshida, 526 F.2d at 580-
+581; PrimeSource Building Products, Inc. v. United
+States, 59 F.4th 1255, 1263 (Fed. Cir. 2023), cert. denied,
+144 S. Ct. 345 (2023), and 144 S. Ct. 561 (2024); and to
+47
+IEEPA in general, see United States v. Shih, 73 F.4th
+1077, 1092 (9th Cir. 2023) (collecting cases), cert. de-
+nied, 144 S. Ct. 820 (2024). The same result is war-
+ranted here.
+III. THE LEARNING RESOURCES DISTRICT COURT
+LACKED JURISDICTION
+As the en banc Federal Circuit and the CIT unani-
+mously and correctly concluded, the CIT had exclusive
+subject-matter jurisdiction over these suits. Pet. App.
+21a-25a, 65a, 159a-161a. The Learning Resources dis-
+trict court therefore did not. The CIT has “exclusive
+jurisdiction” over “any civil action commenced against”
+the government “that arises out of any law of the United
+States providing for * * * tariffs, duties, fees, or other
+taxes on the importation or merchandise for reasons
+other than the raising of revenue” or for “administra-
+tion and enforcement with respect to” such matters. 28
+U.S.C. 1581(i)(1)(B) and (D). And district courts lack
+jurisdiction over matters within the CIT’s exclusive ju-
+risdiction. 28 U.S.C. 1337(c); see K Mart Corp. v. Car-
+tier, Inc., 485 U.S. 176, 182-183 (1988).
+The executive orders implementing the challenged
+tariffs qualify as “law[s]” providing for “tariffs” or for
+“administration and enforcement with respect to” tar-
+iffs under Section 1581 because they modified the Har-
+monized Tariff Schedule, and “[e]ach modification or
+change made to the Harmonized Tariff Schedule by the
+President under authority of law (including section 604
+of the Trade Act of 1974)” “shall be considered to be
+statutory provisions of law for all purposes.” 19 U.S.C.
+3004(c)(1)(C). These cases also “arise[] out of ” those
+modifications. 28 U.S.C. 1581(i)(1)(B). The crux of
+plaintiffs’ claims is that because of the “revisions to the
+[Harmonized Tariff Schedule],” plaintiffs “must pay ad-
+48
+ditional tariffs to the federal government.” Learning
+Resources Compl. ¶ 24. Plaintiffs seek a declaration
+that the “modifications to the [Harmonized Tariff
+Schedule]” “are unlawful,” an injunction against their
+enforcement, and an order “set[ting] aside” the modifi-
+cations. E.g., id. ¶¶ 73-74, 89-90, 99, 113. The challenges
+to the tariffs at issue here thus fall within the CIT’s ex-
+clusive jurisdiction.
+The district court concluded that the CIT would have
+exclusive jurisdiction only if IEEPA authorizes the tar-
+iffs at issue here. See 24-1287 Pet. App. 19a. That is
+incorrect. Plaintiffs’ claims arise out of the modifica-
+tions to the Harmonized Tariff Schedule regardless of
+whether IEEPA authorizes those modifications. Plain-
+tiffs similarly argue (24-1287 Cert. Reply 4-5) that the
+modifications were not made “under authority of law,”
+19 U.S.C. 3004(c)(1)(C), because IEEPA does not au-
+thorize them. But Section 3004 states that “authority of
+law” includes “section 604 of the Trade Act of 1974,”
+ibid., and Section 604 authorizes the President to mod-
+ify the Harmonized Tariff Schedule to reflect “actions”
+taken under “Acts affecting import treatment,” 19
+U.S.C. 2483. IEEPA plainly is an Act affecting import
+treatment.
+The district court and plaintiffs would thus improp-
+erly collapse jurisdiction and the merits. It is one thing
+for jurisdictional and merits issues to “overlap,” Perry
+v. MSPB, 582 U.S. 420, 435 (2017), but quite another for
+a court to rule on the merits in order to determine
+whether it had authority to rule on the merits. This
+Court has cautioned against interpreting jurisdictional
+statutes in a way that “would make a court’s jurisdiction
+* * * dependent upon the merits of the claim.” Garland
+v. Aleman Gonzalez, 596 U.S. 543, 554 (2022). “[T]he
+49
+consequences are alone enough to condemn” such an ap-
+proach. Steel Co. v. Citizens for a Better Environment,
+523 U.S. 83, 92 (1998). Where, as here, Congress has
+provided for review of a class of cases in a particular
+court, “it would be nonsensical to say that the jurisdic-
+tion of the reviewing body is limited to instances in
+which the underlying decision construes and applies the
+statute correctly.” Michael Simon Design, Inc. v.
+United States, 609 F.3d 1335, 1341 (Fed. Cir. 2010).
+“Congress of course did not create such a strange
+scheme” here. Steel Co., 523 U.S. at 93.
+CONCLUSION
+The judgment of the district court in No. 24-1287
+should be vacated and the case remanded with instruc-
+tions to dismiss for lack of jurisdiction. The judgment of
+the court of appeals in No. 25-250 should be reversed.
+Respectfully submitted.
+D. JOHN SAUER
+Solicitor General
+BRETT A. SHUMATE
+Assistant Attorney General
+SARAH M. HARRIS
+Deputy Solicitor General
+SOPAN JOSHI
+Assistant to the
+Solicitor General
+MARK R. FREEMAN
+MICHAEL S. RAAB
+BRAD HINSHELWOOD
+DANIEL WINIK
+SOPHIA SHAMS
+Attorneys
+SEPTEMBER 2025
+APPENDIX
+TABLE OF CONTENTS
+Page
+Appendix A — Statutory provisions:
+19 U.S.C. 2483 .......................................... 1a
+19 U.S.C. 3004(c)(1) ............................... 1a
+28 U.S.C. 1337(c) .................................... 2a
+28 U.S.C. 1581(i)(1) ............................. 2a
+50 U.S.C. 1701 ..................................... 3a
+50 U.S.C. 1702 ..................................... 3a
+50 U.S.C. 1703 ..................................... 7a
+Appendix B — Trafficking tariff actions ........................... 10a
+Appendix C — Trade tariff actions .................................... 17a
+(I)
+APPENDIX A
+1. 19 U.S.C. 2483 provides:
+Consequential changes in Tariff Schedules of the United
+States
+The President shall from time to time, as appropri-
+ate, embody in the Harmonized Tariff Schedule of the
+United States the substance of the relevant provisions
+of this chapter, and of other Acts affecting import treat-
+ment, and actions thereunder, including removal, modi-
+fication, continuance, or imposition of any rate of duty
+or other import restriction.
+2. 19 U.S.C. 3004(c)(1) provides:
+Enactment of Harmonized Tariff Schedule
+(c) Status of Harmonized Tariff Schedule
+(1) The following shall be considered to be statutory
+provisions of law for all purposes:
+(A) The provisions of the Harmonized Tariff
+Schedule as enacted by this chapter.
+(B) Each statutory amendment to the Harmo-
+nized Tariff Schedule.
+(C) Each modification or change made to the
+Harmonized Tariff Schedule by the President under
+authority of law (including section 604 of the Trade
+Act of 1974 [19 U.S.C. 2483]).
+(1a)
+2a
+3. 28 U.S.C. 1337(c) provides:
+Commerce and antitrust regulations; amount in contro-
+versy, costs
+(c) The district courts shall not have jurisdiction un-
+der this section of any matter within the exclusive juris-
+diction of the Court of International Trade under chap-
+ter 95 of this title.
+4. 28 U.S.C. 1581(i)(1) provides:
+Civil actions against the United States and agencies and
+officers thereof
+(i) In addition to the jurisdiction conferred upon
+the Court of International Trade by subsections (a)-(h)
+of this section and subject to the exception set forth in
+subsection ( j) of this section, the Court of International
+Trade shall have exclusive jurisdiction of any civil action
+commenced against the United States, its agencies, or
+its officers, that arises out of any law of the United
+States providing for—
+(A) revenue from imports or tonnage;
+(B) tariffs, duties, fees, or other taxes on the im-
+portation of merchandise for reasons other than the
+raising of revenue;
+(C) embargoes or other quantitative re-
+strictions on the importation of merchandise for rea-
+sons other than the protection of the public health or
+safety; or
+(D) administration and enforcement with re-
+spect to the matters referred to in subparagraphs (A)
+3a
+through (C) of this paragraph and subsections (a)-(h)
+of this section.
+5. 50 U.S.C. 1701 provides:
+Unusual and extraordinary threat; declaration of na-
+tional emergency; exercise of Presidential authorities
+(a) Any authority granted to the President by sec-
+tion 1702 of this title may be exercised to deal with any
+unusual and extraordinary threat, which has its source
+in whole or substantial part outside the United States,
+to the national security, foreign policy, or economy of
+the United States, if the President declares a national
+emergency with respect to such threat.
+(b) The authorities granted to the President by sec-
+tion 1702 of this title may only be exercised to deal with
+an unusual and extraordinary threat with respect to
+which a national emergency has been declared for pur-
+poses of this chapter and may not be exercised for any
+other purpose. Any exercise of such authorities to deal
+with any new threat shall be based on a new declaration
+of national emergency which must be with respect to
+such threat.
+6. 50 U.S.C. 1702 provides:
+Presidential authorities
+(a) In general
+(1) At the times and to the extent specified in sec-
+tion 1701 of this title, the President may, under such
+regulations as he may prescribe, by means of instruc-
+tions, licenses, or otherwise—
+4a
+(A) investigate, regulate, or prohibit—
+(i) any transactions in foreign exchange,
+(ii) transfers of credit or payments between,
+by, through, or to any banking institution, to the
+extent that such transfers or payments involve
+any interest of any foreign country or a national
+thereof,
+(iii) the importing or exporting of currency or
+securities,
+by any person, or with respect to any property, sub-
+ject to the jurisdiction of the United States;
+(B) investigate, block during the pendency of an
+investigation, regulate, direct and compel, nullify,
+void, prevent or prohibit, any acquisition, holding,
+withholding, use, transfer, withdrawal, transporta-
+tion, importation or exportation of, or dealing in, or
+exercising any right, power, or privilege with respect
+to, or transactions involving, any property in which
+any foreign country or a national thereof has any in-
+terest by any person, or with respect to any property,
+subject to the jurisdiction of the United States; and.
+(C) when the United States is engaged in armed
+hostilities or has been attacked by a foreign country
+or foreign nationals, confiscate any property, subject
+to the jurisdiction of the United States, of any foreign
+person, foreign organization, or foreign country that
+he determines has planned, authorized, aided, or en-
+gaged in such hostilities or attacks against the United
+States; and all right, title, and interest in any prop-
+erty so confiscated shall vest, when, as, and upon the
+terms directed by the President, in such agency or
+person as the President may designate from time to
+5a
+time, and upon such terms and conditions as the
+President may prescribe, such interest or property
+shall be held, used, administered, liquidated, sold, or
+otherwise dealt with in the interest of and for the
+benefit of the United States, and such designated
+agency or person may perform any and all acts inci-
+dent to the accomplishment or furtherance of these
+purposes.
+(2) In exercising the authorities granted by para-
+graph (1), the President may require any person to keep
+a full record of, and to furnish under oath, in the form of
+reports or otherwise, complete information relative to
+any act or transaction referred to in paragraph (1) either
+before, during, or after the completion thereof, or rela-
+tive to any interest in foreign property, or relative to any
+property in which any foreign country or any national
+thereof has or has had any interest, or as may be other-
+wise necessary to enforce the provisions of such para-
+graph. In any case in which a report by a person could
+be required under this paragraph, the President may re-
+quire the production of any books of account, records,
+contracts, letters, memoranda, or other papers, in the
+custody or control of such person.
+(3) Compliance with any regulation, instruction, or
+direction issued under this chapter shall to the extent
+thereof be a full acquittance and discharge for all pur-
+poses of the obligation of the person making the same.
+No person shall be held liable in any court for or with
+respect to anything done or omitted in good faith in con-
+nection with the administration of, or pursuant to and in
+reliance on, this chapter, or any regulation, instruction,
+or direction issued under this chapter.
+6a
+(b) Exceptions to grant of authority
+The authority granted to the President by this sec-
+tion does not include the authority to regulate or pro-
+hibit, directly or indirectly—
+(1) any postal, telegraphic, telephonic, or other
+personal communication, which does not involve a
+transfer of anything of value;
+(2) donations, by persons subject to the jurisdic-
+tion of the United States, of articles, such as food,
+clothing, and medicine, intended to be used to relieve
+human suffering, except to the extent that the Presi-
+dent determines that such donations (A) would seri-
+ously impair his ability to deal with any national emer-
+gency declared under section 1701 of this title, (B)
+are in response to coercion against the proposed re-
+cipient or donor, or (C) would endanger Armed Forces
+of the United States which are engaged in hostilities
+or are in a situation where imminent involvement in
+hostilities is clearly indicated by the circumstances;
+or
+(3) the importation from any country, or the ex-
+portation to any country, whether commercial or oth-
+erwise, regardless of format or medium of transmis-
+sion, of any information or informational materials,
+including but not limited to, publications, films, post-
+ers, phonograph records, photographs, microfilms, mi-
+crofiche, tapes, compact disks, CD ROMs, artworks,
+and news wire feeds. The exports exempted from
+regulation or prohibition by this paragraph do not in-
+clude those which are otherwise controlled for export
+under section 46043 of this title, or under section 46053
+of this title to the extent that such controls promote
+7a
+the nonproliferation or antiterrorism policies of the
+United States, or with respect to which acts are pro-
+hibited by chapter 37 of title 18; or
+(4) any transactions ordinarily incident to travel
+to or from any country, including importation of ac-
+companied baggage for personal use, maintenance
+within any country including payment of living ex-
+penses and acquisition of goods or services for per-
+sonal use, and arrangement or facilitation of such
+travel including nonscheduled air, sea, or land voy-
+ages.
+(c) Classified information
+In any judicial review of a determination made under
+this section, if the determination was based on classified
+information (as defined in section 1(a) of the Classified
+Information Procedures Act) such information may be
+submitted to the reviewing court ex parte and in camera.
+This subsection does not confer or imply any right to ju-
+dicial review.
+7. 50 U.S.C. 1703 provides:
+Consultation and reports
+(a) Consultation with Congress
+The President, in every possible instance, shall con-
+sult with the Congress before exercising any of the au-
+thorities granted by this chapter and shall consult regu-
+larly with the Congress so long as such authorities are
+exercised.
+8a
+(b) Report to Congress upon exercise of Presidential au-
+thorities
+Whenever the President exercises any of the author-
+ities granted by this chapter, he shall immediately trans-
+mit to the Congress a report specifying—
+(1) the circumstances which necessitate such ex-
+ercise of authority;
+(2) why the President believes those circum-
+stances constitute an unusual and extraordinary
+threat, which has its source in whole or substantial
+part outside the United States, to the national secu-
+rity, foreign policy, or economy of the United States;
+(3) the authorities to be exercised and the ac-
+tions to be taken in the exercise of those authorities
+to deal with those circumstances;
+(4) why the President believes such actions are
+necessary to deal with those circumstances; and
+(5) any foreign countries with respect to which
+such actions are to be taken and why such actions are
+to be taken with respect to those countries.
+(c) Periodic follow-up reports
+At least once during each succeeding six-month pe-
+riod after transmitting a report pursuant to subsection
+(b) with respect to an exercise of authorities under this
+chapter, the President shall report to the Congress with
+respect to the actions taken, since the last such report,
+in the exercise of such authorities, and with respect to
+any changes which have occurred concerning any infor-
+mation previously furnished pursuant to paragraphs (1)
+through (5) of subsection (b).
+9a
+(d) Supplemental requirements
+The requirements of this section are supplemental to
+those contained in title IV of the National Emergencies
+Act [50 U.S.C. 1641].
+10a
+APPENDIX B
+Trafficking Tariff Actions
+January 20, 2025:
+Proclamation No. 10,886, Declaring a National Emer-
+gency at the Southern Border of the United States, 90
+Fed. Reg. 8327 (Jan. 29, 2025)
+Declared a national emergency regarding the United
+States’ southern border, including the fact that the
+southern border is overrun by cartels, criminal
+gangs, known terrorists, human traffickers, smug-
+glers, unvetted military-age males from foreign ad-
+versaries, and illicit narcotics that harm Americans,
+including America.
+Executive Order No. 14,157, Designating Cartels and
+Other Organizations as Foreign Terrorist Organiza-
+tions and Specifically Designated Global Terrorists, 90
+Fed. Reg. 8439 (Jan. 29, 2025)
+Declared a national emergency regarding cartels and
+other transnational organizations, finding that such
+organizations and their activities constitute an unu-
+sual and extraordinary threat to the national secu-
+rity, foreign policy, and economy of the United
+States. The President explained that those organi-
+zations “have engaged in a campaign of violence and
+terror throughout the Western Hemisphere that has
+not only destabilized countries with significant im-
+portance for our national interests but also flooded
+the United States with deadly drugs, violent crimi-
+nals, and vicious gangs.” Among other things, the
+President created a process by which such organiza-
+tions will be designated as “Foreign Terrorist Organ-
+11a
+izations” or “Specifically Designated Global Terror-
+ists” under applicable law.
+February 1, 2025:
+Executive Order No. 14,193, Imposing Duties To Ad-
+dress the Flow of Illicit Drugs Across Our Northern
+Border, 90 Fed. Reg. 9113 (Feb. 7, 2025)
+Expanded the scope of the national emergency de-
+clared in Proclamation No. 10,886 to include Can-
+ada’s failure to do more to address drug and human
+traffickers, criminals at large, and the flood of illicit
+drugs into the United States. To deal with that
+threat, the President imposed a tariff of 10 percent
+on imports of energy and energy resources originat-
+ing from Canada and a tariff of 25 percent on all other
+imports of Canada, and suspended duty-free de min-
+imis treatment for low-value imports of Canada (19
+U.S.C. 1321(a)(2)(C)).
+Executive Order No. 14,194, Imposing Duties To Ad-
+dress the Situation at Our Southern Border, 90 Fed.
+Reg. 9117 (Feb. 7, 2025)
+Expanded the scope of the national emergency de-
+clared in Proclamation No. 10,886 to include Mexico’s
+failure to address the sustained influx of illegal aliens
+and illicit drugs into the United States and Mexico’s
+failure to arrest, seize, detain, or otherwise intercept
+drug and human traffickers, criminals at large, and il-
+licit drugs. To deal with that threat, the President
+imposed a tariff of 25 percent on imports of Mexico
+and suspended duty-free de minimis treatment for
+low-value imports of Mexico.
+12a
+Executive Order No. 14,195, Imposing Duties To Ad-
+dress the Synthetic Opioid Supply Chain in the People’s
+Republic of China, 90 Fed. Reg. 9121 (Feb. 7, 2025)
+Expanded the scope of the national emergency de-
+clared in Proclamation No. 10,886 to include the fail-
+ure of the People’s Republic of China (PRC) to ar-
+rest, seize, detain, or otherwise intercept chemical
+precursor suppliers, money launderers, other trans-
+national criminal organizations, criminals at large,
+and drugs. To deal with that threat, the President
+imposed a tariff of 10 percent on imports of the PRC
+and suspended duty-free de minimis treatment for
+low-value imports of the PRC.
+February 3, 2025:
+Executive Order No. 14,197, Progress on the Situation
+at Our Northern Border, 90 Fed. Reg. 9183 (Feb. 10,
+2025)
+Because Canada took immediate steps designed to
+address the trafficking emergency, the President
+paused the tariffs on imports of Canada while the
+President assessed if those steps will be sufficient to
+alleviate the emergency.
+Executive Order No. 14,198, Progress on the Situation
+at Our Southern Border, 90 Fed. Reg. 9185 (Feb. 10,
+2025)
+Because Mexico took immediate steps designed to
+address the trafficking emergency, the President
+paused the tariffs on imports of Mexico while the
+President assessed if those steps will be sufficient to
+alleviate the emergency.
+13a
+February 5, 2025:
+Executive Order No. 14,200, Amendment to Duties Ad-
+dressing the Synthetic Opioid Supply Chain in the Peo-
+ple’s Republic of China, 90 Fed. Reg. 9277 (Feb. 11,
+2025)
+Paused the suspension of duty-free de minimis treat-
+ment for low-value imports of the PRC until the Sec-
+retary of Commerce notifies the President that ade-
+quate systems are in place to implement the suspen-
+sion.
+March 2, 2025:
+Executive Order No. 14,226, Amendment to Duties To
+Address the Flow of Illicit Drugs Across Our Northern
+Border, 90 Fed. Reg. 11,369 (Mar. 6, 2025)
+Paused the suspension of duty-free de minimis treat-
+ment for low-value imports of Canada until the Sec-
+retary of Commerce notifies the President that ade-
+quate systems are in place to implement the suspen-
+sion.
+Executive Order No. 14,227, Amendment to Duties To
+Address the Situation at Our Southern Border, 90 Fed.
+Reg. 11,371 (Mar. 6, 2025)
+Paused the suspension of duty-free de minimis treat-
+ment for low-value imports of Mexico until the Secre-
+tary of Commerce notifies the President that ade-
+quate systems are in place to implement the suspen-
+sion.
+March 3, 2025:
+Executive Order No. 14,228, Further Amendment to
+Duties Addressing the Synthetic Opioid Supply Chain
+14a
+in the People’s Republic of China, 90 Fed. Reg. 11,463
+(Mar. 7, 2025)
+Because the PRC continued to not take steps to ad-
+dress the trafficking emergency, the President in-
+creased the tariff on imports of the PRC from 10 per-
+cent to 20 percent.
+March 6, 2025:
+Executive Order No. 14,231, Amendment to Duties To
+Address the Flow of Illicit Drugs Across Our Northern
+Border, 90 Fed. Reg. 11,785 (Mar. 11, 2025)
+The President effectively ended the pause on the ad-
+ditional trafficking tariffs on goods of Canada. To
+minimize disruptions to the automotive industry, the
+President exempted imports of Canada that qualified
+for duty-free treatment under the USMCA (United
+States-Mexico-Canada Agreement) and reduced tar-
+iffs on imports of potash originating from Canada
+from 25 percent to 10 percent.
+Executive Order No. 14,232, Amendment to Duties To
+Address the Flow of Illicit Drugs Across Our Southern
+Border, 90 Fed. Reg. 11,787 (Mar. 11, 2025)
+The President effectively ended the pause on the ad-
+ditional trafficking tariffs on goods of Mexico. To
+minimize disruptions to the automotive industry, the
+President exempted imports of Mexico that qualified
+for duty-free treatment under the USMCA and re-
+duced tariffs on imports of potash originating from
+Mexico from 25 percent to 10 percent.
+April 2, 2025:
+Executive Order No. 14,256, Further Amendment to
+Duties Addressing the Synthetic Opioid Supply Chain
+15a
+in the People’s Republic of China as Applied to Low-
+Value Imports, 90 Fed. Reg. 14,899 (Apr. 7, 2025)
+To deal with trafficking emergency involving the
+PRC and because the Secretary of Commerce noti-
+fied the President that adequate systems were in
+place, the President ended the pause of the suspen-
+sion of duty-free de minimis treatment for low-value
+imports of the PRC.
+April 29, 2025:
+Executive Order No. 14,289, Addressing Certain Tariffs
+on Imported Articles, 90 Fed. Reg. 18,907 (May 2, 2025)
+Set rules for overlapping tariffs, including which tar-
+iffs take precedence and whether certain tariffs
+“stack” (i.e., apply cumulatively).
+July 30, 2025:
+Executive Order No. 14,324, Suspending De Minimis
+Treatment for All Countries, 90 Fed. Reg. 37,775 (Aug.
+5, 2025)
+To deal with the trafficking emergencies involving
+Canada and Mexico and because the Secretary of
+Commerce notified the President that adequate sys-
+tems were in place, the President ended the pause of
+the suspension of duty-free de minimis treatment for
+low-value imports of Canada and Mexico and deter-
+mined that it was necessary to continue to suspend
+duty-free de minimis treatment for low-value imports
+of the PRC. To deal with the trade-deficit-related
+emergency and because the Secretary of Commerce
+notified the President that adequate systems were in
+place, the President suspended duty-free de minimis
+treatment of low-value imports globally. Each de-
+16a
+termination to suspend duty-free de minimis treat-
+ment was independent of the other.
+July 31, 2025:
+Executive Order No. 14,325, Amendment to Duties to
+Address the Flow of Illicit Drugs Across Our Northern
+Border, 90 Fed. Reg. 37,957 (Aug. 6, 2025)
+Because Canada retaliated and continued not to suf-
+ficiently address the trafficking emergency, the
+President increased tariffs on imports of Canada
+from 25 percent to 35 percent but maintained the ex-
+emption for USMCA-qualifying products and the
+lower tariff rate of 10 percent on imports of energy,
+energy resources, and potash originating from Can-
+ada.
+17a
+APPENDIX C
+Trade Tariff Actions
+April 2, 2025:
+Executive Order No. 14,257, Regulating Imports With
+a Reciprocal Tariff To Rectify Trade Practices That
+Contribute to Large and Persistent Annual United
+States Goods Trade Deficits, 90 Fed. Reg. 15,041 (Apr.
+7, 2025)
+Declared a national emergency involving the United
+States’s exploding goods trade deficit and the conse-
+quences of that trade deficit, and found that those
+conditions constitute an unusual and extraordinary
+threat to the United States’ economy and national se-
+curity. To deal with that threat, the President im-
+posed reciprocal tariffs on certain imports of foreign
+trading partners and determined that duty-free de
+minimis treatment for low-value imports should be
+suspended once the Secretary of Commerce notifies
+the President that adequate systems are in place to
+implement the suspension.
+April 8, 2025:
+Executive Order No. 14,259, Amendment to Reciprocal
+Tariffs and Updated Duties as Applied to Low-Value
+Imports From the People’s Republic of China, 90 Fed.
+Reg. 15,509 (Apr. 14, 2025)
+Because the PRC retaliated, the President increased
+tariffs on imports of the PRC.
+18a
+April 9, 2025:
+Executive Order No. 14,266, Modifying Reciprocal Tar-
+iff Rates to Reflect Trading Partner Retaliation and
+Alignment, 90 Fed. Reg. 15,625 (Apr. 15, 2025)
+Because of significant steps taken by foreign trading
+partners (except the PRC) to remedy non-reciprocal
+trade arrangements and align sufficiently with the
+United States on economic and national security mat-
+ters, the President paused the additional reciprocal
+tariffs for 90 days and set a baseline tariff rate of 10
+percent. Because the PRC increased retaliation,
+the President increased tariffs on imports of the
+PRC.
+April 11, 2025:
+Presidential Memorandum, Clarification of Exceptions
+Under Executive Order 14257 of April 2, 2025, as
+Amended, www.whitehouse.gov/presidential-actions/
+2025/04/clarification-of-exceptions-under-executive-
+order-14257-of-april-2-2025-as-amended
+Clarified the scope of imports of semiconductors that
+are subject to reciprocal tariffs.
+April 29, 2025:
+Executive Order No. 14,289, Addressing Certain Tariffs
+on Imported Articles, 90 Fed. Reg. 18,907 (May 2, 2025)
+Set rules for overlapping tariffs, including which tar-
+iffs take precedence over another and whether cer-
+tain tariffs apply cumulatively (i.e., stack).
+19a
+May 12, 2025:
+Executive Order No. 14,298, Modifying Reciprocal Tar-
+iff Rates to Reflect Discussions With the People’s Re-
+public of China, 90 Fed. Reg. 21,831 (May 21, 2025)
+Because the PRC took a significant step toward rem-
+edying non-reciprocal trade arrangements and ad-
+dressing the concerns of the United States involving
+economic and national-security matters, the Presi-
+dent paused the additional tariffs on the PRC for 90
+days and set a baseline reciprocal tariff of 10 percent.
+June 16, 2025:
+Executive Order No. 14,309, Implementing the General
+Terms of the United States of America-United King-
+dom Economic Prosperity Deal, 90 Fed. Reg. 26,419
+(June 23, 2025)
+Implemented the framework agreement between the
+United Kingdom and the United States.
+July 7, 2025:
+Executive Order No. 14,316, Extending the Modifica-
+tion of the Reciprocal Tariff Rates, 90 Fed. Reg. 30,823
+(July 10, 2025)
+Extended the pause on additional reciprocal tariffs
+from July 9, 2025, to August 1, 2025.
+July 30, 2025:
+Executive Order No. 14,324, Suspending De Minimis
+Treatment for All Countries, 90 Fed. Reg. 37,775 (Aug.
+5, 2025)
+To deal with the trade-deficit-related emergency and
+because the Secretary of Commerce notified the
+20a
+President that adequate systems were in place, the
+President suspended duty-free de minimis treatment
+for low-value imports globally. To deal with the
+trafficking emergencies involving Canada and Mex-
+ico and because the Secretary of Commerce notified
+the President that adequate systems were in place,
+the President also ended the pause of the suspension
+of duty-free de minimis treatment for low-value im-
+ports of Canada and Mexico and determined that it
+was necessary to continue to suspend duty-free de
+minimis treatment for low-value imports of the PRC.
+Each determination to suspend duty-free de minimis
+treatment was independent of the other.
+July 31, 2025:
+Executive Order No. 14,326, Further Modifying the Re-
+ciprocal Tariff Rates, 90 Fed. Reg. 37,963 (Aug. 6, 2025)
+After receiving information and recommendations
+from senior officials, the President ended the pause
+on country-specific reciprocal tariffs. The Presi-
+dent set tariffs tailored to each trading partner.
+August 11, 2025:
+Executive Order No. 14,334, Further Modifying Recip-
+rocal Tariff Rates to Reflect Ongoing Discussions With
+the People’s Republic of China, 90 Fed. Reg. 39,305
+(Aug. 14, 2025)
+Extended the pause on certain additional tariffs for
+the PRC from August 12, 2025, to November 10, 2025.
+21a
+September 4, 2025:
+Executive Order No. 14,345, Implementing The United
+States-Japan Agreement, 90 Fed. Reg. 43,535 (Sept. 9,
+2025)
+Implemented the framework agreement between Ja-
+pan and the United States.
+September 5, 2025:
+Executive Order No. 14,346, Modifying the Scope of Re-
+ciprocal Tariffs and Establishing Procedures for Im-
+plementing Trade and Security Agreements, 90 Fed.
+Reg. 43,737 (Sept. 10, 2025)
+Updated the scope of products subject to reciprocal
+tariffs, implemented the framework agreement be-
+tween the European Union and the United States,
+and set up a structure to implement final trade and
+security agreements and framework agreements be-
+tween the United States and foreign trading part-
+ners.

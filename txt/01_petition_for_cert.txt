@@ -1,0 +1,1432 @@
+No.
+In The
+LEARNING RESOURCES,INC., ET AL.,
+Petitioners,
+v.
+DONALD J.TRUMP,PRESIDENT OF THE UNITED STATES,
+IN HIS OFFICIAL CAPACITY, ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI BEFORE
+JUDGMENT TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+PETITION FOR A WRIT OF CERTIORARI
+BEFORE JUDGMENT
+Pratik A. Shah
+Counsel of Record
+James E. Tysse
+Matthew R. Nicely
+Daniel M. Witkowski
+Kristen E. Loveland
+AKIN GUMP STRAUSS
+HAUER &FELD LLP
+2001 K Street NW
+Washington, DC 20006
+202-887-4000
+pshah@akingump.com
+Counsel for Petitioners
+QUESTION PRESENTED
+The International Emergency Economic Powers
+Act, 50 U.S.C. § 1701 et seq. (“IEEPA”) permits the
+President, upon a valid emergency declaration, to
+“investigate, block during the pendency of an
+investigation, regulate, direct and compel, nullify,
+void, prevent or prohibit, any acquisition, holding,
+withholding, use, transfer, withdrawal,
+transportation, importation or exportation of, or
+dealing in, or exercising any right, power, or privilege
+with respect to, or transactions involving, any
+property in which any foreign country or a national
+thereof has any interest[.]” Id. § 1702(a)(1)(B). Until
+now, no President in IEEPA’s nearly 50-year history
+has ever invoked it to impose tariffs—let alone the
+sweeping worldwide tariffs imposed pursuant to the
+executive orders challenged here.
+The question presented is:
+Whether IEEPA authorizes the President to
+impose tariffs.
+(i)
+ii
+PARTIES TO THE PROCEEDINGS
+Petitioners (Plaintiffs-Appellees below) are
+Learning Resources, Inc., and hand2mind, Inc.
+Respondents (Defendants-Appellants below) are
+Donald J. Trump, President of the United States, in
+his official capacity; Kristi Noem, Secretary of the
+Department of Homeland Security, in her official
+capacity; United States Department of Homeland
+Security; Scott Bessent, Secretary of the Treasury, in
+his official capacity; United States Department of the
+Treasury; Howard W. Lutnick, Secretary of
+Commerce, in his official capacity; United States
+Department of Commerce; Pete Flores, Acting
+Commissioner of Customs & Border Protection, in his
+official capacity; United States Customs and Border
+Protection; Jamieson Greer, U.S. Trade
+Representative, in his official capacity; and Office of
+the United States Trade Representative.
+iii
+RULE 29.6 STATEMENT
+Petitioners Learning Resources, Inc. and
+hand2mind, Inc. are private, family-owned
+corporations. Learning Resources, Inc. and
+hand2mind, Inc. have no parent corporation or
+publicly held corporation that owns 10% or more of
+either entity’s stock.
+iv
+TABLE OF CONTENTS
+QUESTION PRESENTED ........................................... i
+PARTIES TO THE PROCEEDINGS ..........................ii
+RULE 29.6 STATEMENT ......................................... iii
+INTRODUCTION ........................................................ 1
+OPINIONS BELOW .................................................... 2
+JURISDICTION .......................................................... 2
+RELEVANT CONSTITUTIONAL AND
+STATUTORY PROVISIONS ................................. 2
+STATEMENT OF THE CASE .................................... 3
+A. Background ................................................ 3
+1. The Constitution grants
+Congress the exclusive power to
+set tariff policy ..................................... 3
+2. The International Emergency
+Economic Powers Act ........................... 4
+3. The President bypasses Congress
+to impose tariffs through IEEPA ......... 7
+4. IEEPA tariffs will have major
+economic and political
+consequences ...................................... 10
+5. IEEPA tariffs are putting
+Petitioners’ businesses at risk ............ 13
+B. Procedural History ................................... 14
+C. The Court of International Trade
+Actions ...................................................... 16
+v
+REASONS FOR GRANTING THE WRIT ................ 17
+I. This Court Should Grant Review To
+Determine Whether IEEPA Authorizes
+Tariffs .............................................................. 18
+II. This Court Should Grant Review Now To
+Decide An Issue Of Paramount
+Importance ...................................................... 26
+CONCLUSION .......................................................... 33
+APPENDIX
+Order Denying Defendants’ Motion to
+Transfer Venue; Granting Plaintiffs’ Motion
+for a Preliminary Injunction of the U.S.
+District Court for the District of Columbia
+(May 29, 2025) ....................................................... 1a
+Memorandum Opinion Denying Defendants’
+Motion to Transfer Venue; Granting
+Plaintiffs’ Motion for a Preliminary
+Injunction of the U.S. District Court for the
+District of Columbia (May 29, 2025) ..................... 3a
+Order Granting Defendants’ Motion to Stay
+of the U.S. District Court for the District of
+Columbia (June 3, 2025) ..................................... 44a
+50 U.S.C. § 1701 .................................................. 46a
+50 U.S.C. § 1702 .................................................. 47a
+Declaration of Richard Woldenberg in
+Support of Plaintiffs’ Motion for a
+Preliminary Injunction filed in the U.S.
+District Court for the District of Columbia
+(April 24, 2025) .................................................... 52a
+vi
+Transcript of Motion Hearing Held Before
+the Honorable Rudolph Contreras United
+States District Judge (May 27, 2025) ................. 73a
+vii
+TABLE OF AUTHORITIES
+CASES:
+A.L.A. Schechter Poultry & Panama
+Refining Co. v. Ryan,
+293 U.S. 388 (1935) ........................................... 23
+Biden v. Nebraska,
+600 U.S. 477 (2023) ............................... 17, 23, 27
+BP P.L.C. v. Mayor & City Council of
+Baltimore,
+141 S. Ct. 1532 (2021) ....................................... 25
+Camreta v. Greene,
+563 U.S. 692 (2011) ........................................... 32
+Cochise Consultancy, Inc. v. United States ex
+rel. Hunt,
+587 U.S. 262 (2019) ........................................... 24
+Consumers Union of U.S., Inc. v. Kissinger,
+506 F.2d 136 (D.C. Cir. 1974) ............................. 4
+Department of Com. v. New York,
+588 U.S. 752 (2019) ........................................... 27
+Department of Educ. v. Brown,
+600 U.S. 551 (2023) ........................................... 27
+Gibbons v. Ogden,
+22 U.S. (9 Wheat) 1 (1824) ................................ 19
+viii
+Industrial Union Dep’t, AFL-CIO v.
+American Petroleum Inst.,
+448 U.S. 607 (1980) ........................................... 23
+K Mart Corp. v. Cartier, Inc.,
+485 U.S. 176 (1988) ........................................... 31
+Loper Bright Enters. v. Raimondo,
+603 U.S. 369 (2024) ........................................... 23
+Mistretta v. United States,
+488 U.S. 361 (1989) ........................................... 32
+National Fed’n of Indep. Bus. v. Department
+of Lab., Occupational Safety & Health
+Admin.,
+595 U.S. 109 (2022) ........................................... 23
+National Fed’n of Indep. Bus. v. Sebelius,
+567 U.S. 519 (2012) ..................................... 20, 21
+United States v. Nixon,
+418 U.S. 683 (1974) ........................................... 32
+United States v. Texas,
+599 U.S. 670 (2023) ........................................... 27
+United States v. United Mine Workers of
+Am.,
+330 U.S. 258 (1947) ........................................... 32
+United States v. Yoshida Int’l, Inc.,
+526 F.2d 560 (C.C.P.A. 1975) .......... 16, 24, 25, 26
+ix
+V.O.S. Selections, Inc. v. United States,
+--- F. Supp. 3d ---, No. 25-00066, 2025
+WL 1514124 (Ct. Int'l Trade May 28,
+2025) ............................................................ 16, 17
+Whole Woman’s Health v. Jackson,
+595 U.S. 30 (2021) ............................................. 27
+Wilson v. Girard,
+354 U.S. 524 (1957) ........................................... 32
+Yates v. United States,
+574 U.S. 528 (2015) ........................................... 22
+Yoshida Int’l Inc. v. United States,
+378 F. Supp. 1155 (Cust. Ct. 1974) ................... 24
+Youngstown Sheet & Tube Co. v. Sawyer,
+343 U.S. 937 (1952) ........................................... 32
+CONSTITUTION AND STATUTES:
+U.S. CONST.
+art. I, § 8, cl. 1 ............................................ 2, 3, 19
+art. I, § 8, cl. 3 ................................................ 2, 19
+art. I, § 9, cl. 5 .................................................... 24
+art. II, § 3 ............................................................. 4
+2 U.S.C.
+§ 622(8)(B)(1) ..................................................... 21
+15 U.S.C.
+§ 78k(a)(2) .......................................................... 20
+x
+16 U.S.C.
+§ 460bbb-9(a) ..................................................... 21
+19 U.S.C.
+§ 1338(a) .............................................................. 4
+§ 1862 ................................................................... 4
+§ 2132(a) ........................................................ 4, 21
+§ 2253 ................................................................... 4
+§ 2411 ................................................................... 4
+§ 2411(c) ............................................................. 21
+§ 2412 ................................................................... 4
+§ 2413 ................................................................... 4
+§ 2414 ................................................................... 4
+§ 2415 ................................................................... 4
+§ 2416 ................................................................... 4
+§ 2417 ................................................................... 4
+§ 2418 ................................................................... 4
+§ 2419 ................................................................... 4
+21 U.S.C.
+§ 360bbb-2(a) ..................................................... 20
+28 U.S.C.
+§ 1254(1) ........................................................ 2, 32
+§ 1292(a)(1) .......................................................... 2
+§ 1581(i)(1) ................................................... 14, 31
+§ 2101(e) ......................................................... 2, 32
+49 U.S.C.
+§ 40117(j) ........................................................... 21
+50 U.S.C.
+§ 1701(a) .............................................................. 4
+§ 1702(a)(1)(B) ..................................... 5, 7, 22, 24
+xi
+Pub. L. No. 95-223 Title II, 91 Stat. 1626
+(1977) ................................................................... 3
+Securities Exchange Act of 1934, Pub. L. No.
+73-291, § 11(a)(1), 48 Stat. 881, 891 ................. 20
+OTHER AUTHORITIES:
+‘A matter of survival’: Small Businesses
+Speak Out on Tariffs, U.S.CHAMBER OF
+COM. (last updated: June 6, 2025) .................... 12
+Berkowitz, Ben, The only trade certainty is
+uncertainty, AXIOS (June 13, 2025) .............. 9, 12
+Bharade, Aditi, Trump said he will set
+unilateral ‘take it or leave it’ tariffs on
+trading partners in the next 2 weeks ,
+BUS.INSIDER (June 12, 2025) ............................ 10
+Boehm, Eric, Peter Navarro Says Tariffs
+Will Be a $6 Trillion Tax Increase, but
+Also a Tax Cut, REASON MAG. (Mar. 31,
+2025) .................................................................. 11
+CASEY, CHRISTOPHER A. ET AL.,CONG.RSCH.
+SERV., R45618, THE INTERNATIONAL
+EMERGENCY ECONOMIC POWERS ACT:
+ORIGINS,EVOLUTION, AND USE (2024) ............... 22
+Chang, Agnes, et al., How Much Are Tariffs
+on Chinese Goods? It’s Trickier Than You
+Think, N.Y. TIMES (Apr. 12, 2025) ...................... 9
+xii
+China Trade Summary, OFF.OF THE U.S.
+TRADE REPRESENTATIVE, (last visited
+June 11, 2025) ................................................... 10
+Collins, Michael, ‘Two Dolls Instead of 30’:
+Trump Acknowledges Prices Will Force
+Consumers to Cut Back, USATODAY
+(Apr. 30, 2025) ................................................... 12
+Eadicicco, Lisa, Small businesses struggle
+under Trump’s tariff whiplash: ‘I’m so
+angry that my own government has done
+this to me’, CNN (June 1, 2025) ........................ 29
+Exec. Order No. 13,219, Blocking Property of
+Persons Who Threaten International
+Stabilization Efforts in the Western
+Balkans, 66 Fed. Reg. 34,777 (Jun. 26,
+2001) .................................................................... 6
+Exec. Order No. 13,581, Blocking Property of
+Transnational Criminal Organizations,
+76 Fed. Reg. 44,757 (Jul. 24, 2011)..................... 6
+Exec. Order No. 14,195, Imposing Duties to
+Address the Synthetic Opioid Supply
+Chain in the People’s Republic of China,
+90 Fed. Reg. 9,121 (Feb. 1, 2025) ........................ 7
+Exec. Order No. 14,228, Further Amendment
+to Duties Addressing the Synthetic
+Opioid Supply Chain in the People’s
+Republic of China, 90 Fed. Reg. 11,463
+(Mar. 3, 2025) ...................................................... 7
+xiii
+Exec. Order No. 14,256, Further Amendment
+to Duties Addressing the Synthetic
+Opioid Supply Chain in the People’s
+Republic of China as Applied to Low-
+Value Imports, 90 Fed. Reg. 14,899 (Apr.
+2, 2025) ................................................................ 7
+Exec. Order No. 14,257, Regulating Imports
+with a Reciprocal Tariff to Rectify Trade
+Practices that Contribute to Large and
+Persistent Annual United States Goods
+Trade Deficits, 90 Fed. Reg. 15,041 (Apr.
+2, 2025) ................................................................ 8
+Exec. Order No. 14,259, Amendment to
+Reciprocal Tariffs and Updated Duties as
+Applied to Low-Value Imports From the
+People’s Republic of China, 90 Fed. Reg.
+15,509 (Apr. 8, 2025) ........................................... 8
+Exec. Order No. 14,266, Modifying
+Reciprocal Tariff Rates to Reflect
+Trading Partner Retaliation and
+Alignment, 90 Fed. Reg. 15,625 (Apr. 9,
+2025) ................................................................ 8, 9
+Exec. Order No. 14,298, Modifying
+Reciprocal Tariff Rates To Reflect
+Discussions With the People’s Republic of
+China, 90 Fed. Reg. 21,831 (May 12,
+2025) .................................................................... 9
+xiv
+Fact Sheet: President Donald J. Trump
+Restores Section 232 Tariffs, THE WHITE
+HOUSE (Feb. 11, 2025) ....................................... 26
+Goldman, David & Elisabeth Buchwald,
+Trump’s tariffs will probably plunge the
+global economy into recession this year,
+JPMorgan analysts says, CNN (Apr. 2,
+2025) .................................................................. 27
+Gressman, Eugene et al., Supreme Court
+Practice 87 (9th ed. 2007) .................................. 32
+H.R. REP.NO. 95-459 (1977) .................................. 25
+IRWIN,DOUGLAS A., CLASHING OVER
+COMMERCE:AHISTORY OF U.S.TRADE
+POLICY (2017) .................................................. 3, 4
+Memorandum on the Actions by the United
+States Related to the Section 301
+Investigation, 2018 DAILY COMP.PRES.
+Doc. 1 (Mar. 22, 2018) ....................................... 26
+OECD Economic Outlook, Volume 2025
+Issue 1: United States, OECD (June 3,
+2025) .................................................................. 13
+Peck, Emily, Midsize businesses struggle
+with high tariff costs, AXIOS (June 12,
+2025) .................................................................. 12
+xv
+Picchi, Aimee, Trump reveals these 2 new
+types of tariffs on what he calls
+“Liberation Day,” CBS NEWS (Apr. 2,
+2025) ............................................................ 10, 27
+Proclamation No. 9704, 83 Fed. Reg. 11,619
+(Mar. 8, 2018) .................................................... 26
+Rappeport, Alan et al., White House Revives
+Trade Spat With Fresh Attacks on China,
+N.Y.TIMES (May 30, 2025) .................................. 9
+Reddy, Sudeep, Reality Check: What
+Trump’s Supposed Retreat Really Means
+in a Historic Trade War, POLITICO (Apr.
+10,2025) ............................................................. 27
+Regulate, THE CONCISE OXFORD DICTIONARY
+OF CURRENT ENGLISH 943 (6th ed. 1976) .......... 20
+Rubin, Richard, Bessent Says Tariff Revenue
+Could Reach $600 Billion Annually,
+WALL ST. J. (Apr. 4, 2025) ................................. 11
+Schulz, Bailey, Trump is rolling out more
+tariffs this month. Where does the tariff
+money go?, USATODAY (Apr. 4, 2025) .............. 11
+State of U.S. Tariffs: May 12, 2025, THE
+BUDGET LAB (May 12, 2025) ............................. 12
+SUP.CT. R. 11 .................................................... 17, 26
+xvi
+Swanson, Ana, U.S. Trade Deficit Hit
+Record in 2024 as Imports Surged, N.Y.
+TIMES (Feb. 5, 2025) .......................................... 10
+Tariff, RANDOM HOUSE DICTIONARY OF THE
+ENGLISH LANGUAGE 1454 (1973) ....................... 20
+U.S. Customs and Border Protection, Trade
+Statistics (last visited June 16, 2025)............... 11
+York, Erica & Alex Durante, Trump Tariffs:
+Tracking The Economic Impact of the
+Trump Trade War, THE TAX FOUND.
+(June 2, 2025) ........................................ 11, 12, 13
+INTRODUCTION
+Asserting authority under the International
+Emergency Economic Powers Act (“IEEPA”), the
+President with the stroke of a pen increased the
+Nation’s effective tariff rate tenfold to the highest it
+has been in more than a century. No President in
+IEEPA’s history has relied on that law to issue any
+tariff. Yet the current Administration has used it to
+impose sweeping tariffs to reshape the national
+economy and global trade policy, raising taxes on
+Americans by hundreds of billions of dollars.
+IEEPA does not give the President such
+unilateral power. Indeed, it does not give the
+President any tariffing power whatsoever, as every
+presidential administration until this one has
+understood. Both courts to have adjudicated the
+merits—the federal district court below and a three-
+judge panel of the Court of International Trade
+(“CIT”)—have now declared the IEEPA tariffs
+unlawful on two different grounds. But as of last
+week, both lower court injunctions have been stayed
+pending appeal. Even as these punishing tariffs cause
+American businesses and consumers to bleed billions
+of dollars each month, there will be no relief any time
+soon.
+This case indisputably presents a question of
+paramount importance: whether IEEPA authorizes
+tariffs. That pure question of law, implicating core
+separation-of-powers concerns, is in fact the only
+merits question that the government believes courts
+have the power to answer. It will inevitably fall to this
+Court to resolve it definitively.
+(1)
+2
+In light of the tariffs’ massive impact on virtually
+every business and consumer across the Nation, and
+the unremitting whiplash caused by the unfettered
+tariffing power the President claims, challenges to the
+IEEPA tariffs cannot await the normal appellate
+process (even on an expedited timeline). There is
+ample reason for this Court to grant certiorari before
+judgment now so this case can be briefed over the
+summer and argued as soon as possible.
+OPINIONS BELOW
+The opinion of the district court, App., infra, 3a-
+43a, is reported at 2025 WL 1525376. The district
+court’s order staying its injunction, App., infra, 44a-
+45a, is unreported.
+JURISDICTION
+The order of the district court was entered on
+May 29, 2025, and was immediately appealable
+pursuant to 28 U.S.C. § 1292(a)(1). App., infra, 1a-2a.
+Respondents noticed an appeal to the U.S. Court of
+Appeals for the D.C. Circuit on May 30, 2025, which
+was docketed the same day. The Court has
+jurisdiction under 28 U.S.C. §§ 1254(1) and 2101(e).
+RELEVANT CONSTITUTIONAL AND
+STATUTORY PROVISIONS
+Article I, Section 8 of the United States
+Constitution states
+The Congress shall have Power To lay and
+collect Taxes, Duties, Imposts and Excises, to
+pay the Debts and provide for the common
+Defence and general Welfare of the United
+3
+States; but all Duties, Imposts and Excises
+shall be uniform throughout the United
+States[.]
+Cl. 1.
+To regulate Commerce with foreign Nations,
+and among the several States, and with the
+Indian Tribes[.]
+Cl. 3.
+The relevant provisions of IEEPA, Title II of Pub.
+L. No. 95-223, 91 Stat. 1626 (1977), are reproduced in
+the appendix to this petition. App., infra, 46a-51a.
+STATEMENT OF THE CASE
+A. Background
+1. The Constitution grants Congress the
+exclusive power to set tariff policy
+The imposition of tariffs is a distinctly legislative
+power that the Constitution assigns to Congress. U.S.
+CONST. art. I, § 8, cl. 1 (granting Congress the “[p]ower
+[t]o lay and collect Taxes, Duties, Imposts, and
+Excises”). Congress is thus “the principal venue in
+which trade policy is determined.” DOUGLAS A.IRWIN,
+CLASHING OVER COMMERCE:AHISTORY OF U.S.TRADE
+POLICY 2 (2017). Presidents may “demand, protest,
+denounce, and complain all they want,” but existing
+trade policy will not change absent a “majority in
+Congress.” Id. Because the Constitution vests the
+power to impose duties with Congress, the President’s
+ability to impose or alter tariffs is limited to
+circumstances where Congress provides specific
+authorization.
+4
+Congress has done so in a series of statutory
+enactments, all codified under Title 19 of the U.S.
+Code, which governs “Customs Duties” and carefully
+constrains the President’s authority. See 19 U.S.C.
+§§ 1338(a), 1862, 2132(a), 2253, 2411-2419. For
+example, Section 122 of the Trade Act of 1974
+authorizes the President to impose “duties” “not to
+exceed 15 percent ad valorem *** on articles imported
+into the United States” in order “to deal with large and
+serious United States balance-of-payments deficits,”
+but those tariffs expire after 150 days unless Congress
+enacts legislation to extend them. 19 U.S.C. § 2132(a).
+Those discrete and delimited statutory
+authorizations illustrate the President’s
+circumscribed role with respect to tariffs. The
+President has no independent power under Article II
+of the Constitution to set tariffs, and Congress “retains
+ultimate authority over trade policy.” IRWIN,supra, at
+21. If Congress in a statute has lawfully authorized
+the President to make decisions regarding tariffs, he
+may exercise that power under his duty to “take Care
+that the Laws be faithfully executed.” U.S. CONST. art.
+II, § 3. But absent such an authorization, “the
+President could not increase or decrease tariffs.”
+Consumers Union of U.S., Inc. v. Kissinger, 506 F.2d
+136, 142-143 (D.C. Cir. 1974).
+2. The International Emergency Economic
+Powers Act
+Under 50 U.S.C. § 1701(a), when the President
+declares a national emergency pursuant to the
+National Emergencies Act with respect to an “unusual
+and extraordinary threat” that has its source outside
+5
+the United States, the President may use the powers
+granted in § 1702 to “deal with” that threat. Section
+1702 provides, in relevant part, that the President
+may
+investigate, block during the pendency of an
+investigation, regulate, direct and compel,
+nullify, void, prevent or prohibit, any
+acquisition, holding, withholding, use,
+transfer, withdrawal, transportation,
+importation or exportation of, or dealing in,
+or exercising any right, power, or privilege
+with respect to, or transactions involving,
+any property in which any foreign country
+or a national thereof has any interest by any
+person, or with respect to any property,
+subject to the jurisdiction of the United
+States[.]
+50 U.S.C. § 1702(a)(1)(B).
+Since its enactment in 1977, Presidents have
+invoked IEEPA to address specific threats by specific
+countries and persons. To “deal with” those threats,
+Presidents have imposed different types of sanctions
+or remedies. Certain IEEPA-based executive orders
+have targeted the policies and actions of specific
+foreign governments and resulted in the imposition of
+comprehensive sanctions against countries or regions,
+which generally prohibit virtually all economic
+relations between U.S. persons and the targeted
+6
+jurisdiction. 1 Presidents have also sanctioned
+categories of foreign “persons,” which may include
+groups, political parties, terrorist organizations,
+corporations, and individuals. Some IEEPA actions
+have focused on persons in identified geographical
+areas (e.g., the Western Balkans),2 while others have
+focused on foreign persons engaged in activities
+creating emergency conditions regardless of
+nationality or geographic location.3 Such sanctions
+have blocked access to assets for designated persons,
+prevented their utilization of U.S. financial systems or
+credit, denied visas to or excluded the designated
+persons from the United States, or prohibited U.S.
+persons from engaging in transactions with the
+designated persons.
+Before February 1, 2025, however, no President
+had ever invoked IEEPA to impose a single tariff or
+duty on goods in the statute’s nearly 50-year history.
+1 Currently, the Department of the Treasury’s Office of
+Foreign Assets Control (“OFAC”) maintains comprehensive
+sanctions, in part based on IEEPA, against Cuba, Iran, North
+Korea, Syria, and the Crimea, Donetsk, and Luhansk Regions of
+Ukraine.
+2E.g., Exec. Order No. 13,219, Blocking Property of Persons
+Who Threaten International Stabilization Efforts in the Western
+Balkans, 66 Fed. Reg. 34,777 (Jun. 26, 2001).
+3 E.g., Exec. Order No. 13,581, Blocking Property of
+Transnational Criminal Organizations, 76 Fed. Reg. 44,757 (Jul.
+24, 2011).
+7
+3. The President bypasses Congress to
+impose tariffs through IEEPA
+President Trump, through a series of executive
+orders, has repeatedly bypassed Congress to impose
+tariffs unilaterally under IEEPA. With the stroke of a
+pen, he has dramatically changed United States tariff
+policy while all but admitting that none of the 4,732
+sections in Title 19 of the U.S. Code—the title
+governing customs duties—allows him to do so.
+The China Trafficking IEEPA Orders: On
+February 1, 2025, the President issued an executive
+order imposing 10% tariffs on China pursuant to
+“section 1702(a)(1)(B) of IEEPA.” Exec. Order No.
+14,195, Imposing Duties to Address the Synthetic
+Opioid Supply Chain in the People’s Republic of China,
+§ 1, 90 Fed. Reg. 9,121, 9,122 (Feb. 1, 2025). That
+order asserted that China had “fail[ed] to stem the
+ultimate source of many illicit drugs distributed in the
+United States.” Id. at 9,121. Roughly one month later,
+the President raised the tariffs from 10% to 20% based
+on his determination that China “ha[d] not taken
+adequate steps to alleviate the illicit drug crisis
+through cooperative enforcement actions.” Exec.
+Order No. 14,228, Further Amendment to Duties
+Addressing the Synthetic Opioid Supply Chain in the
+People’s Republic of China, § 1, 90 Fed. Reg. 11,463,
+11,463 (Mar. 3, 2025). Then, a month after that, he
+ordered the elimination of duty-free de minimis
+treatment for goods subject to these tariffs, ignoring a
+congressionally enacted statutory program that had
+permitted duty exemptions for imported goods valued
+at less than $800. Exec. Order No. 14,256, Further
+8
+Amendment to Duties Addressing the Synthetic Opioid
+Supply Chain in the People’s Republic of China as
+Applied to Low-Value Imports, 90 Fed. Reg. 14,899
+(Apr. 2, 2025).
+The 20% trafficking tariff on goods from China,
+along with additional tariffs described below, remains
+in force.
+The Reciprocal IEEPA Orders: On April 2, 2025,
+the President took an even more dramatic step under
+IEEPA, imposing on virtually all trading partners
+“reciprocal” tariffs consisting of (i) a 10% universal
+tariff, and (ii) an additional and higher country-
+specific tariff ranging from 11% to 50%. Exec. Order
+No. 14,257, Regulating Imports with a Reciprocal
+Tariff to Rectify Trade Practices that Contribute to
+Large and Persistent Annual United States Goods
+Trade Deficits, 90 Fed. Reg. 15,041 (Apr. 2, 2025).
+Then, on April 8, 2025, the President responded to
+retaliatory tariffs from China by raising the country-
+specific tariff rate on China by 50 percentage points—
+from 34% to 84%. Exec. Order No. 14,259, Amendment
+to Reciprocal Tariffs and Updated Duties as Applied to
+Low-Value Imports From the People’s Republic of
+China, 90 Fed. Reg. 15,509 (Apr. 8, 2025). The very
+next day, April 9, 2025, the President suspended for
+90 days the additional country-specific tariff on all
+countries except for China, for which he raised the
+“reciprocal” tariff again, this time from 84% to 125%.
+Exec. Order No. 14,266, Modifying Reciprocal Tariff
+Rates to Reflect Trading Partner Retaliation and
+Alignment,§§ 2, 3, 90 Fed. Reg. 15,625, 15,626 (Apr. 9,
+2025). Meanwhile, the 20% ad valorem tariff on
+9
+imports from China remained in place, such that most
+imports from China faced a minimum 145% IEEPA
+tariff. Id.4
+Starting May 14, 2025, President Trump paused
+the country-specific “reciprocal” tariff on China for a
+period of 90 days. Exec. Order No. 14,298, Modifying
+Reciprocal Tariff Rates To Reflect Discussions With the
+People’s Republic of China, 90 Fed. Reg. 21,831 (May
+12, 2025). The universal 10% tariff on China and 20%
+trafficking tariff on China were kept in place. On May
+30, 2025, President Trump suggested trade talks with
+China had broken down, posting on Truth Social that
+China “HAS TOTALLY VIOLATED ITS
+AGREEMENT WITH US” and “So much for being Mr.
+NICE GUY!”5 Then, just last week, the United States
+and China appeared to reach a new deal. But within
+12 hours of its announcement, its staying power was
+put into question by reports that China had agreed to
+approve its rare earth export licenses for just six
+months at a time.6 That same day, President Trump
+4 Agnes Chang, et al., How Much Are Tariffs on Chinese
+Goods? It’s Trickier Than You Think, N.Y. TIMES (Apr. 12, 2025),
+https://www.nytimes.com/interactive/2025/04/12/business/econo
+my/china-tariff-product-costs.html.
+5 Alan Rappeport et al., White House Revives Trade Spat
+With Fresh Attacks on China, N.Y. TIMES (May 30, 2025),
+https://www.nytimes.com/2025/05/30/us/politics/trump-china-
+trade.html.
+6 Ben Berkowitz, The only trade certainty is uncertainty,
+AXIOS (June 13, 2025), https://www.axios.com/2025/06/13/trump-
+tariffs-uncertainty.
+10
+also informed reporters of his plans to impose new
+tariffs on other trading partners.7
+4. IEEPA tariffs have major economic and
+political consequences
+As the President himself declared, his tariffs
+dramatically alter the trade and tariff policies
+developed by Congress over the last century. The
+President thus described the day he announced the
+IEEPA reciprocal tariffs orders as “one of the most
+important days in American history.”8
+The financial impact cannot be overstated. The
+United States imports trillions of dollars of goods
+every year.9 In 2024, the United States imported $439
+billion in goods from China alone.10 Administration
+officials (including the President) and outside experts
+7 Aditi Bharade, Trump said he will set unilateral ‘take it or
+leave it’ tariffs on trading partners in the next 2 weeks, BUS.
+INSIDER (June 12, 2025),
+https://www.businessinsider.com/trump-unilateral-take-it-or-
+leave-it-tariffs-coming-soon-2025-6.
+8Aimee Picchi, Trump reveals these 2 new types of tariffs on
+what he calls “Liberation Day,” CBS NEWS (Apr. 2, 2025).
+https://www.cbsnews.com/news/liberation-day-trump-tariffs-
+explained/.
+9 Ana Swanson, U.S. Trade Deficit Hit Record in 2024 as
+Imports Surged, N.Y. TIMES (Feb. 5, 2025) (United States
+imported $4.1 trillion in goods and services in 2024),
+https://www.nytimes.com/2025/02/05/business/economy/us-
+trade-deficit-2024-record.html.
+10 China Trade Summary, OFF. OF THE U.S. TRADE
+REPRESENTATIVE, https://ustr.gov/countries-regions/china-
+mongolia-taiwan/peoples-republic-china (last visited June 11,
+2025).
+11
+alike estimate the IEEPA tariffs will raise hundreds of
+billions (if not trillions) of dollars in revenue.11
+The IEEPA tariffs increase many times over what
+the United States would expect to collect in tariffs in
+their absence. See U.S. Customs and Border
+Protection, Trade Statistics (in 2024, CBP collected
+$88 billion dollars in tariffs).12 This money is not paid
+by foreign governments; it is paid primarily by
+American businesses (and ultimately American
+consumers) and equates to the largest peacetime tax
+increase in U.S. history.13 All told, the newly imposed
+tariffs are projected to amount to an average tax
+11 Bailey Schulz, Trump is rolling out more tariffs this
+month. Where does the tariff money go?, USA TODAY (Apr. 4,
+2025),
+https://www.usatoday.com/story/money/2025/04/03/trump-
+tariffs-where-will-money-go/82792578007/; Richard Rubin,
+Bessent Says Tariff Revenue Could Reach $600 Billion Annually,
+WALL ST. J. (Apr. 4, 2025),
+https://www.wsj.com/livecoverage/stock-market-tariffs-trade-
+war-04-04-2025/card/bessent-says-tariff-revenue-could-reach-
+600-billion-annually-QJfDGCPYDY1C72Ljg1pt; Erica York &
+Alex Durante, Trump Tariffs: Tracking The Economic Impact of
+the Trump Trade War, THE TAX FOUND. (June 2, 2025),
+https://taxfoundation.org/research/all/federal/trump-tariffs-
+trade-war/.
+12 https://perma.cc/D3HR-JD4Y (last visited June 16, 2025).
+13 Eric Boehm, Peter Navarro Says Tariffs Will Be a $6
+Trillion Tax Increase, but Also a Tax Cut, REASON MAG. (Mar. 31,
+2025), https://reason.com/2025/03/31/peter-navarro-says-tariffs-
+will-be-a-6-trillion-tax-increase-but-also-a-tax-cut/.
+12
+increase of $1,200-$2,800 per American household in
+2025.14
+The IEEPA tariffs are causing enormous
+uncertainty and financial distress for American
+businesses. “[W]ith trade policy living on three-to-six-
+month cycles[,] *** business planning [is] a
+nightmare.”15 “Indexes that measure trade policy
+uncertainty are almost literally off the charts, and
+surging again after a brief respite last month.”16
+Middle market firms are seeing declines in gross
+revenue and net earnings, and a 20% drop in capital
+expenditures.17 And smaller businesses are being
+pummeled to the brink of bankruptcy.18
+Many products will become more expensive for
+everyday American consumers who are already
+struggling with the effects of high inflation. Other
+consumer products will simply disappear from
+shelves. See Michael Collins, ‘Two Dolls Instead of 30’:
+Trump Acknowledges Prices Will Force Consumers to
+14 York & Durante, supra note 11; State of U.S. Tariffs: May
+12, 2025, THE BUDGET LAB (May 12, 2025),
+https://budgetlab.yale.edu/research/state-us-tariffs-may-12-
+2025.
+15 Berkowitz, supra note 6.
+16Id.
+17 Emily Peck, Midsize businesses struggle with high tariff
+costs, AXIOS (June 12, 2025),
+https://www.axios.com/2025/06/12/trump-tariffs-inflation-
+businesses.
+18E.g, ‘A matter of survival’: Small Businesses Speak Out
+on Tariffs, U.S.CHAMBER OF COM. (last updated: June 6, 2025),
+https://www.uschamber.com/small-business/american-workers-
+businesses-consumers-trade-tariffs.
+13
+Cut Back, USA TODAY (Apr. 30, 2025)19 (President:
+“You know, somebody said, ‘Oh, the shelves are going
+to be open.’” “Well, maybe the children will have two
+dolls instead of 30 dolls” and “maybe the two dolls will
+cost a couple of bucks more than they would
+normally.”). The IEEPA tariffs are projected to reduce
+GDP by 0.6 percent or more.20
+Varying estimates aside, all agree that the
+President’s IEEPA orders will fundamentally alter the
+American economic landscape.
+5. IEEPA tariffs are putting Petitioners’
+businesses at risk
+Petitioners are family-owned businesses, now in
+their fourth generation, that have created and sold
+over 2,000 hands-on educational toys and products for
+children. Their award-winning products are found in
+toy closets and classrooms across the country. With
+the mission to “bring learning to life,” Petitioners seek
+to help younger children develop verbal, counting, and
+19
+https://www.usatoday.com/story/news/politics/2025/04/30/trump-
+china-tariffs-toys/83372961007/.
+20 York & Durante, supra note 11; OECD Economic
+Outlook, Volume 2025 Issue 1: United States, OECD (June 3,
+2025) (anticipating a slow in GDP growth from 2.8% to 1.5% in
+2026 due in part to “the substantial increase in the effective tariff
+rate on imports and retaliation from some trading partners” and
+“high economic policy uncertainty”),
+https://www.oecd.org/en/publications/2025/06/oecd-economic-
+outlook-volume-2025-issue-1_1fd979a8/full-report/united-
+states_c69a8d2f.html#indicator-d1e10109-e43cfd16fc.
+14
+fine motor skills, and introduce older children to
+science, technology, engineering, and math.
+Although distinct legal entities, Petitioners are
+under common control and share certain employees, a
+single line of credit, and a single supply chain
+department. App., infra, 53a. Today, Petitioners
+employ over 500 people in the United States, with
+offices in Vernon Hills, Illinois; Torrance, California;
+and Amherst, New York. Id. at 53a-54a. Petitioners
+develop their products in the United States and
+perform some manufacturing and assembly
+domestically, but outsource most manufacturing to
+factories in other countries, including (but not limited
+to) China, Taiwan, Korea, Vietnam, Thailand, and
+India. Id.
+Because Petitioners import directly from China
+(as well as other countries affected by the challenged
+orders), the district court found the IEEPA tariffs
+“pose an existential threat to [Petitioners’]
+businesses.” App., infra, 37a. The tariff rates “are so
+high as to effectively prevent importation” from China.
+Id. at 55a. Attempting to pay the tariffs in 2025 would
+cost Petitioners $100 million in cash expenditures,
+compared with just $2.3 million in 2024—a 44-fold
+increase. Id. at 56a-57a. Unsurprisingly, Petitioners
+are bracing for large year-over-year sales declines. Id.
+at 58a-59a.
+B. Procedural History
+On April 22, 2025, Petitioners brought suit
+challenging the President’s authority to issue the
+IEEPA tariffs. Respondents moved to transfer the
+case to the CIT pursuant to 28 U.S.C. § 1581(i)(1),
+15
+which gives that court exclusive jurisdiction over “any
+civil action commenced against the United States, its
+agencies, or its officers, that arises out of any law of
+the United States providing for *** tariffs[.]”
+Petitioners moved for a preliminary injunction and
+opposed transfer on the ground that IEEPA is not a
+“law of the United States providing for *** tariffs.”
+On May 29, after full briefing and a hearing on
+both motions, the district court granted Petitioners a
+preliminary injunction, finding they had shown both a
+likelihood of success and irreparable harm. On the
+former, the district court held that IEEPA does not
+authorize the President “to unilaterally impose,
+revoke, pause, reinstate, and adjust tariffs to reorder
+the global economy,” App., infra, 4a—meaning both
+that the district court had jurisdiction and the
+challenged IEEPA tariffs were unlawful. On the
+latter, the district court determined that not only were
+the tariffs irreparably harming Petitioners, but they
+posed “an existential threat to [Petitioners’]
+businesses.” Id. at 37a. The court further found that
+the balance of harms and public interest weighed in
+Petitioners’ favor, especially considering that
+Petitioners sought a tailored injunction applicable
+only to themselves. Finally, the court entered an
+administrative stay of 14 days to allow Respondents to
+seek further review. Id. at 43a.
+On May 30, Respondents filed a notice of appeal.
+On June 2, Respondents filed motions to stay the
+preliminary injunction in both the district court and
+the D.C. Circuit. The following day, without seeking a
+response from Petitioners, the district court stayed its
+16
+injunction “pending disposition of the pending appeal
+before the United States Court of Appeals for the
+District of Columbia Circuit.” App., infra, 45a. In the
+D.C. Circuit, Respondents then moved to withdraw
+their stay motion as moot (which the court granted),
+and Petitioners sought—over Respondents’
+objection—to align their appeal schedule with that set
+by the Federal Circuit in the parallel CIT cases
+discussed next. See Pet’rs Mot. to Govern 2, Learning
+Resources, Inc. v. Trump, No. 25-5202 (D.C. Cir. June
+12, 2025). (The D.C. Circuit has not ruled as of this
+morning’s printer deadline.)
+C. The Court of International Trade
+Actions
+As this litigation unfolded in district court, the
+CIT concurrently considered challenges to the IEEPA
+tariffs. The government insisted IEEPA was a “law of
+the United States providing for *** tariffs” because the
+Court of Customs and Patent Appeals (“CCPA”)—a
+predecessor to the Federal Circuit—had concluded
+that language in the Trading with the Enemy Act
+(“TWEA”), later adopted in IEEPA, authorized tariffs.
+Defs’ Mot. to Transfer 8, Learning Resources, Inc. v.
+Trump, No. 1:25-cv-01248-RC (D.D.C. Apr. 24, 2025),
+ECF No. 8; see United States v. Yoshida Int’l, Inc.
+(Yoshida II), 526 F.2d 560 (C.C.P.A. 1975).
+The CIT issued a decision concluding the IEEPA
+tariffs are unlawful. V.O.S. Selections, Inc. v. United
+States, --- F. Supp. 3d ---, No. 25-00066, 2025 WL
+1514124 (Ct. Int'l Trade May 28, 2025). Using
+Yoshida II as a guide, the CIT concluded that,
+assuming IEEPA authorizes some tariffs, it does not
+17
+authorize these tariffs. Specifically, the court reasoned
+that IEEPA does not authorize the President’s
+reciprocal tariffs because IEEPA does not permit the
+imposition of tariffs to address balance-of-payments
+deficits outside the limits of Section 122 of the Trade
+Act, and that IEEPA does not authorize the
+President’s trafficking tariffs because those tariffs do
+not directly address the problem identified and
+instead aim only to gain leverage over other countries.
+Id. at *15, *19-21.
+On June 10, after an initial administrative stay,
+the Federal Circuit granted a stay pending appeal of
+the CIT’s nationwide injunction.
+REASONS FOR GRANTING THE WRIT
+This case presents a question of “imperative
+public importance”: Whether IEEPA authorizes the
+President to impose tariffs—and thereby unilaterally
+reshape the national economy and global trade policy.
+SUP. CT. R. 11. This Court has recently granted
+certiorari before judgment in cases of similar national
+importance and “staggering” economic and political
+significance. E.g., Biden v. Nebraska, 600 U.S. 477,
+489, 502 (2023).
+This Court should grant certiorari to decide that
+dispositive legal question now. It is the sole merits
+issue that the government contends courts can
+adjudicate in this litigation, and one that will
+inevitably fall to this Court to resolve definitively. The
+IEEPA tariffs are having a massive impact on
+virtually every business that relies on imports, many
+of whom (like Petitioners) are now facing an
+existential crisis. The tariffs are also subjecting
+18
+Americans to a tax hike in the hundreds of billions of
+dollars annually. And with IEEPA tariffs added and
+subtracted at will, with virtually no notice, they are
+making it impossible for American businesses to plan
+amid paralyzing uncertainty throughout the American
+economy. With the lower courts’ injunctions stayed,
+these harms are only multiplying.
+IEEPA does not give the President the vast power
+he has seized. IEEPA does not mention the word
+“tariff” or “tax,” and no other President in its nearly
+50-year history has ever relied on it for tariffing power.
+Respondents locate the power to tariff in the phrase
+“regulate *** importation.” But the Constitution, this
+Court, Congress, and every Presidential
+administration until this one have all treated the
+power to regulate as categorically distinct from the
+power to tax or tariff. Our country cannot wait any
+longer for this Court to resolve the vital question
+presented once and for all.
+I. This Court Should Grant Review To
+Determine Whether IEEPA Authorizes
+Tariffs
+The district court below held the IEEPA tariffs
+are unlawful because IEEPA is not a statute that
+provides for tariffs. That answer was the correct one,
+but it is this Court that must ultimately decide the
+issue. Though it is one of imperative importance, the
+question involves straightforward statutory
+interpretation.
+1. There is no dispute that the only conceivable
+textual hook in IEEPA for the power to tariff is the
+power to “regulate *** importation.” App., infra, 22a.
+19
+The key question, then, is whether those words—in
+light of plain meaning, context, history, and
+constitutional principles—should be construed to
+encompass the power to tariff. As the district court
+held, the answer is no.
+The Constitution separates the “[p]ower [t]o lay
+and collect Taxes, Duties, Imposts, and Excises” and
+the power to “regulate” foreign commerce into
+separate clauses. See U.S. CONST. art. I, § 8, cls. 1 and
+3. Chief Justice Marshall early on confirmed the
+distinction between the powers to tax and regulate,
+describing the two grants as “not *** similar in their
+terms or their nature.” Gibbons v. Ogden, 22 U.S. (9
+Wheat) 1, 198-199 (1824). Hence, when Congress has
+delegated the power to impose tariffs to the Executive
+Branch, it always has done so expressly—as codified
+throughout Title 19 of the United States Code
+(governing “Customs Duties”). And when Congress
+has given the Executive Branch the generic power to
+“regulate” (including to regulate foreign commerce), it
+has never thereby delegated the power to tax.
+Tellingly, until now, no President has ever relied on a
+power to “regulate *** importation” to impose tariffs.
+All prior Presidents rightly understood that Congress
+does not hide vast tariffing power in language the
+Constitution, the Supreme Court, Congress, and
+longstanding Executive Branch practice have all
+considered definitionally distinct.
+Plain meaning, consistent with the Constitution’s
+express delineation, supports the distinction between
+“regulate” and “tariff.” To regulate something means
+to “‘[c]ontrol by rule’ or ‘subject to restrictions.’”
+20
+Regulate, THE CONCISE OXFORD DICTIONARY OF
+CURRENT ENGLISH 943 (6th ed. 1976). To tariff means
+to impose “duties or customs *** on imports or
+exports.” Tariff, RANDOM HOUSE DICTIONARY OF THE
+ENGLISH LANGUAGE 1454 (1973). In other words, a
+tariff is a tax and “the essential feature of any tax” is
+that “[i]t produces at least some revenue[.]” National
+Fed’n of Indep. Bus. v. Sebelius, 567 U.S. 519, 564
+(2012).
+Respondents have not cited a single other statute
+where the power to “regulate” has been understood as
+authority to tax or tariff. The Securities and Exchange
+Commission has had the power to “regulate” certain
+“transactions on a national securities exchange” for
+nearly a century. 15 U.S.C. § 78k(a)(2); see also
+Securities Exchange Act of 1934, Pub. L. No. 73-291,
+§ 11(a)(1), 48 Stat. 881, 891 (“The Commission shall
+prescribe *** rules and regulations *** to regulate or
+prevent floor trading by members of national
+securities exchanges.” (emphasis added)). Yet the
+SEC has never thereby asserted a power to tax such
+transactions. Nor has the Food and Drug
+Administration claimed the power to tax any “drug,
+biological product, device, or *** combination product”
+based on that agency’s authority to “regulate” such
+products. 21 U.S.C. § 360bbb-2(a). “When a statute
+authorizes an agency to promulgate regulations on a
+topic, the agency can implement rules or restrictions
+relating to that topic” but it cannot “use its standard
+regulatory powers to raise revenue by imposing fees,
+tariffs, or taxes.” App., infra, 28a-29a.
+21
+It is no surprise that when Congress does seek to
+address the authority to regulate and the authority to
+tax in a single provision, it names the two as
+individually distinct powers. See, e.g., 49 U.S.C.
+§ 40117(j) (state actors may not “tax, regulate, or
+prohibit *** the imposition or collection of a passenger
+facility charge or the use of the revenue from the
+passenger facility charge” (emphasis added)); 16
+U.S.C. § 460bbb-9(a) (specifying state still had power
+“to tax *** private property on the lands and waters
+included in the recreation area, or to regulate the
+private lands within the recreation area” (emphases
+added)); see also 2 U.S.C. § 622(8)(B)(1) (“government-
+sponsored enterprise” does not have “power to tax or
+to regulate interstate commerce” (emphasis added)).
+When Congress has authorized the President or
+an agency to exercise tariff power, moreover, it has
+used unmistakable language to grant that authority
+(in Title 19). For example, Section 122 of the Trade
+Act of 1974 authorizes the President to impose an
+“import surcharge *** in the form of duties *** on
+articles imported into the United States” to “deal with
+large and serious United States balance-of-payments
+deficits.” 19 U.S.C. § 2132(a) (emphasis added). And
+Section 301 of the Trade Act of 1974 authorizes the
+United States Trade Representative—who serves
+under the President—to “impose duties or other
+import restrictions on the goods of” a foreign country
+in specified circumstances. 19 U.S.C. § 2411(c)
+(emphasis added).
+To be sure, the purpose of taxation can sometimes
+be viewed broadly as a “regulat[ory]” tool. Cf. Sebelius,
+22
+567 U.S. at 564 (individual mandate constitutional
+under power to tax but not regulate commerce). But
+for all the reasons explained, that does not change the
+fundamental character of tariffs as a tax—a power
+Congress must delegate more explicitly.
+No such delegation exists in IEEPA. The power
+to “regulate *** importation” is best understood as
+giving the President the power to limit the quantity or
+quality of products through, for instance, licensing
+schemes or sanctions—i.e., IEEPA’s actual historical
+purview. See App., infra, 24a-25a; see generally
+CHRISTOPHER A. CASEY ET AL., CONG. RSCH. SERV.,
+R45618, THE INTERNATIONAL EMERGENCY ECONOMIC
+POWERS ACT: ORIGINS, EVOLUTION, AND USE (2024).
+The verbs surrounding “regulate” in Section
+1702(a)(1)(B)—“investigate,” “direct,” “compel,”
+“nullify,” “void,” “prevent,” and “prohibit”—confirm
+that Congress did not bury the power to raise revenue
+in the power to regulate. See Yates v. United States,
+574 U.S. 528, 543 (2015) (“[W]e rely on the principle of
+noscitur a sociis—a word is known by the company it
+keeps—to avoid ascribing to one word a meaning so
+broad that it is inconsistent with its accompanying
+words, thus giving unintended breadth to the Acts of
+Congress.” (internal quotation marks omitted)); App.,
+infra, 28a-29a. No power conferred in Section 1702
+indicates Congress intended to delegate the power to
+tax in IEEPA.
+Historical practice confirms IEEPA does not
+delegate the power to tariff. “In the five decades since
+IEEPA was enacted, no President until now has ever
+invoked the statute—or its predecessor, TWEA—to
+23
+impose tariffs.” App., infra, 27a; see Loper Bright
+Enters. v. Raimondo, 603 U.S. 369, 386 (2024) (“[T]he
+longstanding practice of [Defendants] *** can inform a
+court’s determination of what the law is.” (internal
+quotation marks and alteration omitted)). And
+“[e]very time Congress [has] delegated the President
+the authority to levy duties or tariffs in Title 19 of the
+U.S. Code, it established express procedural,
+substantive, and temporal limits on that authority.”
+App., infra, 24a. Yet the President now claims “a
+virtually unrestricted tariffing power under IEEPA,”
+id. at 26a, implicating a “major question,” Nebraska,
+600 U.S. at 504-506. “This lack of historical precedent,
+coupled with the breadth of authority that the
+[President] now claims, is a telling indication that the
+[tariffs] extend[] beyond the [President’s] legitimate
+reach.” National Fed’n of Indep. Bus. v. Department of
+Lab., Occupational Safety & Health Admin., 595 U.S.
+109, 119 (2022) (internal quotation marks omitted).
+Indeed, if Congress did delegate to the President
+unfettered and unreviewable discretion to remake the
+national and global economies by imposing tariffs of
+any size or reach (as Respondents argued below), there
+would be serious non-delegation concerns. See, e.g.,
+Industrial Union Dep’t, AFL-CIO v. American
+Petroleum Inst., 448 U.S. 607, 646 (1980) (plurality
+op.) (rejecting statutory construction that would
+“make such a sweeping delegation of legislative power
+that it might be unconstitutional under the Court’s
+reasoning in” A.L.A. Schechter Poultry & Panama
+Refining Co. v. Ryan, 293 U.S. 388 (1935) (internal
+quotation marks omitted)). And other constitutional
+problems would arise. Although the Constitution
+24
+prohibits export taxes, U.S. CONST. art. I, § 9, cl. 5,
+IEEPA gives the President the power to “regulate ***
+importation or exportation.” App., infra, 30a (citing 50
+U.S.C. § 1702(a)(1)(B) (emphasis added)). If “regulate”
+included the power to tariff, then IEEPA would be
+unconstitutional with respect to half that clause. See
+Cochise Consultancy, Inc. v. United States ex rel. Hunt,
+587 U.S. 262, 268 (2019) (“In all but the most unusual
+situations, a single use of a statutory phrase must
+have a fixed meaning.”). This Court should construe
+IEEPA to avoid those constitutional concerns, i.e., as
+excluding the power to levy tariffs.
+2. Respondents’ contrary arguments rely
+substantially on Yoshida II, a 1975 decision from the
+CCPA interpreting the President’s authority under
+TWEA. That decades-old decision is unpersuasive and
+cannot justify any assertion of tariffing power under
+IEEPA.
+Yoshida II addressed President Nixon’s
+imposition of a 10% surcharge on imported goods in
+the summer of 1971. 526 F.2d at 567. Although the
+President’s proclamation did not cite it, the
+Department of Justice later relied on TWEA in
+defending a challenge to the surcharge. Yoshida Int’l
+Inc. v. United States (Yoshida I), 378 F. Supp. 1155,
+1157 (Cust. Ct. 1974). In reversing a three-judge
+Customs Court panel holding that “regulate” did not
+empower the President to impose tariffs, see id. at
+1172, the CCPA relied on now-outdated reasoning to
+conclude that “the primary implication of an
+emergency power is that it should be effective to deal
+with a national emergency successfully” and
+25
+“regulate” thus must encompass the power to tariff,
+526 F.2d at 573. Rather than analyze TWEA’s list of
+specific powers, the CCPA simply noted that the
+statute’s grant of authority was “broad indeed.” Id.
+In 1977, Congress enacted IEEPA, which gave
+the President certain emergency powers in peacetime.
+Respondents have argued that Congress must have
+intended to ratify Yoshida II because Congress was
+aware of the decision when it carried some of TWEA’s
+language—including “regulate *** importation”—into
+IEEPA. But the only passing reference to Yoshida II
+appears in a background section of a House Committee
+markup drawn from a memorandum drafted by the
+Department of Justice—a section that also cited
+Yoshida I’s contrary holding and the fact that
+President Nixon had never invoked TWEA. See H.R.
+REP. NO. 95-459, at 3 & n.6, 5 (1977). There is no
+indication that Congress intended to adopt Yoshida
+II’s holding, and a single decision by a lower court
+construing a statute that conflicts with the only other
+decision on the topic is not the type of “settled
+precedent” that gives rise to a presumption of
+ratification. BP P.L.C. v. Mayor & City Council of
+Baltimore, 141 S. Ct. 1532, 1541 (2021) (“It seems
+most unlikely to us that a smattering of lower court
+opinions could ever represent the sort of judicial
+consensus so broad and unquestioned that we must
+presume Congress *** endorsed it.” (internal
+quotation marks omitted)).
+Moreover, in the interim, Congress (at President
+Nixon’s request) had enacted the Trade Act of 1974,
+including Section 122, which specifically authorized
+26
+the surcharges President Nixon imposed. See App.,
+infra, 34a-35a. Even Yoshida II questioned the
+continued validity of its own reasoning in Section 122’s
+wake. See 526 F.2d at 582 n.33. That superseding
+event puts to bed any argument that Congress ratified
+Yoshida II.
+Every President accordingly has understood that
+IEEPA is not a source of tariff-imposing authority.
+Where Presidents (including, until recently, President
+Trump) have imposed tariffs, they have done so
+through laws other than IEEPA. For example, the
+President has repeatedly relied on other actual tariff
+laws to impose tariffs on China, steel, and aluminum,
+including in his second Term. See, e.g., Fact Sheet:
+President Donald J. Trump Restores Section 232
+Tariffs, THE WHITE HOUSE (Feb. 11, 2025) (relying on
+Section 232 of the Trade Expansion Act of 1962);21
+Proclamation No. 9704, 83 Fed. Reg. 11,619 (Mar. 8,
+2018) (same); Memorandum on the Actions by the
+United States Related to the Section 301 Investigation,
+2018 DAILY COMP. PRES. Doc. 1 (Mar. 22, 2018)
+(imposing tariffs on China under Section 301 of the
+Trade Act of 1974).22
+II. This Court Should Grant Review Now To
+Decide An Issue Of Paramount Importance
+Whether the President has authority to impose
+tariffs under IEEPA is of such imperative importance
+that it warrants review now. SUP. CT. R. 11. The
+21 https://www.whitehouse.gov/fact-sheets/2025/02/fact-
+sheet-president-donald-j-trump-restores-section-232-tariffs/.
+22 https://perma.cc/H2NS-QNPQ.
+27
+President announced the reciprocal IEEPA tariffs in
+the Rose Garden, calling it “one of the most important
+days in American history.” 23 It was indeed a
+consequential one: According to an analysis by JP
+Morgan, that round of tariffs alone “would hike taxes
+on Americans by $660 billion a year, the largest tax
+increase in recent memory by a longshot,” and “cause
+prices to surge” by “adding 2% to the Consumer Price
+Index.”24 Since the beginning of the year, the tariff
+onslaught has caused “the nation’s overall average
+effective tariff rate” to jump from “2.5 percent” to
+“around 27 percent”—more than a tenfold increase,
+and “the highest for the U.S. in more than a century.”25
+In recent terms, this Court has granted certiorari
+before judgment to allow prompt review in cases of
+similarly (or less) far-reaching political and economic
+importance. See, e.g., Department of Educ. v. Brown,
+600 U.S. 551, 556 (2023); Nebraska, 600 U.S. at 489;
+United States v. Texas, 599 U.S. 670, 675 (2023); Whole
+Woman’s Health v. Jackson, 595 U.S. 30, 35 (2021);
+Department of Com. v. New York, 588 U.S. 752, 766
+(2019).
+23 Picchi, supra note 8.
+24 David Goldman & Elisabeth Buchwald, Trump’s tariffs
+will probably plunge the global economy into recession this year,
+JPMorgan analysts says, CNN (Apr. 2, 2025),
+https://www.cnn.com/business/live-news/tariffs-trump-news-04-
+02-25#cm90qyswp001x3b6nd1mkndo5.
+25 Sudeep Reddy, Reality Check: What Trump’s Supposed
+Retreat Really Means in a Historic Trade War, POLITICO (Apr.10,
+2025),
+https://www.politico.com/news/magazine/2025/04/10/tariff-
+reality-check-trump-retreat-00285270.
+28
+Throughout this litigation, Respondents have
+emphasized the “significance of these issues.” Defs’
+Mot. for Stay 4, Learning Resources, Inc. v. Trump, No.
+1:25-cv-01248-RC (D.D.C. June 2, 2024), ECF No. 41.
+Respondents submitted to the district court
+declarations from no less than four Cabinet
+members—the Secretary of State, Secretary of the
+Treasury, Secretary of Commerce, and U.S. Trade
+Representative—to highlight the consequential
+nature of the question presented. App., infra, 41a-42a.
+And the Federal Circuit recognized that the related
+cases pending there “present issues of exceptional
+importance.” Order 3, V.O.S. Selections, Inc. v. United
+States, No. 25-1812 (Fed. Cir. June 10, 2025), ECF No.
+51. Only this Court can rule with the necessary
+authority to resolve them.
+Petitioners also need swift and conclusive
+resolution. The district court recognized the
+significant “irreparable harm” that Petitioners face—
+indeed, the “existential threat to their businesses.”
+App., infra, 37a; see id. at 38a-39a (rejecting
+government’s argument that such “harms are
+speculative and conclusory”). “And because their
+financial recovery is limited to the value of any tariffs
+they wrongly pay, [Petitioners] will not be able to
+recover lost profits, lost customers, or the additional
+costs of finding replacements for high-tariff imports.”
+Id. at 38a-39a (internal quotation marks, citation, and
+alteration omitted). Those are akin to the escalating
+harms suffered by small businesses around the
+29
+country.26 Because the lower courts’ injunctions have
+been stayed, these nationwide harms will mount until
+this Court finally settles the matter.
+The wide-ranging constellation of amici
+supporting challenges to the IEEPA tariffs
+underscores their exceptional and pressing nature.
+Those amici include a group of constitutional scholars
+and public servants from across the political spectrum,
+including Steven G. Calabresi, Richard A. Epstein,
+Harold Hongju Koh, Michael W. McConnell, Michael
+B. Mukasey, Peter J. Wallison, and Philip Zelikow.27
+They also include the CATO Institute;28 the Institute
+for Policy Integrity at New York University School of
+26 Lisa Eadicicco, Small businesses struggle under Trump’s
+tariff whiplash: ‘I’m so angry that my own government has done
+this to me’, CNN (June 1, 2025),
+https://www.cnn.com/2025/06/01/business/small-businesses-
+struggle-under-trumps-tariffs.
+27 Amici Brief of Former Senators, Attorney General,
+Federal Judges, and Scholars, Learning Resources, Inc. v. Trump,
+No. 1:25-cv-01248-RC (D.D.C. May 7, 2025), ECF No. 19-1.
+28 Amicus Brief of the CATO Institute, Emily Ley Paper,
+Inc. v. Trump, No. 3:25-cv-00464-TKW-ZCB (N.D. Fla. May 12,
+2025), ECF No. 27-1.
+30
+Law;29 the Brennan Center for Justice;30 and many
+members of the U.S. Senate and House.31
+According to Respondents, the central question—
+whether IEEPA authorizes tariffs—is the only
+question courts have the power to decide. Compare
+App., infra, 97a-98a (“[W]e agree with the plaintiffs
+that the Court can review the threshold statutory
+question of whether IEEPA authorizes tariffs[.]”), with
+App., infra, 98a-99a (arguing political question
+doctrine precludes courts from reviewing whether the
+IEEPA tariffs address an “unusual and extraordinary
+threat” or are an appropriate means to their ends).
+That question is well ventilated in the district court’s
+thorough opinion and the ample briefing to date across
+multiple cases.
+Addressing that central question now has the
+added benefit of simultaneously resolving the
+principal merits issue and disposing of a jurisdictional
+question that has split the courts: whether the federal
+district courts have jurisdiction (because IEEPA does
+not provide for tariffs) or whether the CIT has
+29Amicus Brief of the Institute for Policy Integrity at New
+York University School of Law, V.O.S. Selections, Inc. v. Trump,
+No. 1:25-cv-00066-GSK-TMR-JAR (Ct. Int’l Trade May 8, 2025),
+ECF No. 39-1.
+30 Amicus Brief of the Brennan Center for Justice,
+California v. Trump, No. 3:25-cv-03372-JSC (N.D. Cal. May 20,
+2025), ECF No. 33-1.
+31Amici Brief of 33 Members of the United States Senate,
+V.O.S. Selections, Inc. v. Trump, No. 25-1812 (Fed. Cir. June 9,
+2025), ECF No. 49; Amici Brief of 148 Members of Congress,
+Oregon v. Trump, No. 1:25-cv-00077-GSK-TMR-JAR (Ct. Int’l
+Trade May 16, 2025), ECF No. 40.
+31
+jurisdiction (because IEEPA does provide for tariffs).
+See 28 U.S.C. § 1581(i)(1) (giving the CIT jurisdiction
+over “any civil action commenced against the United
+States, its agencies, or its officers, that arises out of
+any law of the United States providing for *** tariffs”).
+This case is thus similar to K Mart Corp. v. Cartier,
+Inc., where the Court granted certiorari in a case
+arising from the U.S. District Court for the District of
+Columbia in order to resolve “both the jurisdictional
+issue” under Section 1581(i) “and the merits,” with
+this Court ultimately concluding jurisdiction lay in the
+district court rather than the CIT. 485 U.S. 176, 182
+(1988). This Court should not delay clarifying
+jurisdiction any more than it should delay resolving
+the merits.
+Respondents have in fact already conceded that,
+at some point, a writ of certiorari before judgment may
+be necessary. See Resp. Mot. to Govern 5, Learning
+Resources, Inc. v. Trump, No. 25-5202 (D.C. Cir. June
+13, 2025). There is no reason to delay. The costs of
+waiting for full merits opinions from the D.C. Circuit
+or from the Federal Circuit in the CIT cases (where no
+appeal brief has yet been filed) far outweigh any
+benefits. Granting certiorari now will allow the Court
+to order briefing to be completed in advance of this
+Court’s first argument session for the October 2025
+Term—or even for a special early sitting in September.
+Finally, the fact that Petitioners prevailed in the
+district court poses no bar to granting certiorari before
+judgment, either as a statutory or constitutional
+matter. This Court may review cases “in the courts of
+appeals” upon a petition for certiorari before judgment
+32
+by “any party to any civil or criminal case.” 28 U.S.C.
+§ 1254(1) (emphasis added); see also 28 U.S.C.
+§ 2101(e) (“An application to the Supreme Court for a
+writ of certiorari to review a case before judgment has
+been rendered in the court of appeals may be made at
+any time before judgment.”). That language “covers
+petitions brought by litigants who have prevailed, as
+well as those who have lost, in the court below.”
+Camreta v. Greene, 563 U.S. 692, 700 (2011) (citing
+Eugene Gressman et al., Supreme Court Practice 87
+(9th ed. 2007)).32 Moreover, it is beyond doubt that
+this case presents a live case or controversy:
+Respondents’ appeal seeking reversal is pending in the
+D.C. Circuit, and the serious harms the district court
+found Petitioners are suffering from the IEEPA tariffs
+remain acute and ongoing (particularly in light of the
+stay of the district court’s injunction). There is thus
+no impediment to—and uniquely compelling reasons
+in favor of—this Court’s immediate review.
+32 This Court has granted review of petitions filed by
+prevailing parties on numerous occasions. See, e.g., Mistretta v.
+United States, 488 U.S. 361, 371 (1989) (granting petitions of both
+Mistretta and United States where district court ruled in favor of
+United States on constitutionality of federal sentencing
+guidelines); United States v. Nixon, 418 U.S. 683, 689-690 (1974)
+(granting petition of United States where district court denied
+President Nixon’s motions regarding subpoena issued by United
+States); see also, e.g., Wilson v. Girard, 354 U.S. 524, 526 (1957);
+Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 937, 937 (1952)
+(per curiam); United States v. United Mine Workers of Am., 330
+U.S. 258, 269 (1947).
+33
+CONCLUSION
+The petition for a writ of certiorari before
+judgment should be granted.
+Respectfully submitted.
+Pratik A. Shah
+Counsel of Record
+James E. Tysse
+Matthew R. Nicely
+Daniel M. Witkowski
+Kristen E. Loveland
+AKIN GUMP STRAUSS
+HAUER &FELD LLP
+Counsel for Petitioners
+June 17, 2025

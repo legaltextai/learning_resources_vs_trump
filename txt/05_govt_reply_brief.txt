@@ -1,0 +1,1369 @@
+Nos. 24-1287 & 25-250
+In the Supreme Court of the United States
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL., PETITIONERS
+v.
+V.O.S. SELECTIONS, INC., ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+AND ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+REPLY BRIEF FOR THE RESPONDENTS IN NO. 24-1287
+AND THE PETITIONERS IN NO. 25-250
+D. JOHN SAUER
+Solicitor General
+Counsel of Record
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+TABLE OF CONTENTS
+Page
+I. IEEPA authorizes the challenged tariffs ..................... 4
+A. Authority to “regulate importation” includes
+tariffs ......................................................................... 4
+B. Plaintiffs’ contrary interpretation lacks merit ... 12
+C. The major-questions doctrine does not
+support plaintiffs’ reading .................................... 20
+D. The tariffs here satisfy IEEPA’s other
+conditions ................................................................ 25
+1. The trade tariffs address “unusual and
+extraordinary” threats ................................... 25
+2. The trafficking tariffs “deal with” the
+declared threats and emergencies ................ 29
+3. Section 122 of the Trade Act of 1974 does
+not displace IEEPA ........................................ 31
+II. IEEPA raises no nondelegation concerns .................. 32
+III. The Learning Resources district court lacked
+jurisdiction ...................................................................... 34
+TABLE OF AUTHORITIES
+Cases:
+Alabama Association of Realtors v. Department of
+Health & Human Services, 594 U.S. 758 (2021) ............. 24
+American Insurance Association v. Garamendi,
+539 U.S. 396 (2003).......................................................... 4, 22
+Biden v. Nebraska, 600 U.S. 477 (2023) ................... 14, 23-25
+Board of Trustees v. United States,
+289 U.S. 48 (1933) ..................................................... 5, 13, 14
+Branch v. Smith, 538 U.S. 254 (2003) .................................. 18
+Cargo of Brig Aurora v. United States,
+11 U.S. 7 Cranch 382 (1813) ............................................... 33
+Cross v. Harrison, 16 How. 164 (1854) ................................ 10
+Dalton v. Specter, 511 U.S. 462 (1994) ................................. 26
+(I)
+II
+Cases—Continued: Page
+Dames & Moore v. Regan,
+453 U.S. 654 (1981)......................................... 7, 10, 22, 30, 31
+Department of Agriculture Rural Development
+Rural Housing Service v. Kirtz,
+601 U.S. 42 (2024) ......................................................... 17, 31
+Department of Transportation v. Association
+of American Railroads, 575 U.S. 43 (2015) ..................... 33
+Eidman v. Martinez, 184 U.S. 578 (1902) ..................... 13, 14
+FCC v. AT&T Inc., 562 U.S. 397 (2011) ................................. 6
+FCC v. Consumers’ Research,
+145 S. Ct. 2482 (2025) ............................................. 14, 21, 32
+FDA v. Brown & Williamson Tobacco Corp.,
+529 U.S. 120 (2000).............................................................. 24
+FEA v. Algonquin SNG, Inc.,
+426 U.S. 548 (1976)............................................ 5, 6, 8, 21, 32
+Fleming v. Page, 9 How. 603 (1850) .................................... 10
+Gibbons v. Ogden, 9 Wheat. 1 (1824) ..................................... 5
+Global Relief Foundation, Inc. v. O’Neill,
+315 F.3d 748 (7th Cir. 2002), cert. denied,
+540 U.S. 1003 (2003) ............................................................ 20
+Gundy v. United States, 588 U.S. 128 (2019) ...................... 33
+Hamilton v. Dillin, 21 Wall. 73 (1875) ................................ 10
+Hartranft v. Wiegmann, 121 U.S. 609 (1887) ............... 13, 14
+Holy Land Foundation for Relief & Development v.
+Ashcroft, 333 F.3d 156 (D.C. Cir. 2003),
+cert. denied, 540 U.S. 1218 (2004) ............................... 19, 20
+J.W. Hampton, Jr., & Co. v. United States,
+276 U.S. 394 (1928).............................................................. 32
+Lincoln v. United States, 197 U.S. 419 (1905) .................... 10
+Loving v. United States, 517 U.S. 748 (1966) ........... 3, 16, 22
+Marshall Field & Co. v. Clark, 143 U.S. 649 (1892) ........... 33
+McGoldrick v. Gulf Oil Corp., 309 U.S. 414 (1940) .............. 5
+III
+Cases—Continued: Page
+Mistretta v. United States, 488 U.S. 361 (1988) ................. 16
+NFIB v. OSHA, 595 U.S. 109 (2022) ............................. 24, 25
+Patel v. Garland, 596 U.S. 328 (2022).................................. 19
+Pugin v. Garland, 599 U.S. 600 (2023) ................................ 18
+Regan v. Wald, 468 U.S. 222 (1984) ..................................... 11
+Robers v. United States, 572 U.S. 639 (2014) ...................... 17
+Soto v. United States, 605 U.S. 360 (2025) .................... 14, 15
+The Emily, 9 Wheat. 381 (1824) ........................................... 20
+Trump v. Hawaii, 585 U.S. 667 (2018) .......................... 26, 29
+United States v. Curtiss-Wright Export Corp.,
+299 U.S. 304 (1936)........................................................ 32, 33
+United States v. Yoshida International, Inc.,
+526 F.2d 560 (C.C.P.A. 1975) ....................................... 11, 12
+West Virginia v. EPA, 597 U.S. 697 (2022) .................... 3, 21
+Youngstown Sheet & Tube Co. v. Sawyer,
+343 U.S. 579 (1952)......................................... 4, 14, 26, 32, 33
+Zemel v. Rusk, 381 U.S. 1 (1965) ................................... 22, 33
+Statutes and regulations:
+Expatriation Act of 1868, 22 U.S.C. 1732 ............................ 31
+First War Powers Act, 1941, ch. 593,
+§ 301, 55 Stat. 839 ............................................................... 18
+Hostage Act, 22 U.S.C. 1732................................................. 31
+International Emergency Economic Powers Act,
+Pub. L. No. 95-223, Tit. II, 91 Stat. 162
+(50 U.S.C. 1701 et seq.) ......................................................... 2
+50 U.S.C. 1701(a) ........................................... 16, 25, 26, 29
+50 U.S.C. 1701(b) ............................................................. 30
+50 U.S.C. 1702 .................................................................. 15
+50 U.S.C. 1702(a)(1)(B) ................................... 7, 17, 19, 20
+50 U.S.C. 1702(b)(1)-(4)............................................. 15, 34
+IV
+Statutes and regulations—Continued: Page
+50 U.S.C. 1703 ............................................................ 15, 34
+National Emergencies Act, Pub. L. No. 94-412,
+90 Stat. 1255 (50 U.S.C. 1601 et seq.) ................................ 16
+50 U.S.C. 1621 .................................................................. 26
+50 U.S.C. 1622 .................................................................. 26
+50 U.S.C. 1622(a)-(c).................................................. 15, 34
+50 U.S.C. 1622(d) ....................................................... 15, 34
+50 U.S.C. 1631 ...................................................... 15, 26, 34
+50 U.S.C. 1641 ............................................................ 15, 34
+50 U.S.C. 1703 ............................................................ 15, 34
+Trade Act of 1974, Pub. L. No. 93-618, § 122,
+88 Stat. 1987 (19 U.S.C. 2132) ............................................ 31
+19 U.S.C. 2483 ............................................................ 34, 35
+19 U.S.C. 3004(c)(1)(C) ............................................. 34, 35
+Trading with the enemy Act, ch. 106, 40 Stat. 411 ............... 9
+§ 5(b), 40 Stat. 415 ........................................................... 18
+§ 11, 40 Stat. 422-423 ....................................................... 18
+50 U.S.C. 4305(b)(1)(B) ............................................. 11, 33
+7 U.S.C. 608c(1) ........................................................................ 6
+7 U.S.C. 7702(14) ..................................................................... 7
+7 U.S.C. 7711 ............................................................................ 7
+7 U.S.C. 7711(a) ....................................................................... 7
+15 U.S.C. 78i(h)(1).................................................................... 6
+28 U.S.C. 1581(i)(1) .......................................................... 34, 35
+46 U.S.C. 4304 .......................................................................... 7
+31 C.F.R. 510.313 ................................................................... 19
+Miscellaneous:
+Black’s Law Dictionary (5th ed. 1979) ................................. 5
+Executive Order No. 14,257, 90 Fed. Reg. 15,041
+(Apr. 7, 2025) ......................................................................... 1
+V
+Miscellaneous—Continued: Page
+Executive Order No. 14,285, 90 Fed. Reg. 17,735
+(Apr. 29, 2025) ..................................................................... 29
+Alexander Hamilton, Report on the Subject of Manu-
+factures (Dec. 5, 1791), reprinted in 10 The Papers
+of Alexander Hamilton (1966) ...................................... 5, 28
+John Keilman, Volvo Pivots to U.S. Production,
+Wall St. J., Sept. 29, 2025 ................................................... 23
+Press Release, The White House, Agreement
+Between the United States of America and
+Malaysia on Reciprocal Trade (Oct. 26, 2026)................ 24
+Reuters, China expands rare earths restrictions,
+targets defense and chips users,
+perma.cc/E5PY-YT79 (Oct. 10, 2025) ............................... 28
+S. J. Res. 77, 119th Cong., 1st Sess. (2025) ......................... 17
+Antonin Scalia & Bryan A. Garner, Reading Law:
+The Interpretation of Legal Texts (2012) ........................... 9
+Cat Zakrzewski et al., Trump cuts tariffs on China
+after ‘truly great’ meeting with Xi, Washington
+Post (Oct. 30, 2025), perma.cc/4UM4-R8JN .................... 29
+In the Supreme Court of the United States
+No. 24-1287
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+No. 25-250
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL., PETITIONERS
+v.
+V.O.S. SELECTIONS, INC., ET AL.
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+REPLY BRIEF FOR THE RESPONDENTS IN NO. 24-1287
+AND THE PETITIONERS IN NO. 25-250
+Shortly after taking office, President Trump deter-
+mined that the nation stood at the precipice of an eco-
+nomic and national-security crisis caused by sustained
+trade deficits that fostered dependency on foreign ri-
+vals and gutted American manufacturing. Executive
+Order No. 14,257, 90 Fed. Reg. 15,041 (Apr. 7, 2025).
+The President and his advisors determined that “ongo-
+ing * * * emergency of historic proportions,” 25-1812
+(1)
+2
+CAFC Doc. 158, at 6 (Aug. 29, 2025) (Lutnick), has
+brought America to “the brink of a major economic and
+national-security catastrophe,” 25-250 Mot. to Expedite
+2a (Bessent). President Trump also declared an emer-
+gency arising from the fentanyl-importation crisis that
+has taken hundreds of thousands of American lives.
+Plaintiffs seek a ruling from this Court that would
+effectively disarm the President in the highly competi-
+tive arena of international trade, stymie negotiations
+that reflect the United States’ “top foreign policy prior-
+ities,” 25-1812 CAFC Doc. 158, at 28 (Rubio), expose
+America to the “risk of retaliation” without adequate
+defenses, id. at 32 (Bessent), and thwart measures to
+address the fentanyl crisis. Plaintiffs would unwind
+trade arrangements worth trillions of dollars, as Presi-
+dent Trump has leveraged the IEEPA tariffs into nego-
+tiated framework deals with major trading partners—
+including the European Union, the United Kingdom,
+Japan, South Korea, and now China—that address un-
+derlying causes of the declared emergencies. Id. at 36-
+39 (Greer). Disrupting those results, the President has
+stated, “would render America captive to the abuses
+that it has endured from far more aggressive coun-
+tries,” and would destroy the “unprecedented success”
+that has made America “a strong, financially viable, and
+respected country again.” 25-1812 CAFC Doc. 154, at
+1-2 (Aug. 11, 2025).
+Plaintiffs would risk those “catastrophic conse-
+quences,” 25-1812 CAFC Doc. 154, at 1, based on a
+cramped reading of the International Emergency
+Economic Powers Act (IEEPA), Pub. L. No. 95-223, Tit.
+II, 91 Stat. 1626 (50 U.S.C. 1701 et seq.), that excludes
+tariffs—and only tariffs—from the broad range of tools
+that Congress conferred on the President to address in-
+3
+ternational emergencies. Text, context, and history
+confirm that IEEPA’s phrase “regulate importation”
+includes tariffs, which have been recognized since the
+Founding as a traditional, well-established method to
+regulate imports. Plaintiffs concede that IEEPA au-
+thorizes a host of more aggressive actions not specifi-
+cally enumerated in its text—including quotas, quality
+restrictions, and quarantines, VOS Br. 15; States Br.
+23-24; Learning Br. 23, 35—but struggle to explain why
+tariffs alone should be excluded.
+Plaintiffs invoke the major-questions doctrine, but it
+does not apply here. IEEPA addresses the most major
+of questions—international emergencies—by explicitly
+conferring major powers. A “practical understanding
+of legislative intent,” West Virginia v. EPA, 597 U.S.
+697, 723 (2022), shows that Congress made a deliberate,
+“eyes-open” decision, 25-250 Pet. App. 66a, 112a, 123a
+(Taranto, J., dissenting), to equip the President in ad-
+vance with the full range of tools he might need to ad-
+dress foreign emergencies. Recognizing that “it is im-
+possible to foresee * * * the extent and variety of na-
+tional exigencies” or the “variety of the means which
+may be necessary to satisfy them,” Loving v. United
+States, 517 U.S. 748, 767 (1996) (quoting The Federalist
+No. 23 (Hamilton)), Congress retained robust political
+oversight over the President’s exercise of those emer-
+gency powers.
+Further, IEEPA vindicates, not undermines, “sepa-
+ration of powers principles.” West Virginia, 597 U.S. at
+723. By granting the President broad emergency pow-
+ers subject to congressional oversight, Congress em-
+ployed the appropriate “technique within the frame-
+work of the Constitution by which normal executive
+powers may be considerably expanded to meet an emer-
+4
+gency.” Youngstown Sheet & Tube Co. v. Sawyer, 343
+U.S. 579, 652 (1952) (Jackson, J., concurring). “Under
+this procedure,” our Nation avoids the sort of inter-
+branch conflict that arose in Youngstown, and “retain[s]
+Government by law.” Id. at 652-653.
+Plaintiffs’ nondelegation concerns are likewise base-
+less. This Court has long recognized the “unwisdom of
+requiring Congress in this field of [foreign relations] to
+lay down narrowly definite standards by which the
+President is to be governed,” and has held that “the
+strict limitation upon congressional delegations of
+power to the President over internal affairs does not ap-
+ply with respect to delegations of power in external af-
+fairs.” Youngstown, 343 U.S. at 637 n.2 (Jackson, J.,
+concurring). The President has a “vast share of respon-
+sibility for the conduct of our foreign relations” and “in-
+dependent authority to act” in foreign affairs. Ameri-
+can Insurance Association v. Garamendi, 539 U.S. 396,
+414 (2003); see Bamzai Amicus Br. 24-28. Congress has
+supplemented the President’s inherent authority by
+granting him broad authority to address foreign emer-
+gencies swiftly and decisively. Plaintiffs’ contrary posi-
+tion threatens not only the wide and varied delegations
+of powers in IEEPA, but also the corresponding dele-
+gations of wartime authority in TWEA. The tariffs here
+fit comfortably within a long tradition of similar delega-
+tions and should be upheld.
+I. IEEPA AUTHORIZES THE CHALLENGED TARIFFS
+A. Authority To “Regulate Importation” Includes Tariffs
+1. Ordinary meaning. IEEPA’s authorization to
+“regulate importation” plainly encompasses tariffs.
+The contemporaneous ordinary meaning of “regulate”
+includes to “control,” “to adjust by rule,” and to “subject
+5
+to governing * * * laws.” Black’s Law Dictionary 1156
+(5th ed. 1979). Tariffs are among the most common and
+traditional methods to “control” and “adjust” importa-
+tion, and they plainly “subject” imports to “governing
+laws.” Gov’t Br. 24. President Nixon imposed tariffs
+that were upheld under statutory authority to “regulate
+importation,” and Congress promptly reenacted that
+same language in IEEPA. See pp. 11-12, infra; Gov’t
+Br. 26-27.
+Indeed, “regulate importation” has been understood
+to encompass tariffs since the Founding. John Mar-
+shall, James Madison, Joseph Story, and others recog-
+nized that tariffs are a traditional—even quintessential—
+way to “regulate” trade (and therefore importation).
+Gov’t Br. 24-25; see Alexander Hamilton, Report on the
+Subject of Manufactures (Dec. 5, 1791), reprinted in 10
+The Papers of Alexander Hamilton 230, 296-297 (1966)
+(describing “[p]rotecting duties” and “duties equivalent
+to prohibitions” as well-known means of regulating im-
+ports).
+This Court has long recognized the same. McGold-
+rick v. Gulf Oil Corp., 309 U.S. 414, 428 (1940); Board of
+Trustees v. United States, 289 U.S. 48, 58 (1933); see
+Gibbons v. Ogden, 9 Wheat. 1, 202 (1824). Yet plaintiffs
+barely mention those authorities. Cf. VOS Br. 18 (ac-
+knowledging that Gibbons and Justice Story’s views un-
+dermine their position); States Br. 25-26 (similar, for
+McGoldrick); Learning Br. 22-23 (similar, for Gibbons).
+Plaintiffs also have no convincing response to FEA
+v. Algonquin SNG, Inc., 426 U.S. 548 (1976), which held
+that a statutory provision authorizing the President “ ‘to
+adjust the imports’ ” of certain products encompassed
+not just “quotas” but also “monetary methods” like “li-
+cense fees” for “effecting such adjustments.” Id. at 555,
+6
+561 (citation omitted). Plaintiffs dismiss Algonquin for
+relying on legislative history. VOS Br. 20; States Br.
+20; Learning Br. 30. But Algonquin also relied on stat-
+utory text, and its key economic insight—that “a license
+fee as much as a quota has its initial and direct impact
+on imports,” 426 U.S. at 571—remains true and shows
+that “adjusting” imports encompasses a variety of
+mechanisms that affect quantities and prices, including
+tariffs. Congress undoubtedly was aware of Algon-
+quin’s statutory holding when it enacted IEEPA the
+following year and authorized the President to “regu-
+late importation,” which is even broader than “adjust
+imports.”
+Plaintiffs argue (VOS Br. 16-17, 20-21; States Br. 17-
+19, 24; Learning Br. 24-25) that if IEEPA authorizes
+tariffs, every other statute authorizing the Executive to
+“regulate” something would include the power to tax it.
+But the phrase “regulate importation” in IEEPA in-
+cludes tariffs because tariffs are a longstanding, tradi-
+tional means to regulate imports. Gov’t Br. 12-14, 24-
+25. Other statutes that use “regulate” in different con-
+texts, such as to “regulate the trading” of domestic se-
+curities, 15 U.S.C. 78i(h)(1), or to “regulate” the “han-
+dling of [certain] agricultural commodit[ies],” 7 U.S.C.
+608c(1), do not carry the same inference or pedigree.
+By isolating the word “regulate” and assigning a sin-
+gle scope to that term throughout the U.S. Code, plain-
+tiffs contravene the interpretive principle that “two
+words together may assume a more particular meaning
+than those words in isolation.” FCC v. AT&T Inc., 562
+U.S. 397, 406 (2011). A farmer may raise crops, raise
+livestock, and raise children, but the verb “raise” natu-
+rally encompasses a different set of actions as to each of
+7
+those objects, even though its general meaning is fixed
+across all three. So too with “regulate.”
+Plaintiffs veer further afield with examples of stat-
+utes (VOS Br. 21; States Br. 24; Learning Br. 25) au-
+thorizing federal officials to issue “regulations” (noun)
+governing the importation of certain products to achieve
+specific purposes for which tariffs would be inappropri-
+ate. Ibid. (citing, e.g., 46 U.S.C. 4304, 7 U.S.C. 7711).
+But tariffs are not a traditional means of ensuring “con-
+formity with applicable safety regulations,” 46 U.S.C.
+4304, or of “prevent[ing] the introduction of plant pests”
+that “injure, cause damage to, or cause disease,”
+7 U.S.C. 7702(14), 7711(a), as those statutes require.
+The specificity of those provisions sharply distin-
+guishes them from the general grant of authority in
+IEEPA, which counsels in favor of a broad reading of
+“regulate importation.” IEEPA is an emergency stat-
+ute and thus “unsurprisingly extends beyond authori-
+ties available under non-emergency laws.” 25-250 Pet.
+App. 66a (Taranto, J., dissenting). “Congress can hardly
+have been expected to anticipate in any detail” the “na-
+ture of ” or requisite “responses to” the sorts of “inter-
+national crises” that IEEPA covers. Dames & Moore v.
+Regan, 453 U.S. 654, 669 (1981). Moreover, plaintiffs’
+universal view of “regulate” impugns their own inter-
+pretation of “regulate importation,” which they concede
+encompasses things like quotas, see VOS Br. 15; States
+Br. 24; Learning Br. 35—even though not every statute
+mentioning “regulate” or “regulations” necessarily in-
+cludes quotas.
+2. IEEPA’s surrounding text. Not only is “regulate
+importation” a capacious concept that has historically
+encompassed tariffs; the rest of Section 1702(a)(1)(B)
+reinforces IEEPA’s breadth. Other verbs in the same
+8
+sentence include “nullify,” “prohibit,” and “compel”; all
+those verbs act on a broad list of transactions (“acquisi-
+tion,” “use,” “exportation,” etc.). That broad language
+makes it implausible that “regulate importation” alone
+should be read so narrowly as to exclude a traditional
+method of regulating importation.
+Indeed, plaintiffs give away the game in conceding
+that “regulate importation” in IEEPA includes quotas
+on imported goods. See VOS Br. 15; States Br. 24;
+Learning Br. 35. As Algonquin illustrates, quotas and
+tariffs are substantively equivalent in that they both af-
+fect the price and quantity of foreign imports. See Gov’t
+Br. 27-28; Algonquin, 426 U.S. at 571. Plaintiffs never
+explain why Congress would have authorized quotas to
+cap the quantities of imported goods, but not tariffs,
+which can achieve similar results through price-demand
+curves (especially given that tariffs are payable to the
+government, whereas quota-driven price increases may
+enrich foreign exporters). Plaintiffs’ assertion that some
+tariffs here “have been ‘so high as to effectively prevent
+importation’ from China” of certain products further
+undermines their position. Learning Br. 13 (citation
+omitted). That assertion shows that tariffs can be
+economically equivalent to total prohibitions on
+imports—and IEEPA expressly authorizes the Presi-
+dent to “prohibit” importation.
+Plaintiffs thus draw the wrong inference in arguing
+that “regulate” must exclude tariffs because it “appears
+with eight other verbs, none of which involves any kind
+of tax.” VOS Br. 15; see Learning Br. 34 (“None of the
+verbs surrounding ‘regulate’ empowers the President to
+raise revenue.”); cf. States Br. 37 (similar). That mis-
+applies the associated-words canon, which presumes
+that words in a listing share only the list’s “most general
+9
+quality—the least common denominator, so to speak—
+relevant to the context.” Scalia & Garner, Reading Law
+196 (2012). The most general quality of IEEPA’s capa-
+cious string of nine verbs is that they are broad means
+to control a capacious string of (at least) eleven prop-
+erty transactions, without detailing the specific means
+of control. See Gov’t Br. 28-29. That combination re-
+flects Congress’s intent to grant the President the full
+range of tools available to act during international cri-
+ses. Whether those means involve prohibiting imports,
+regulating the quantity of imports via quotas, or regu-
+lating their price via tariffs, Congress granted the Pres-
+ident flexibility to take actions affecting imports—many
+of which are economic equivalents.
+Nor is the government urging a “greater-includes-
+the-lesser theory” (VOS Br. 22), under which the power
+to “prohibit importation” would include the lesser power
+to impose non-prohibitory tariffs even had Congress
+omitted “regulat[ing] importation.” Rather, when Con-
+gress includes a capacious string of verbs that cover
+the waterfront from “prohibit” to “compel,” the term
+“regulate”—which lies between those poles—naturally
+includes the “less extreme, more flexible” tool of tariffs,
+25-250 Pet. App. 97a (Taranto, J., dissenting).
+3. IEEPA’s history. IEEPA’s predecessor statute,
+the Trading with the enemy Act (TWEA), ch. 106, 40
+Stat. 411, authorized tariffs, confirming that IEEPA’s
+identical language does too. Gov’t Br. 26-27. Plaintiffs
+claim (VOS Br. 22-24; Learning Br. 33-35, 37-44) that
+IEEPA does not authorize tariffs because all other
+IEEPA authorities “originally applied only in wartime,”
+whereas tariffs “tax Americans.” VOS Br. 22; see id. at
+23 (“history sharply distinguishes between traditional
+wartime powers for controlling foreign property and
+10
+the power to tax”). That argument falsely conflates do-
+mestic revenue-raising taxes and regulatory tariffs on
+foreign imports. See pp. 13-14, infra. Regardless, tar-
+iffs on foreign imports have been a traditional wartime
+tool. See Gov’t Br. 12.
+Indeed, this Court has long held that the President
+has inherent wartime authority to impose tariffs. Dur-
+ing the Mexican-American War, President Polk an-
+nounced that he would permit trade through otherwise
+blockaded Mexican ports “subject to duties levied and
+collected by the U.S. military.” Bamzai Amicus Br. 8.
+Congress debated the President’s inherent wartime au-
+thority to impose those duties, see id. at 8-10, but this
+Court “vindicated” Polk’s position in Fleming v. Page,
+9 How. 603 (1850), and Cross v. Harrison, 16 How. 164
+(1854). Bamzai Amicus Br. 10. “No one can doubt,” the
+Court explained, “that these orders of the President”
+imposing “a tariff of duties on imports and tonnage
+* * * was according to the law of arms and the right of
+conquest,” in conformity with “general principles in re-
+spect to war and peace between nations.” Cross, 16
+How. at 190. Hamilton v. Dillin, 21 Wall. 73 (1875),
+then upheld the Executive’s imposition of a duty of four
+cents per pound of cotton imported from Confederate
+States during the Civil War. See Bamzai Amicus Br. 12-
+14. And Lincoln v. United States, 197 U.S. 419 (1905),
+upheld President McKinley’s imposition of duties on
+certain activities in the Philippines. See Bamzai Amicus
+Br. 15.
+TWEA incorporates those precedents. See Bamzai
+Amicus Br. 16-18, 26, 28; contra Learning Br. 39-42.
+And IEEPA’s operative language was “directly drawn”
+from TWEA, Dames & Moore, 453 U.S. at 671, and the
+“authorities granted to the President” under IEEPA
+11
+“are essentially the same as those” under TWEA, Re-
+gan v. Wald, 468 U.S. 222, 228 (1984). IEEPA’s author-
+ization to “regulate importation” thus encompasses the
+authority to impose tariffs, consistent with this Court’s
+approval of wartime tariff authorities in Fleming,
+Cross, Hamilton, and Lincoln. See Bamzai Amicus Br.
+24-28.
+Plaintiffs respond that “wartime precedents do not
+govern peacetime,” VOS Br. 24 & n.2, but Congress
+modeled IEEPA on TWEA precisely so that the Presi-
+dent could exercise wartime authorities during peace-
+time emergencies. Plaintiffs’ contrary position would
+remarkably deny the President tariff authority not just
+under IEEPA in peacetime, but also under TWEA in
+wartime, since the two statutes employ similar language
+and TWEA still governs in wartime. See 50 U.S.C.
+4305(b)(1)(B).
+Further, Congress was aware that President Nixon
+had imposed tariffs that were upheld under TWEA’s
+“regulate importation” language, and it reenacted the
+same language in IEEPA. Gov’t Br. 26; see United
+States v. Yoshida International, Inc., 526 F.2d 560
+(C.C.P.A. 1975). That strongly indicates that both Con-
+gress and the public contemporaneously understood
+that language to encompass tariffs.
+Plaintiffs observe (VOS Br. 26, 29; States Br. 46;
+Learning Br. 41, 43) that Yoshida viewed the Nixon tar-
+iffs as limited and temporary. But they offer no re-
+sponse to Judge Taranto’s point (25-250 Pet. App. 104a-
+109a) that TWEA itself did not impose those limits,
+making it implausible that IEEPA incorporated them
+sub silentio. Besides, Yoshida’s description of the open-
+ended Nixon tariffs confirms their analogousness to the
+present ones: those tariffs had no time limits when
+12
+imposed, but induced our major trading partners to ne-
+gotiate the “Smithsonian Agreement” within five months
+to address the balance-of-payments crisis, prompting
+the tariffs’ termination. 526 F.2d at 568-569. President
+Trump has likewise leveraged these tariffs into benefi-
+cial trade arrangements and agreements. See Gov’t Br.
+10-11; p. 29, infra. Plaintiffs emphasize that IEEPA’s
+legislative history contains statements lamenting “how
+‘successive Presidents have seized upon the open-end-
+edness of TWEA’s section 5(b).’ ” VOS Br. 27 (brackets
+and citation omitted); see States Br. 28. That only hurts
+plaintiffs’ case, since Congress reenacted that open-
+ended language in IEEPA without material change.
+B. Plaintiffs’ Contrary Interpretation Lacks Merit
+Though plaintiffs insist that “regulate importation”
+excludes tariffs, they offer little textual justification for
+what “regulate importation” actually includes under
+their view. They concede that quotas are means to “reg-
+ulate importation.” See VOS Br. 15 (“numerical lim-
+its”); States Br. 24 (“restricting the quantity”); Learn-
+ing Br. 23 (“restricting their quantity”), 35 (“quotas”).
+And it is anyone’s guess whether plaintiffs think “regu-
+late importation” includes things like price controls.
+Meanwhile, they add that “regulate importation” in-
+cludes inspections, quarantines, and licensing, see ibid.,
+even though such regimes often include user fees. And
+IEEPA’s other verbs (like “prohibit,” “nullify,” and
+“compel”) include economically momentous acts like as-
+set freezes and total embargoes. Plaintiffs would thus
+render IEEPA an implausible statutory doughnut un-
+der which the President could take virtually any action,
+large or small—from total embargoes to small-bore reg-
+ulatory measures—except tariffs.
+13
+1. Tariffs vs. domestic taxes. Plaintiffs’ exclusion of
+tariffs from “regulate importation” depends not on the
+text, but on a repeated, false equivalence between do-
+mestic revenue-raising taxes and regulatory tariffs on
+foreign imports. They even suggest a clear-statement
+rule, citing (VOS Br. 16; Learning Br. 28-29) cases stat-
+ing that “customs revenue laws should be liberally in-
+terpreted in favor of the importer, and that the intent of
+Congress to impose or increase a tax upon imports
+should be expressed in clear and unambiguous lan-
+guage.” Eidman v. Martinez, 184 U.S. 578, 583 (1902);
+see Hartranft v. Wiegmann, 121 U.S. 609, 616 (1887)
+(“[D]uties are never imposed on the citizen upon vague
+or doubtful interpretations.”) (citation omitted).
+All of those premises are incorrect. IEEPA author-
+izes the imposition of regulatory tariffs on foreign im-
+ports to deal with foreign threats—which crucially dif-
+fer from domestic taxation. Plaintiffs thus err in assert-
+ing (without citation) that “nobody disputes that the tar-
+iffing power is a subset of the taxing power.” Learning
+Br. 22. The government cited Gibbons, McGoldrick,
+and other authorities establishing that although tariffs
+can be revenue-raising, they also are a traditional and
+commonplace means to regulate international trade
+(even if they also incidentally produce revenue). Gov’t
+Br. 24-25. As plaintiffs acknowledge, some tariffs may
+be so prohibitively high that they raise no revenue.
+Learning Br. 13. An authority to regulate trade thus
+includes tariffs irrespective of any similar authority un-
+der a taxing power. “[T]he taxing power is a distinct
+power and embraces the power to lay duties, [but] it
+does not follow that duties may not be imposed in the
+exercise of the power to regulate commerce.” Board of
+Trustees, 289 U.S. at 58. Hence, this Court rejected a
+14
+State’s argument that tariffs were necessarily “an exer-
+tion of the taxing power” and thus subject to constitu-
+tional limitations on federal taxation of state instrumen-
+talities. Id. at 57.
+Plaintiffs’ assertion that the “key question here is
+how Congress delegates that special taxing power,”
+Learning Br. 23, thus elides the distinction between do-
+mestic revenue-raising taxes and regulatory tariffs.
+Further, that assertion rehashes the argument this
+Court recently rejected even in the domestic context—
+namely, that special rules apply when Congress dele-
+gates authority to impose monetary exactions. FCC v.
+Consumers’ Research, 145 S. Ct. 2482, 2497-2498 (2025).
+Plaintiffs’ putative clear-statement rule fares no bet-
+ter. Whatever the ongoing validity of that seldom-cited
+substantive canon, cf. Biden v. Nebraska, 600 U.S. 477,
+508-509 & n.2 (2023) (Barrett, J., concurring), IEEPA
+is “clear and unambiguous,” not “vague and doubtful,”
+Eidman, 184 U.S. at 583; Hartranft, 121 U.S. at 616.
+Besides, the opposite presumption applies in this
+foreign-affairs context of shared powers, where the
+President’s actions are entitled to “the strongest of pre-
+sumptions” of validity and “the widest latitude of judi-
+cial interpretation.” Youngstown, 343 U.S. at 637 (Jack-
+son, J., concurring).
+2. Other tariff statutes. Plaintiffs rely heavily on
+other tariff-specific statutes, which (unlike IEEPA) ex-
+pressly refer to “tariffs,” “duties,” or “taxes.” States
+Br. 16-21; VOS Br. 18-20; Learning Br. 28-29. Plaintiffs
+disclaim any “magic words” requirement, yet leave un-
+explained how their argument differs from the “hall-
+mark formulations” test this Court unanimously re-
+jected in Soto v. United States, 605 U.S. 360, 373 (2025).
+If “regulate importation” is too broad or imprecise to
+15
+include tariffs, and only more specific words must do,
+that is just a magic-words test by another name.
+Regardless, plaintiffs ignore that IEEPA sensibly
+did not specify all the means of “regulat[ing] importa-
+tion,” whether through “tariffs” or otherwise, because,
+unlike the tariff-specific statutes they cite, IEEPA is
+not a tariff-specific or even tariff-focused statute. Ra-
+ther, it is a grant of emergency authority that naturally
+uses broader and more flexible language encompassing
+tariffs and much more. Gov’t Br. 35. “[E]ven if Con-
+gress ‘typically’ confers the authority to” take certain
+actions using particular terms, “that standard practice
+does not bind legislators to specific words or formula-
+tions.” Soto, 605 U.S. at 371 (citation omitted). Section
+1702(a)(1)(B) does not mention “quotas” or “inspec-
+tions” either, yet plaintiffs say those measures “regu-
+late importation.”
+Plaintiffs assert (VOS Br. 30-33; States Br. 42-46)
+that interpreting IEEPA to authorize tariffs would ef-
+fectively circumvent the specific limitations on tariffs
+(such as duration and rate) contained in those other
+tariff-specific statutes. But Congress naturally gave
+the President greater leeway to act during declared
+emergencies. See 25-250 Pet. App. 66a (Taranto, J., dis-
+senting). And IEEPA contains its own limits, including
+a default one-year limit on emergencies, 50 U.S.C.
+1622(d); an enumerated list of exceptions, 50 U.S.C.
+1702(b)(1)-(4); and comprehensive congressional re-
+porting requirements, 50 U.S.C. 1622(a)-(c), 1631, 1641,
+1703. IEEPA and the other tariff statutes thus operate
+in separate (albeit overlapping) circumstances, and
+none is implicitly limited by any other—least of all
+IEEPA, which is the latest-enacted of the bunch. See
+Gov’t Br. 39. IEEPA’s limitations obviously would not
+16
+apply to the other tariff statutes, even if the President
+imposes tariffs under those statutes in circumstances
+that might rise to the level of a national emergency.
+Plaintiffs’ assertion (VOS Br. 33) that the other tariff
+statutes also “govern emergencies, even if not by that
+name,” is thus irrelevant. What matters is not whether
+circumstances might constitute an “emergency” in the
+colloquial sense, but whether those statutes require
+complying with the specific procedures of the National
+Emergencies Act (NEA), Pub. L. No. 94-412, 90 Stat.
+1255 (50 U.S.C. 1601 et seq.). IEEPA requires it, see 50
+U.S.C. 1701(a); those other statutes do not. And by the
+same token, an exercise of tariff authority under those
+other statutes need not comply with IEEPA’s limita-
+tions, just as an exercise of tariff authority under
+IEEPA need not comply with any limitations in those
+other statutes. See Gov’t Br. 39.
+Plaintiffs complain (VOS Br. 51-52; States Br. 40-41;
+Learning Br. 49) that IEEPA’s limitations are too eas-
+ily satisfied, but that is just a policy disagreement with
+Congress’s decision to grant the President broad, flexi-
+ble authority to deal with foreign threats. In IEEPA
+and NEA, Congress consciously balanced express con-
+cerns about boundless and excessive exercises of emer-
+gency powers, 25-250 Pet. App. 69a-77a (Taranto, J.,
+dissenting), against the necessity of equipping the Pres-
+ident with tools needed to address “exigencies” that are
+“impossible to foresee,” Loving, 517 U.S. at 767 (cita-
+tion omitted). “Congress,” which struck that balance,
+“is no less endowed with common sense” than plaintiffs,
+“and better equipped to inform itself of the ‘necessities’
+of government.” Mistretta v. United States, 488 U.S.
+361, 416 (1988) (Scalia, J., dissenting).
+17
+Anyway, plaintiffs are wrong to suggest that
+IEEPA’s limitations are toothless: Congress has previ-
+ously exercised its power to terminate a national emer-
+gency, and courts have previously enforced IEEPA’s
+enumerated exceptions. See Gov’t Br. 32. The Senate
+recently passed a resolution terminating the emergency
+underlying the Canadian trafficking tariffs, showing
+that Congress is carefully overseeing the challenged
+tariffs here. S. J. Res. 77, 119th Cong., 1st Sess. (2025).
+3. Imports vs. exports. Plaintiffs suggest (VOS Br.
+21; States Br. 22-23; Learning Br. 31-33) that “regulate
+importation” covers quotas and the like but not tariffs
+because IEEPA also authorizes the President to “regu-
+late exportation,” and imposing duties on exports would
+be unconstitutional. That suggestion lacks merit. Gov’t
+Br. 30-31. Most important, where a broad statute con-
+tains long lists of verbs and objects, each term should
+be given its ordinary meaning with the understanding
+that certain permutations might be unenforceable as
+applied. See Department of Agriculture Rural Devel-
+opment Rural Housing Service v. Kirtz, 601 U.S. 42, 61
+(2024); Robers v. United States, 572 U.S. 639, 643-644
+(2014). It would make little sense to adopt narrowing
+constructions of all nine verbs and all eleven direct ob-
+jects in Section 1702(a)(1)(B) in a quixotic effort to make
+all 99 permutations work. The authority to, say, “nullify
+* * * transportation” makes little sense, but that does
+not justify an unduly narrow interpretation of “nullify”
+as applied to the other ten objects. So too here. Be-
+cause the ordinary meaning of “regulate importation”
+includes tariffs, Congress did not need also to “write ex-
+tra language specifically exempting, phrase by phrase,
+applications in respect to which a portion of a phrase is
+not needed.” Robers, 572 U.S. at 643-644.
+18
+Relatedly, plaintiffs observe (Learning Br. 39-40)
+that IEEPA’s predecessor, TWEA, originally included
+“export[s]” but not imports in its list of nouns. TWEA
+§ 5(b), 40 Stat. 415. From that, plaintiffs conclude that
+“regulate” excluded the imposition of tariffs in 1917,
+and thus excludes it today in IEEPA. But TWEA cov-
+ered importation in another provision, authorizing the
+President to specify foreign goods that may not be im-
+ported during wartime “except at such time or times,
+and under such regulations or orders * * * as the Pres-
+ident shall prescribe.” § 11, 40 Stat. 422-423. That lan-
+guage plainly is broad enough to include tariffs. See
+Bamzai Amicus Br. 16-19.
+Plaintiffs provide no sound reason to think Congress
+withdrew tariff power when it inserted “importation”
+into TWEA’s list of nouns after the attack on Pearl Har-
+bor. First War Powers Act, 1941, ch. 593, § 301, 55 Stat.
+839; see Bamzai Amicus Br. 19-21. That insertion was
+necessary because Section 11 had expired at the end of
+World War I; but as Professor Bamzai explains, “the
+most plausible interpretation is that the addition sought
+to reintroduce the authority that had expired along with
+section 11 at the end of World War I”—just in a more
+“streamline[d]” way. Bamzai Amicus Br. 28.
+In focusing on the 1917 version of TWEA while ig-
+noring the 1941 amendment and the 1977 enactment of
+IEEPA, plaintiffs contravene “the most rudimentary
+rule of statutory construction,” namely, “that courts do
+not interpret statutes in isolation, but in the context of
+the corpus juris of which they are a part, including
+later-enacted statutes.” Branch v. Smith, 538 U.S. 254,
+281 (2003) (opinion of Scalia, J.); see Pugin v. Garland,
+599 U.S. 600, 605 n.1 (2023) (same).
+19
+4. IEEPA’s foreign-property requirement. In a simi-
+lar vein, plaintiffs argue that IEEPA’s authorization to
+“regulate importation”—which applies to “any property
+in which any foreign country or a national thereof has
+any interest,” 50 U.S.C. 1702(a)(1)(B)—rules out tariffs.
+Plaintiffs argue that the foreign-property limitation is
+phrased in the present tense (“has”) and, by the time
+property is imported and thus subject to tariffs, for-
+eigners no longer own it. Learning Br. 36-37; see States
+Br. 23-24. Even if that were invariably true, plaintiffs’
+argument rests on the mistaken premise that a foreign
+exporter no longer “has” any interest in property it no
+longer owns.
+The phrase “any interest” extends beyond current
+possessory or ownership interests. “As this Court has
+repeatedly explained, the word ‘any’ has an expansive
+meaning.” Patel v. Garland, 596 U.S. 328, 338 (2022)
+(citation and some internal quotation marks omitted).
+A foreign firm that sells its wares in the United States
+has an obvious “interest” in whether tariffs will be
+imposed—which could affect the demand for their for-
+eign products—even if the firm does not formally own
+the items at the point tariffs are imposed. Cf. 31 C.F.R.
+510.313 (OFAC regulation generally defining “the term
+interest, when used with respect to property,” as “an in-
+terest of any nature whatsoever, direct or indirect”).
+Lower courts have thus uniformly held that “any in-
+terest” in IEEPA extends beyond current possessory
+interests. In Holy Land Foundation v. Ashcroft, 333
+F.3d 156 (2003), cert. denied, 540 U.S. 1218 (2004), for
+example, the D.C. Circuit held that IEEPA allowed the
+government to block the assets of an organization that
+raised funds for Hamas, even though Hamas had no “le-
+gally protected” interest in the funds, because Hamas
+20
+had an interest in obtaining such funds in the future. Id.
+at 163; see id. at 162-163. The court explained that the
+statute encompasses interests like a “beneficial inter-
+est, or an interest not defined in traditional common law
+terms.” Id. at 163; see Global Relief Foundation, Inc.
+v. O’Neill, 315 F.3d 748, 753 (7th Cir. 2002) (same), cert.
+denied, 540 U.S. 1003 (2003).
+Plaintiffs’ contrary argument proves too much. The
+foreign-property requirement applies not just to “regu-
+late importation,” but to all 99 permutations of verbs
+and nouns in Section 1702(a)(1)(B). Plaintiffs’ reading
+would throw into serious doubt the application of nearly
+every action authorized by that provision. On plaintiffs’
+theory, the President could not even “prohibit importa-
+tion” of property if the foreigner transfers formal title
+to the property before its importation into the United
+States. Nearly every one of the nine verbs in Section
+1702(a)(1)(B) applying to “importation” or “exporta-
+tion” could be evaded that way. So too many of the
+other nouns, like “transportation” and “use.” Courts
+should avoid interpretations of a statute that would fa-
+cilitate “evasion of the law” or “enable offenders to
+elude its provisions in the most easy manner.” The
+Emily, 9 Wheat. 381, 389, 390 (1824).
+C. The Major-Questions Doctrine Does Not Support Plain-
+tiffs’ Reading
+Private plaintiffs have abandoned reliance on the
+major-questions doctrine for the proposition that
+IEEPA authorizes only some tariffs, but not others. Cf.
+25-250 Pet. App. 34a-39a; Gov’t Br. 32-34. Instead, they
+now invoke the doctrine to argue that IEEPA does not
+authorize tariffs at all. See VOS Br. 39-47; Learning
+Br. 44-48. But the Court has never applied the major-
+questions doctrine in the foreign-policy context, espe-
+21
+cially as to emergency powers. Gov’t Br. 34-36. The
+doctrine also has less purchase when Congress dele-
+gates authority to the President, not an inferior officer
+within an agency, because Congress often delegates
+consequential power to the President, especially to act
+during an emergency. Id. at 36. And this case involves
+not an agency’s discovering an unheralded power in a
+statutory backwater, but an invocation of a frequently
+used emergency statute to take actions mirroring Pres-
+ident Nixon’s well-known actions. Id. at 36-37.
+1. The Court has never applied the major-questions
+doctrine to the foreign-policy and national-security con-
+texts, partly because the doctrine “does not reflect or-
+dinary congressional intent in those areas” and because
+“the President possesses at least some independent
+constitutional power to act even without congressional
+authorization.” Consumers’ Research, 145 S. Ct. at
+2516 (Kavanaugh, J., concurring). In foreign affairs,
+conferring broad authority on the President comports
+with “both separation of powers principles and a practi-
+cal understanding of legislative intent.” West Virginia,
+597 U.S. at 723.
+Plaintiffs argue that when Congress enacts statutes
+that “delegate[] tariff-related authority, it does so ex-
+plicitly and with strict limits.” VOS Br. 44. That sug-
+gestion just reprises their faulty bid for a magic-words
+test, pp. 14-15, supra, and contravenes Algonquin’s re-
+jection of that very argument, 426 U.S. at 557 (rejecting
+the argument that “reading the statute to authorize the
+action taken by the President ‘would be an anomalous
+departure’ from ‘the consistently explicit, well-defined
+manner in which Congress has delegated control over
+foreign trade and tariffs’ ”) (citation omitted); see Gov’t
+Br. 28. Plaintiffs’ upside-down view of congressional in-
+22
+tent is particularly misplaced in this foreign-emergency
+context, where Congress delegates broad authority us-
+ing broad terms, given the impossibility of “anticipat[ing]
+in any detail” what “responses” would be needed. Dames
+& Moore, 453 U.S. at 669; see Loving, 517 U.S. at 767.
+Plaintiffs also suggest that “the President has no ‘in-
+dependent’ constitutional power to set tariffs.” VOS Br.
+45. But the President unquestionably has inherent au-
+thority under Article II to address foreign threats and
+foreign emergencies. See Garamendi, 539 U.S. at 414.
+And Congress, recognizing the “changeable and explo-
+sive nature of * * * international relations,” Zemel v.
+Rusk, 381 U.S. 1, 17 (1965), has armed the President with
+a full range of tools—including tariffs—to deal with
+them.
+Moreover, plaintiffs are wrong on their specific
+point. The President has inherent authority to impose
+tariffs on international commerce in wartime. See pp.
+9-12, supra. IEEPA, which effectively codifies those
+wartime precedents, reflects the deliberate congres-
+sional intention to authorize the President to exercise
+those wartime authorities during peacetime emergen-
+cies. See ibid.
+Plaintiffs thus retreat to the improbable position
+that this case does not actually involve foreign policy at
+all. See VOS Br. 45 (asserting that “the government
+uses ‘national security’ and ‘foreign policy’ too loosely”
+because “tariffs tax Americans”); States Br. 37 (the tar-
+iffs “impos[e] taxes on domestic importers”); Learning
+Br. 46 (“[A]t issue here is taxation.”). That argument
+again falsely conflates domestic revenue-raising taxes
+and regulatory tariffs on foreign imports, and it also im-
+pugns plaintiffs’ own interpretation. Like tariffs, quo-
+tas on foreign products—which plaintiffs treat as the
+23
+heartland of what “regulate importation” covers—also
+affect demand for imported goods and spur domestic
+production. Cf., e.g., John Keilman, Volvo Pivots to U.S.
+Production, Wall St. J., Sept. 29, 2025, at B1. Yet even
+plaintiffs do not claim that quotas on foreign imports in-
+volve only domestic affairs, or that the major-questions
+doctrine would preclude the President from imposing
+quotas under IEEPA’s authorization to “regulate im-
+portation.” This Court should reject the invitation to
+gerrymander a major-questions problem for tariffs.
+2. Plaintiffs see no difference for major-questions
+purposes between statutory delegations to agencies and
+those directly to the President, observing that “delega-
+tions to executive officers and agencies are de facto del-
+egations to the President.” VOS Br. 45 (brackets, cita-
+tion, and ellipsis omitted); see Learning Br. 46 (same);
+States Br. 38 (“[T]he Constitution generally vests the
+executive power in the President.”). That observation
+is true but irrelevant. When a statute expressly dele-
+gates authority directly to the President (especially to
+deal with national emergencies), Congress more likely
+conferred major and consequential powers than if the
+statute delegated routine authority to an agency. Gov’t
+Br. 36.
+The major-questions doctrine “serves as an interpre-
+tive tool reflecting ‘common sense as to the manner in
+which Congress is likely to delegate a policy decision of
+[large] economic and political magnitude.’ ” Nebraska,
+600 U.S. at 511 (Barrett, J., concurring) (citation omit-
+ted). Common sense confirms that a statute directing
+an agency to “regulate importation” as a matter of
+course likely means something different from an emer-
+gency statute directing the President himself to “regu-
+late importation” to deal with major foreign threats, es-
+24
+pecially when the same provision empowers the Presi-
+dent to block, prohibit, and nullify such transactions en-
+tirely.
+3. Unlike private plaintiffs, the States continue to
+argue (Br. 30-34) that the major-questions doctrine
+might preclude some tariffs under IEEPA but not oth-
+ers. Yet the States notably never address the funda-
+mental problem (Gov’t Br. 33-34) that their atextual
+theory would improperly empower unelected judges to
+gauge the legality of tariffs based on their own policy
+views of how long is too long, how much is too much, or
+how many countries or products are too many.
+The States claim (Br. 30-32) that this Court adopted
+a “some but not others” approach in Biden v. Nebraska,
+supra, NFIB v. OSHA, 595 U.S. 109 (2022) (per cu-
+riam), Alabama Association of Realtors v. Department
+of Health & Human Services, 594 U.S. 758 (2021) (per
+curiam), and FDA v. Brown & Williamson Tobacco
+Corp., 529 U.S. 120 (2000). That is incorrect. Brown &
+Williamson and Alabama Realtors did not hold that
+FDA could regulate some cigarettes but not others, or
+that CDC could prohibit some evictions but not others,
+or that the agencies could regulate those things as long
+as the regulations did not go too far, or last too long.
+Rather, those cases held that the agencies lacked those
+major powers because the statutory text precluded
+them altogether.
+Similarly, OSHA held that the agency lacked author-
+ity to require vaccination or weekly testing of employ-
+ees for COVID-19 because that disease “is not an occu-
+pational hazard,” as the statute required. 595 U.S. at
+118. The Court did not suggest that the agency could
+require vaccination or testing so long as the agency lim-
+ited its rules to a few workplaces or only monthly or
+25
+yearly testing. The Court’s reference to “targeted reg-
+ulations” simply made clear that the disease might be
+“occupational” in the statutory sense—and thus regu-
+latable by the agency—if it “poses a special danger be-
+cause of the particular features of an employee’s job or
+workplace,” such as for “researchers who work with the
+COVID-19 virus.” Id. at 118-119.
+Finally, Nebraska disclaimed even needing to apply
+the major-questions doctrine. See 600 U.S. at 506 & n.9.
+Besides, the principal issue there involved the statutory
+term “modify,” which the Court held means “to make
+modest adjustments,” not to “transform.” Id. at 495.
+The Court thus addressed whether the challenged ac-
+tions there were modest or transformative. See id. at
+495-496. The States have identified no analogous text
+in IEEPA that could be read to authorize modest, but
+not more impactful, tariffs.
+D. The Tariffs Here Satisfy IEEPA’s Other Conditions
+1. The trade tariffs address “unusual and extraordi-
+nary” threats
+IEEPA’s authorities “may be exercised to deal with
+any unusual and extraordinary threat” originating from
+outside the country “if the President declares a national
+emergency with respect to such threat.” 50 U.S.C.
+1701(a). Here, the President declared emergencies with
+respect to conditions underlying a goods trade deficit
+that he and his senior advisors determined had brought
+the United States to the brink of catastrophic decline
+and dependency on geopolitical adversaries, as well as
+a devastating fentanyl crisis that has killed hundreds of
+thousands of Americans. Gov’t Br. 2-5. Plaintiffs con-
+tend (VOS Br. 33-39) that the goods trade deficits un-
+derlying the trade tariffs do not qualify as an “emer-
+26
+gency” or as an “unusual and extraordinary threat” un-
+der IEEPA, but do not dispute that the fentanyl emer-
+gency suffices to trigger IEEPA. That selective inter-
+pretation makes no sense.
+a. IEEPA does not require that circumstances con-
+stitute an “emergency” in some colloquial sense. Con-
+tra VOS Br. 34-35. Instead, IEEPA requires that “the
+President declare[] a national emergency” under the
+NEA. 50 U.S.C. 1701(a). The President plainly de-
+clared emergencies under the NEA here. Plaintiffs
+deny that large and persistent goods trade deficits re-
+flect “unusual and extraordinary” threats in the first
+place. VOS Br. 37-39. But such determinations are gen-
+erally unreviewable because judges lack institutional
+competence to determine when foreign threats are un-
+usual or extraordinary. The NEA leaves the declara-
+tion of an emergency to the President’s discretion and
+judgment, cf. 50 U.S.C. 1621, 1622, 1631, and “[h]ow the
+President chooses to exercise the discretion Congress
+has granted him is not a matter for [ judicial] review,”
+Dalton v. Specter, 511 U.S. 462, 476 (1994).
+Plaintiffs blithely assert (VOS Br. 36) that such de-
+terminations are “a matter of ordinary understanding,”
+as if gauging national emergencies involved garden-vari-
+ety factfinding. But subjecting a presidential determina-
+tion of a national emergency to judicial examination—
+perhaps by hearing from competing experts, each
+armed with charts like the one in the VOS plaintiffs’
+brief—would improperly second-guess the President in
+the exercise of core constitutional authority, as supple-
+mented by congressional authorization. Cf. Trump v.
+Hawaii, 585 U.S. 667, 686 (2018); Youngstown, 343 U.S.
+at 635-637 (Jackson, J., concurring). In practice, such
+examination would effectively require the President
+27
+(contrary to longstanding practice) to provide detailed
+explanations for his emergency declarations, as if he
+were an agency, inviting something akin to arbitrary-
+and-capricious review. See Gov’t Br. 42. That is the an-
+tithesis of how statutes delegating emergency powers
+to Presidents have been understood.
+b. In any event, plaintiffs’ challenge is legally and
+factually meritless. Plaintiffs legally err in suggesting
+that an “unusual and extraordinary” threat cannot be a
+longstanding or persistent one. Even longstanding and
+persistent threats can eventually reach “a ‘tipping
+point,’ ” as the President and his senior advisors have
+determined happened with the ballooning goods trade
+deficit. 25-250 Mot. to Expedite 2a (Bessent); see Gov’t
+Br. 42-43. Plaintiffs’ approach would call into question
+myriad previous emergency declarations addressing
+longstanding threats, from the Iran hostage crisis to
+South African apartheid. See ibid.
+Plaintiffs also invent requirements entirely divorced
+from the phrase “unusual and extraordinary.” For ex-
+ample, plaintiffs say that qualifying threats must arise
+“sudden[ly],” VOS Br. 34, 39, and that the threat cannot
+be “already covered by another, ordinary tariff stat-
+ute,” States Br. 47. Those atextual limits would make
+many past IEEPA actions unlawful. Many did not arise
+suddenly and many were at least arguably covered by
+other statutes. Cf. id. at 51 (asserting that the apart-
+heid and human-rights-abuse threats were covered by
+other statutes).
+As to the facts, plaintiffs are wrong to deny any un-
+usual and extraordinary threat. See 25-250 Mot. to Ex-
+pedite 1a-4a (Bessent); 25-1812 CAFC Doc. 158, at 3-17,
+24-40 (Aug. 29, 2025) (Lutnick, Rubio, Bessent, Greer);
+25-cv-66 CIT Doc. 53, at 4-24 (May 23, 2025) (same).
+28
+For example, the Commerce Secretary explains that
+“enormous, persistent annual U.S. goods trade defi-
+cits,” which have reached $1.2 trillion per year, “have
+hollowed out our domestic manufacturing and defense-
+industrial base and have resulted in a lack of advanced
+domestic manufacturing capacity, a defense-industrial
+base dependent on inputs from foreign adversaries, vul-
+nerable domestic supply chains, and a sensitive geopo-
+litical environment.” 25-1812 CAFC Doc. 158, at 7. He
+confirms that the current accumulating goods trade def-
+icits reflect “an ongoing economic emergency of historic
+proportions,” id. at 6; and the Treasury Secretary adds
+that they have brought America to “the brink of a major
+economic and national-security catastrophe,” not unlike
+the “economic ‘tipping point’ back in 2007, when almost
+no one foresaw or took any action,” 25-250 Mot. to Ex-
+pedite 2a.
+The President’s determination that tariffs are the
+most critical tool keeping the country away from a spi-
+raling goods trade deficit that will destroy the American
+manufacturing base and generate dependency on geo-
+political rivals has self-evident, acute national security
+implications. Insufficient domestic manufacturing ca-
+pacity, especially for defense and military purposes, has
+been recognized as an obvious national-security threat
+since the Founding. See, e.g., Hamilton, Report on
+Manufactures, supra. Take just one example: China
+has attained a strategic stranglehold on rare earth ele-
+ments, which are “vital materials in products ranging
+from electric vehicles to aircraft engines and military
+radars,” and has deployed that advantage as leverage
+with other countries, to the detriment of U.S. access and
+domestic manufacturing. Reuters, China expands rare
+earths restrictions, targets defense and chips users,
+29
+perma.cc/E5PY-YT79 (Oct. 10, 2025); cf. Executive Or-
+der No. 14,285, 90 Fed. Reg. 17,735 (Apr. 29, 2025). The
+IEEPA tariffs have helped secure framework deals and
+final agreements with trading partners across the
+globe, including China itself, to ensure the United
+States’ access to rare earth elements. See, e.g., Cat
+Zakrzewski et al., Trump cuts tariffs on China after
+‘truly great’ meeting with Xi, Washington Post (Oct. 30,
+2025, 6:03 a.m.), perma.cc/4UM4-R8JN; Press Release,
+The White House, Agreement Between the United
+States of America and Malaysia on Reciprocal Trade
+(Oct. 26, 2026); Gov’t Br. 10. Those deals—facilitated
+by the IEEPA tariffs—thus advance vital national and
+economic security objectives. As that example illus-
+trates, the conditions underlying the trade tariffs are
+just as much an unusual and extraordinary threat as the
+fentanyl smuggling underlying the trafficking tariffs,
+which undisputedly is such a threat.
+Plaintiffs attempt to rebut (VOS Br. 37-38) the emer-
+gency with their own charts and data. But that supplies
+no basis to jettison the President’s determinations,
+which are backed by senior advisors whose job is to an-
+alyze reams of economic data and render policy judg-
+ments. IEEPA and the NEA “exude[] deference” to the
+President’s determinations about the nature and scope of
+emergencies precisely to avoid rule by politically unac-
+countable armchair economists. Hawaii, 585 U.S. at 684.
+2. The trafficking tariffs “deal with” the declared
+threats and emergencies
+IEEPA provides that its authorities “may be exer-
+cised to deal with” the threats as to which a national
+emergency is declared. 50 U.S.C. 1701(a). Plaintiffs
+contend that the trafficking tariffs do not “deal with”
+the threat of drug trafficking. States Br. 52-56. That
+30
+contention lacks merit because “deal with” is a broad
+phrase whose plain meaning encompasses indirect
+methods, such as those that create leverage to incentiv-
+ize the target to change its behavior. Gov’t Br. 39-41.
+IEEPA thus permits leveraging property to “serve as a
+‘bargaining chip’ to be used by the President when deal-
+ing with a hostile country.” Dames & Moore, 453 U.S.
+at 673.
+Plaintiffs ignore that plain-meaning argument. In-
+stead, they emphasize Section 1701(b)’s additional
+statement that IEEPA’s authorities “may not be exer-
+cised for any other purpose.” 50 U.S.C. 1701(b). Plain-
+tiffs infer from that language that “Congress regarded
+the ‘deal with’ requirement as a substantive and im-
+portant limit.” States Br. 52. Even if so, that cannot
+constrict the plain meaning of “deal with.” Regardless,
+as the sentence immediately following the “any other
+purpose” language illustrates, Congress’s real concern
+was to ensure that a national emergency was properly
+declared with respect to each threat—not to substan-
+tively curtail the President’s authority to deal with
+those threats. See 50 U.S.C. 1701(b) (“Any exercise of
+such authorities to deal with any new threat shall be
+based on a new declaration of national emergency.”).
+Plaintiffs also dismiss Dames & Moore because it did
+not cite the “deal with” clause. States Br. 54. But the
+Court’s approving description of an exercise of IEEPA
+authority as a valid “bargaining chip” is incompatible
+with plaintiffs’ cramped conception of “deal with.”
+Plaintiffs also observe that the “property at issue in that
+case was property of the Government of Iran and its in-
+strumentalities.” Ibid. But that property had no evi-
+dent connection to the taking of American hostages by
+revolutionaries, and so would fail plaintiffs’ own test.
+31
+3. Section 122 of the Trade Act of 1974 does not displace
+IEEPA
+Plaintiffs maintain (States Br. 42-46) that even if
+IEEPA authorizes the trade tariffs, the tariffs must
+nevertheless satisfy the rate (15 percent ad valorem)
+and duration (150 days) requirements of Section 122 of
+the Trade Act of 1974, Pub. L. No. 93-618, 88 Stat. 1987
+(19 U.S.C. 2132), because they happen to involve the
+same sort of balance-of-payments deficits that Section
+122 addresses. That argument lacks merit because both
+statutes should be read to coexist in their own spheres,
+without grafting the limitations of one statute onto the
+other. Gov’t Br. 37-39; see Kirtz, 601 U.S. at 63.
+IEEPA overlaps substantially with other provisions of
+law with respect to other emergency authorities, and
+there is no reason to treat the tariff authority differ-
+ently. See Dames & Moore, 453 U.S. at 675-687 (noting
+the overlap of IEEPA, the Hostage Act, and inherent
+presidential authorities). Section 122 certainly should
+not be read to implicitly limit the later-enacted IEEPA.
+Contrary to plaintiffs’ assertion (States Br. 44), the
+government is not arguing that “IEEPA purports to
+override Section 122’s limits.” Rather, IEEPA’s limits
+apply to actions under IEEPA, and Section 122’s limits
+apply to actions under Section 122. Nor does the gov-
+ernment’s argument mean that “Section 122 applies
+only to nonemergency situations.” Ibid. Section 122 ap-
+plies wherever its plain terms permit it to apply; for a
+declared national emergency addressing threats from
+serious balance-of-payments deficits, the President
+might well impose tariffs under both IEEPA and Sec-
+tion 122.
+32
+II. IEEPA RAISES NO NONDELEGATION CONCERNS
+Only the VOS plaintiffs challenge IEEPA’s authori-
+zation of tariffs as unconstitutional on nondelegation
+grounds; the other plaintiffs merely raise “questions” or
+constitutional-avoidance “concerns.” VOS Br. 47-53; cf.
+States Br. 38-41; Learning Br. 42-43. However framed,
+plaintiffs’ nondelegation objections fail. This Court has
+long recognized “the unwisdom of requiring Congress
+in this field of governmental power to lay down nar-
+rowly definite standards by which the President is to be
+governed.” United States v. Curtiss-Wright Export
+Corp., 299 U.S. 304, 321-322 (1976). The “limitation
+upon congressional delegations of power to the Presi-
+dent over internal affairs does not apply with respect to
+delegations of power in external affairs.” Youngstown,
+343 U.S. at 637 n.2 (Jackson, J., concurring). Accord-
+ingly, the Court has upheld broad delegations in the
+national-security and foreign-policy realms. Regard-
+less, IEEPA satisfies the “intelligible principle” re-
+quirement applicable to domestic delegations because it
+provides an identifiable “policy” and erects clear
+“boundaries” to the execution of that policy. Gov’t Br.
+43-47.
+Plaintiffs again attempt to take this case out of the
+foreign-affairs context by conflating domestic revenue-
+raising taxes and regulatory tariffs, and by portraying
+this case as a more extreme version of the delegation
+this Court upheld in Consumers’ Research, supra. VOS
+Br. 49; States Br. 40; Learning Br. 49. But broad dele-
+gations of tariff authority are the heartland of permis-
+sible delegations, as confirmed by this Court’s decisions
+uniformly rejecting nondelegation challenges to stat-
+utes delegating tariff authority to the President. E.g.,
+Algonquin, 426 U.S. at 558-560; J.W. Hampton, Jr., &
+33
+Co. v. United States, 276 U.S. 394, 406, 409 (1928); Mar-
+shall Field & Co. v. Clark, 143 U.S. 649, 680 (1892);
+Cargo of Brig Aurora v. United States, 7 Cranch 382,
+384-388 (1813).
+Those decisions reflect that when Congress dele-
+gates “authority over matters of foreign affairs,” it
+“must of necessity paint with a brush broader than that
+it customarily wields in domestic areas.” Zemel, 381
+U.S. at 17. One reason is that the President “enjoys his
+own inherent Article II powers” in foreign affairs.
+Gundy v. United States, 588 U.S. 128, 170-171 (2019)
+(Gorsuch, J., dissenting); see Department of Transpor-
+tation v. Association of American Railroads, 575 U.S.
+43, 80 n.5 (2015) (Thomas, J., concurring in the judg-
+ment); Curtiss-Wright, 299 U.S. at 319-320.
+Plaintiffs claim (VOS Br. 52-53) that the President
+lacks independent foreign-affairs powers over tariffs,
+but that is wrong. See pp. 9-12, supra; Bamzai Amicus
+Br. 24-28. When combined with IEEPA’s delegation,
+the President’s “authority is at its maximum, for it in-
+cludes all that he possesses in his own right plus all that
+Congress can delegate.” Youngstown, 343 U.S. at 635-
+637 (Jackson, J., concurring).
+Plaintiffs object that under the government’s view,
+IEEPA authorizes the President to impose tariffs “at
+any rate, for any good, from any place, for any length
+of time.” VOS Br. 47; see Learning Br. 49. But even un-
+der plaintiffs’ view, IEEPA’s authorization to “prohibit
+importation” and its other verbs and nouns are similarly
+unrestricted. If those broad delegations are unconsti-
+tutional, most longstanding IEEPA authorities would
+be invalid, including asset freezes, embargoes, and block-
+ing of property. TWEA—which uses similar language—
+would apparently fall too. 50 U.S.C. 4305(b)(1)(B).
+34
+IEEPA is hardly unconstitutional because it omits the
+limits plaintiffs desire (cf. VOS Br. 51-52) in favor of the
+limits Congress chose, like the default one-year limit on
+emergencies, 50 U.S.C. 1622(d); an enumerated list of
+exceptions, 50 U.S.C. 1702(b)(1)-(4); and comprehensive
+congressional reporting requirements, 50 U.S.C.
+1622(a)-(c), 1631, 1641, 1703.
+III. THE LEARNING RESOURCES DISTRICT COURT
+LACKED JURISDICTION
+The CIT has exclusive jurisdiction over “any civil ac-
+tion” against the government that “arises out of any
+law” providing for tariffs or their administration and
+enforcement. 28 U.S.C. 1581(i)(1). Presidential “modi-
+fication[s]” to the Harmonized Tariff Schedule of the
+United States (HTSUS) qualify as such “law[s],” 19
+U.S.C. 3004(c)(1)(C), especially when made under an
+“Act[] affecting import treatment,” 19 U.S.C. 2483. See
+Gov’t Br. 47-49. Plaintiffs’ claims “arise[] out of ” those
+modifications; their complaint seeks to declare the mod-
+ifications unlawful, enjoin their enforcement, and set
+them aside. Id. at 47-48.
+The Learning Resources plaintiffs (Br. 51-52) assert
+that because the HTSUS “does not provide the substan-
+tive law” or “require any interpretation” in this case,
+their “claims center on IEEPA,” not the modifications
+to the HTSUS. That assertion contradicts their com-
+plaint and prayer for relief. See Compl. ¶¶ 24, 73-74, 89-
+90, 99, 113. And it lacks merit on its own terms because
+IEEPA is a law “affecting import treatment,” 19 U.S.C.
+2483, so the CIT has exclusive jurisdiction regardless.
+Gov’t Br. 48.
+Plaintiffs’ only answer (Learning Br. 54) is that the
+government’s interpretation “would absurdly render
+any executive action invoking IEEPA” subject to the
+35
+CIT’s exclusive jurisdiction. That is incorrect; only ex-
+ecutive actions under IEEPA that modify the HTSUS
+would trigger the CIT’s exclusive jurisdiction under 28
+U.S.C. 1581(i)(1) and 19 U.S.C. 2483 and 3004(c)(1)(C).
+See Gov’t Br. 48. Plaintiffs’ contrary view is far more
+absurd. Courts would routinely have to resolve the
+merits of a tariff dispute just to determine whether they
+had jurisdiction to resolve the merits of that dispute.
+Plaintiffs call that “Congress’s choice to make.” Learn-
+ing Br. 55. But nothing suggests Congress made that
+bizarre choice here.
+Respectfully submitted.
+D. JOHN SAUER
+Solicitor General
+OCTOBER 2025

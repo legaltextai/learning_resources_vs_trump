@@ -1,0 +1,640 @@
+No. 24-1287
+In the Supreme Court of the United States
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+BRIEF FOR THE RESPONDENTS IN OPPOSITION
+D. JOHN SAUER
+Solicitor General
+Counsel of Record
+BRETT A. SHUMATE
+Assistant Attorney General
+MICHAEL S. RAAB
+BRAD HINSHELWOOD
+DANIEL WINIK
+SOPHIA SHAMS
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+SupremeCtBriefs@usdoj.gov
+(202) 514-2217
+QUESTION PRESENTED
+Whether the district court had subject-matter jurisdic-
+tion to address petitioners’ challenge to tariffs imposed by
+the President, notwithstanding Congress’s vesting exclu-
+sive jurisdiction in the Court of International Trade over
+“any civil action” against the federal government “that
+arises out of any law of the United States providing for
+* * * tariffs.” 28 U.S.C. 1581(i)(1)(B).
+(I)
+ADDITIONAL RELATED PROCEEDINGS
+United States District Court (D.D.C.):
+Learning Resources, Inc. v. Trump, No. 25-cv-1248
+(May 29, 2025)
+United States Court of Appeals (D.C. Cir.):
+Learning Resources, Inc. v. Trump, No. 25-5202
+(May 30, 2025) (docketing appeal)
+(II)
+TABLE OF CONTENTS
+Page
+Opinions below .............................................................................. 1
+Jurisdiction .................................................................................... 1
+Statement ...................................................................................... 1
+Argument ....................................................................................... 4
+Conclusion ................................................................................... 14
+TABLE OF AUTHORITIES
+Cases:
+American Insurance Association v. Garamendi,
+539 U.S. 396 (2003).............................................................. 12
+Biden v. Nebraska, 600 U.S. 197 (2020) .............................. 11
+Borusan Mannesmann Boru Sanayi
+ve Ticaret A.S. v. United States,
+63 F.4th 25 (Fed. Cir. 2023) ................................................. 9
+California v. Trump, No. 25-cv-3372,
+2025 WL 1569334 (N.D. Cal. June 2, 2025),
+appeal pending, No. 25-3493
+(9th Cir. filed June 3, 2025) .................................................. 7
+Camreta v. Greene, 563 U.S. 692 (2011) ................................ 5
+Cargo of Brig Aurora v. United States,
+7 Cranch 382 (1813) ............................................................ 11
+Dames & Moore v. Regan, 453 U.S. 654 (1981) .................. 10
+Emily Ley Paper, Inc. v. Trump, No. 25-cv-464,
+2025 WL 1482771 (N.D. Fla. May 20, 2025) ....................... 7
+FCC v. Consumers’ Research,
+No. 24-354, 2025 WL 1773630 (June 27, 2025) ........... 10, 12
+Federal Energy Administration v. Algonquin SNG,
+Inc., 426 U.S. 548 (1976) ....................................................... 9
+Garland v. Aleman Gonzalez, 596 U.S. 543 (2022) .............. 8
+Gibbons v. Ogden, 9 Wheat. 1 (1824) ..................................... 9
+(III)
+IV
+Cases—Continued: Page
+J.W. Hampton, Jr., & Co. v. United States,
+276 U.S. 394 (1928).............................................................. 11
+K Mart Corp. v. Cartier, Inc., 485 U.S. 176 (1988) .............. 6
+Lorillard v. Pons, 434 U.S. 575 (1978) ................................ 10
+Marshall Field & Co. v. Clark,
+143 U.S. 649 (1892)........................................................ 11, 12
+Michael Simon Design, Inc. v. United States,
+609 F.3d 1335 (Fed. Cir. 2010) ............................................. 8
+Moyle v. United States, 603 U.S. 324 (2024) ......................... 6
+Seila Law L.L.C. v. CFPB, 591 U.S. 197 (2020) ................. 11
+Steel Co. v. Citizens for a Better Environment,
+523 U.S. 83 (1998) ................................................................. 8
+Sunpreme Inc. v. United States,
+No. 15-315, 2017 WL 65421 (C.I.T. Jan. 5, 2017) ............... 5
+United States v. Curtiss-Wright Export Corp.,
+299 U.S. 304 (1936).............................................................. 12
+United States v. Mazurie, 419 U.S. 544 (1975) ................... 13
+United States v. Shih, 73 F.4th 1077 (9th Cir. 2023),
+cert. denied, 144 S. Ct. 820 (2024) ..................................... 13
+United States v. Yoshida International, Inc.,
+526 F.2d 560 (C.C.P.A. 1975) ............................................... 9
+Utility Air Regulatory Group v. EPA,
+573 U.S. 302 (2014).............................................................. 12
+V.O.S. Selections, Inc. v. Trump, No. 25-1812,
+2025 WL 1649290 (Fed. Cir. June 10, 2025) ..................... 14
+V.O.S. Selections, Inc. v. United States,
+772 F. Supp. 3d 1350 (C.I.T. 2025), appeal pending,
+No. 25-1812 (Fed. Cir. filed May 28, 2025) ................... 7, 14
+Webber v. United States Department of Homeland
+Security, No. 25-cv-26, 2025 WL 1207587
+(D. Mont. Apr. 25, 2025), appeal pending,
+No. 25-2717 (9th Cir. filed Apr. 28, 2025) ........................... 7
+V
+Cases—Continued: Page
+West Virginia v. EPA, 597 U.S. 697 (2022) ........................ 11
+Youngstown Sheet & Tube Co. v. Sawyer,
+343 U.S. 579 (1952).............................................................. 13
+Zemel v. Rusk, 381 U.S. 1 (1965) ......................................... 13
+Constitution, statutes, and rule:
+International Emergency Economic Powers Act,
+Pub. L. No. 95-223, Tit. II, 91 Stat. 1626
+(50 U.S.C. 1701 et seq.) ................................................... 1, 13
+50 U.S.C. 1701(a) ......................................................... 2, 13
+50 U.S.C. 1702(a)(1)(B) ................................................. 2, 8
+19 U.S.C. 3004(c)(1)(C) ............................................................ 7
+28 U.S.C. 1337(c) ...................................................................... 6
+28 U.S.C. 1581 .......................................................................... 6
+28 U.S.C. 1581(i)(1) .................................................................. 7
+28 U.S.C. 1581(i)(1)(B) ............................................................ 6
+28 U.S.C. 1581(i)(1)(D) ............................................................ 6
+Sup. Ct. R. 11 ........................................................................... 5
+Tariff Act of 1930, ch. 497, § 338, 46 Stat. 704
+(19 U.S.C. 1338) ................................................................... 11
+Trade Act of 1974, Pub. L. No. 93-618, Tits. II & III,
+88 Stat. 2011, 2042 (19 U.S.C. 2251 et seq., 2411
+et seq.)................................................................................... 11
+Trade Expansion Act of 1962, Pub. L. No. 97-794,
+§ 232, 76 Stat. 877 (19 U.S.C. 1862) ................................... 11
+Trading with the Enemy Act, ch. 106, 40 Stat. 411 ............ 10
+Miscellaneous:
+Ana Swanson et al., ‘Deal’ With China Mends Ties
+but Doesn’t Erase Tariffs,
+N.Y. Times, June 12, 2025 .................................................... 4
+Black’s Law Dictionary (5th ed. 1979) ................................. 9
+VI
+Miscellaneous—Continued: Page
+Exec. Order No. 14,195,
+90 Fed. Reg. 9121 (Feb. 7, 2025) ......................................... 2
+Exec. Order No. 14,228,
+90 Fed. Reg. 11,463 (Mar. 7, 2025) ...................................... 3
+Exec. Order No. 14,257,
+90 Fed. Reg. 15,041 (Apr. 7, 2025) ...................................... 3
+Exec. Order No. 14,266,
+90 Fed. Reg. 15,625 (Apr. 15, 2025)..................................... 3
+Exec. Order No. 14,316, 90 Fed. Reg. 30,823
+(July 10, 2025) ....................................................................... 3
+H.R. Rep. No. 459, 95th Cong., 1st Sess. (1977) ................. 10
+Michael W. McConnell, The President Who Would
+Not Be King (2020) ............................................................. 13
+Proclamation No. 10,886,
+90 Fed. Reg. 8327 (Jan. 29, 2025) ........................................ 2
+S. Rep. No. 466, 96th Cong., 1st Sess. (1979) ........................ 8
+In the Supreme Court of the United States
+No. 24-1287
+LEARNING RESOURCES, INC., ET AL., PETITIONERS
+v.
+DONALD J. TRUMP, PRESIDENT OF THE UNITED STATES,
+ET AL.
+ON PETITION FOR A WRIT OF CERTIORARI BEFORE JUDGMENT
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+BRIEF FOR THE RESPONDENTS IN OPPOSITION
+OPINIONS BELOW
+The memorandum opinion of the district court (Pet.
+App. 3a-43a) is available at 2025 WL 1525376. The or-
+ders of the district court (Pet. App. 1a-2a, 44a-45a) are
+unreported.
+JURISDICTION
+The district court issued a preliminary injunction on
+May 29, 2025. The government filed a notice of appeal
+on May 30, 2025. The court of appeals’ jurisdiction rests
+on 28 U.S.C. 1292(a)(1). The jurisdiction of this Court
+is invoked under 28 U.S.C. 1254(1) and 2101(e).
+STATEMENT
+1. The International Emergency Economic Powers
+Act (IEEPA), Pub. L. No. 95-223, Tit. II, 91 Stat. 1626
+(50 U.S.C. 1701 et seq.), authorizes the President to
+“regulate * * * importation” of “any property in which
+(1)
+2
+any foreign country or a national thereof has any inter-
+est,” or “with respect to any property, subject to the ju-
+risdiction of the United States.” 50 U.S.C. 1702(a)(1)(B).
+The President may exercise that authority “to deal with
+any unusual or extraordinary threat, which has its
+source in whole or substantial part outside the United
+States, to the national security, foreign policy, or econ-
+omy of the United States, if the President declares a
+national emergency with respect to such threat.” 50
+U.S.C. 1701(a). Invoking IEEPA, the President has im-
+posed tariffs to address two emergencies.
+First, the President has declared the flow of contra-
+band drugs through illicit distribution networks to be a
+national emergency, see Proclamation No. 10,886, 90
+Fed. Reg. 8327 (Jan. 29, 2025), and has defined the scope
+of that emergency to include the conduct of the People’s
+Republic of China (PRC), see Exec. Order No. 14,195,
+90 Fed. Reg. 9121, 9122 (Feb. 7, 2025). The President
+found that the PRC government “has subsidized and
+otherwise incentivized PRC chemical companies to ex-
+port fentanyl and related precursor chemicals that are
+used to produce synthetic opioids sold illicitly in the
+United States”; that “the PRC provides support to and
+safe haven for PRC-origin transnational criminal or-
+ganizations * * * that launder the revenues from the
+production, shipment, and sale of illicit synthetic opi-
+oids”; and that “[m]any PRC-based chemical companies
+* * * go to great lengths to evade law enforcement and
+hide illicit substances in the flow of legitimate com-
+merce.” Id. at 9121. Invoking IEEPA, the President
+addressed that threat by imposing an additional 10%
+duty on most PRC products. See id. at 9122-9123. He
+later increased the additional-duty rate to 20% because
+“the PRC ha[d] not taken adequate steps to alleviate the
+3
+illicit drug crisis.” Exec. Order No. 14,228, 90 Fed. Reg.
+11,463, 11,463 (Mar. 7, 2025).
+Second, in April 2025, the President declared a sep-
+arate emergency arising out of “a lack of reciprocity in
+our bilateral trade relationships, disparate tariff rates
+and non-tariff barriers, and U.S. trading partners’ eco-
+nomic policies that suppress domestic wages and con-
+sumption, as indicated by large and persistent annual
+U.S. goods trade deficits.” Exec. Order No. 14,257, 90
+Fed. Reg. 15,041, 15,041 (Apr. 7, 2025). In declaring
+that emergency, the President explained that “[l]arge
+and persistent annual U.S. goods trade deficits have led
+to the hollowing out of our manufacturing base; inhib-
+ited our ability to scale advanced domestic manufactur-
+ing capacity; undermined critical supply chains; and
+rendered our defense-industrial base dependent on for-
+eign adversaries.” Ibid. Invoking IEEPA, the President
+addressed that threat by imposing an additional 10%
+duty “on all imports from all trading partners,” subject
+to certain exceptions. Id. at 15,045. He also imposed
+various country-specific tariffs. See ibid. The Presi-
+dent suspended some of those reciprocal tariffs for 90
+days, see Exec. Order No. 14,266, 90 Fed. Reg. 15,625
+(Apr. 15, 2025), and later extended the suspension, see
+Exec. Order No. 14,316, 90 Fed. Reg. 30,823 (July 10,
+2025).
+The tariffs have prompted fruitful negotiations with
+the United States’ foreign partners. For instance, “more
+than 75 * * * foreign trading partners * * * have ap-
+proached the United States to address the lack of trade
+reciprocity in our economic relationships and our re-
+sulting economic security concerns.” 90 Fed. Reg. at
+15,626. The tariffs also prompted the PRC to return to
+the negotiating table, resulting in a framework agree-
+4
+ment to reduce China’s tariffs on U.S. goods. See Ana
+Swanson et al., ‘Deal’ With China Mends Ties but
+Doesn’t Erase Tariffs, N.Y. Times, June 12, 2025, at
+A10.
+2. Petitioners are companies that claim to import
+goods from China and other countries affected by the
+tariffs. See Pet. App. 3a. They brought this suit in the
+United States District Court for the District of Colum-
+bia, claiming that the tariffs exceed the President’s au-
+thority under IEEPA. See id. at 3a-4a.
+The district court denied the government’s motion to
+transfer the case to the Court of International Trade
+(CIT), rejecting the government’s argument that the
+CIT possesses exclusive jurisdiction over this case. See
+Pet. App. 18a-21a. The court also granted petitioners a
+preliminary injunction prohibiting the government
+from collecting the tariffs from petitioners. See id. at
+3a-43a. The court found that petitioners were likely to
+succeed on the merits of their claim that the President’s
+power under IEEPA to “regulate” importation does not
+include the power to impose tariffs. See id. at 21a-37a.
+On its own motion, the district court stayed its pre-
+liminary injunction for 14 days. See Pet. App. 43a. The
+government appealed to the D.C. Circuit, and the dis-
+trict court granted the government’s motion to stay its
+injunction pending appellate review. See id. at 44a-45a.
+The government’s appeal remains pending.
+ARGUMENT
+Petitioners ask this Court to grant certiorari before
+judgment to consider their contention that IEEPA does
+not authorize the President to impose tariffs. This
+Court should reject that request. This particular case
+does not warrant the extraordinary step of granting
+certiorari before judgment at the behest of the party
+5
+that prevailed in the district court. That is especially
+true given that the district court lacks subject-matter
+jurisdiction and that petitioners’ claim plainly lacks
+merit. Granting certiorari before judgment would be
+particularly unusual here because the D.C. Circuit has
+expedited its consideration of the appeal in this case,
+and the en banc Federal Circuit is considering the tar-
+iffs’ legality on a highly expedited timeline in a parallel
+case. This Court should not leapfrog those fast-moving
+proceedings, especially not to grant a petition in a case
+in which the district court lacked jurisdiction.
+1. Petitioners ask this Court to depart in two ways
+from its ordinary practice. First, they seek certiorari
+before judgment, which this Court reserves for cases
+“of such imperative public importance as to justify de-
+viation from normal appellate practice and to require
+immediate determination in this Court.” Sup. Ct. R. 11.
+Second, they seek certiorari after having prevailed in
+the district court, even though this Court has “generally
+declined to consider cases at the request of a prevailing
+party.” Camreta v. Greene, 563 U.S. 692, 703-704 (2011).
+This particular case does not warrant that doubly
+special treatment. The D.C. Circuit has adopted an ex-
+pedited briefing schedule and has scheduled argument
+for September 30, 2025. See C.A. Doc. 2121448 (June
+18, 2025); C.A. Doc. 2123376 (July 1, 2025). The parties
+will have an opportunity to seek certiorari after the
+court of appeals issues its decision. If petitioners ulti-
+mately prevail on their legal challenge to the tariffs,
+moreover, they could obtain refunds of the tariffs that
+they have paid during the pendency of this litigation.
+See Sunpreme Inc. v. United States, No. 15-315, 2017
+WL 65421, at *5 (C.I.T. Jan. 5, 2017). In these circum-
+stances, this Court “should not jump ahead of the lower
+6
+courts,” particularly at the behest of a prevailing party.
+Moyle v. United States, 603 U.S. 324, 336 (2024) (per
+curiam) (Barrett, J., concurring).
+2. In any event, this case is not a suitable vehicle for
+addressing the underlying lawfulness of the President’s
+tariffs. The threshold issue in this case, unlike in the
+parallel case in the Federal Circuit, is whether the dis-
+trict court had subject-matter jurisdiction to address
+petitioners’ challenge to the tariffs. Because the dis-
+trict court lacked jurisdiction, this case is unlikely to re-
+solve ultimate questions about the lawfulness of the tar-
+iffs.
+a. Federal law grants the CIT “exclusive jurisdic-
+tion” over various international-trade matters. 28 U.S.C.
+1581. District courts lack jurisdiction over such mat-
+ters. See 28 U.S.C. 1337(c); K Mart Corp. v. Cartier,
+Inc., 485 U.S. 176, 182-183 (1988). As relevant here, the
+CIT’s exclusive jurisdiction encompasses “any civil ac-
+tion commenced against the United States, its agencies,
+or its officers, that arises out of any law of the United
+States providing for * * * tariffs, duties, fees, or other
+taxes on the importation or merchandise for reasons
+other than the raising of revenue” or “any law of the
+United States providing for * * * administration and
+enforcement with respect to” such tariffs. 28 U.S.C.
+1581(i)(1)(B) and (D).
+The challenged Executive Orders qualify as a “law”
+“providing for” “tariffs,” or for “administration and en-
+forcement with respect to” tariffs, within the meaning
+of that provision. 28 U.S.C. 1581(i)(1)(B) and (D). The
+Executive Orders modified the Harmonized Tariff
+Schedule of the United States. See 90 Fed. Reg. at
+15,090; 90 Fed. Reg. at 15,626. Congress has provided
+that “[e]ach modification or change made to the Harmo-
+7
+nized Tariff Schedule by the president under authority
+of law” “shall be considered to be statutory provisions
+of law for all purposes.” 19 U.S.C. 3004(c)(1)(C).
+This case also “arises out of,” 28 U.S.C. 1581(i)(1),
+the Harmonized Tariff Schedule and the Executive Or-
+ders modifying it. The crux of petitioners’ claim is that,
+because of the Executive Orders and “corresponding
+revisions to the [Harmonized Tariff Schedule],” they
+“must pay additional tariffs to the federal government.”
+C.A. J.A. 19. Petitioners seek a declaration that the “mod-
+ifications to the [Harmonized Tariff Schedule]” made by
+the challenged Executive Orders “are unlawful,” an in-
+junction against their enforcement, and an order
+“set[ting] aside” the modifications. Id. at 35-37, 41, 43, 45.
+The CIT has accordingly explained that challenges
+to the tariffs at issue here fall within its exclusive juris-
+diction. See V.O.S. Selections, Inc. v. United States, 772
+F. Supp. 3d 1350, 1366-1367 (C.I.T. 2025) (per curiam),
+appeal pending, No. 25-1812 (Fed. Cir. filed May 28,
+2025). Three other district courts facing challenges to
+the same tariffs have likewise recognized that such suits
+belong exclusively in the CIT. See California v. Trump,
+No. 25-cv-3372, 2025 WL 1569334, at *4 (N.D. Cal. June
+2, 2025), appeal pending, No. 25-3493 (9th Cir. filed Apr.
+28, 2025); Emily Ley Paper, Inc. v. Trump, No. 25-cv-
+464, 2025 WL 1482771, at *8 (N.D. Fla. May 20, 2025);
+Webber v. United States Department of Homeland Se-
+curity, No. 25-cv-26, 2025 WL 1207587, at *4 (D. Mont.
+Apr. 25, 2025), appeal pending, No. 25-2717 (9th Cir.
+filed June 3, 3025).
+By consolidating tariff challenges in the CIT, with
+appellate review in the Federal Circuit, Congress prior-
+itized national uniformity of judicial decisionmaking in
+this specialized domain. That choice reflects Congress’s
+8
+view of the importance, in the international-trade arena,
+of “eliminat[ing] the possibility of conflicting decision[s]”
+from different courts and ensuring “expeditious deci-
+sions in matters which are important both to our coun-
+try and to our trading partners.” S. Rep. No. 466, 96th
+Cong., 1st Sess. 3-4 (1979).
+b. The district court concluded that the CIT would
+have exclusive jurisdiction only if IEEPA authorizes
+the tariffs at issue here—and thus treated jurisdiction
+and the merits as a single inquiry. See Pet. App. 19a.
+That is incorrect. Petitioners’ suit falls within the CIT’s
+exclusive jurisdiction because it arises out of the Exec-
+utive Orders modifying the Harmonized Tariff Sched-
+ule. This Court, moreover, has cautioned against inter-
+preting jurisdictional statutes in a way that “would
+make a court’s jurisdiction * * * dependent upon the
+merits of the claim.” Garland v. Aleman Gonzalez, 596
+U.S. 543, 554 (2022). For good reason. Where Congress
+has provided for review of a class of cases in a particular
+court, “it would be nonsensical to say that the jurisdic-
+tion of the reviewing body is limited to instances in
+which the underlying decision construes and applies the
+statute correctly.” Michael Simon Design, Inc. v.
+United States, 609 F.3d 1335, 1341 (Fed. Cir. 2010); see
+Steel Co. v. Citizens for a Better Environment, 523 U.S.
+83, 92-93 (1998) (similar).
+3. Petitioners’ challenge also fails on the merits.
+a. IEEPA authorizes the President to “regulate
+* * * importation” of “any property in which any for-
+eign country or a national thereof has any interest,” or
+“with respect to any property, subject to the jurisdic-
+tion of the United States.” 50 U.S.C. 1702(a)(1)(B). The
+power to “regulate” imports includes the power to im-
+pose tariffs on them.
+9
+That follows from the ordinary meaning of “regu-
+late”: to “fix, establish, or control; to adjust by rule,
+method, or established mode; to direct by rule or re-
+striction; to subject to governing principles or laws.”
+Black’s Law Dictionary 1156 (5th ed. 1979). Imposing
+tariffs is a way of “control[ling]” imports, “adjust[ing]”
+them “by rule,” and “subject[ing]” them “to governing
+principles or laws.” Ibid.
+This Court’s precedents reinforce that conclusion.
+Two centuries ago, Chief Justice Marshall referred to
+the “right to regulate commerce * * * by the imposition
+of duties” and observed that duties are often “imposed
+* * * with a view to the regulation of commerce.” Gib-
+bons v. Ogden, 9 Wheat. 1, 202 (1824). More recently,
+this Court has held that a statute authorizing the Pres-
+ident “ ‘to adjust the imports’ ” of a product allows not
+just “quantitative methods” for adjusting imports (such
+as “quotas”), but also “monetary methods” (such as “li-
+cense fees”). Federal Energy Administration v. Algon-
+quin SNG, Inc., 426 U.S. 548, 561 (1976). Such fees, the
+Court explained, have a “direct impact on imports” “as
+much as a quota” would. Id. at 571. So too for the tariffs
+at issue here. Like the license fees in Algonquin (fees
+for each barrel of oil imported), the tariffs here are a
+“monetary method” for “adjusting” imports and are
+thus a means of “regulating” imports. See Borusan
+Mannesmann Boru Sanayi ve Ticaret A.S. v. United
+States, 63 F.4th 25, 34 (Fed. Cir. 2023) (“quotas” and
+“duties” are alternative means of “ ‘adjust[ing] im-
+ports’ ”) (citation omitted).
+A year before Algonquin, moreover, the Federal
+Circuit’s predecessor reached the same conclusion, as
+to the same statutory language at issue here, in United
+States v. Yoshida International, Inc., 526 F.2d 560
+10
+(C.C.P.A. 1975). That court construed the Trading With
+the Enemy Act (TWEA), ch. 106, 40 Stat. 411, which em-
+powered the President “to ‘regulate importation,’ ” to
+authorize the imposition of “an import duty surcharge.”
+Yoshida, 526 F.2d at 576. Congress drew IEEPA’s lan-
+guage directly from TWEA, see Dames & Moore v. Re-
+gan, 453 U.S. 654, 671 (1981), after Yoshida had read
+that language to authorize tariffs. “Congress is pre-
+sumed to be aware of an administrative or judicial in-
+terpretation of a statute and to adopt that interpreta-
+tion when it re-enacts” the relevant language. Lorillard
+v. Pons, 434 U.S. 575, 580 (1978). Indeed, the House
+Report on IEEPA cited Yoshida and approvingly dis-
+cussed its holding. See H.R. Rep. No. 459, 95th Cong.,
+1st Sess. 5 (1977).
+b. Petitioners invoke (Pet. 23) the major-questions
+doctrine, but that doctrine is inapposite for many rea-
+sons. Most important, it applies only “in the domestic
+sphere.” FCC v. Consumers’ Research, No. 24-354, 2025
+WL 1773630, at *22 (June 27, 2025) (Kavanaugh, J., con-
+curring) (emphasis added). “[T]he major questions
+canon has not been applied by this Court in the national
+security or foreign policy contexts, because the canon
+does not reflect ordinary congressional intent in those
+areas.” Id. at *23. “On the contrary, the usual under-
+standing is that Congress intends to give the President
+substantial authority and flexibility to protect America
+and the American people—and that Congress specifies
+limits on the President when it wants to restrict Presi-
+dential power in those national security and foreign pol-
+icy domains.” Ibid. The doctrine also “does not trans-
+late to those contexts because of the nature of Presiden-
+tial decisionmaking in response to ever-changing na-
+tional security threats and diplomatic challenges.” Ibid.
+11
+Indeed, Presidents have long imposed tariffs and
+other trade restrictions under generally worded stat-
+utes and their inherent constitutional authority. See,
+e.g., Cargo of Brig Aurora v. United States, 7 Cranch
+382, 384 (1813) (Non-Intercourse Act); Marshall Field
+& Co. v. Clark, 143 U.S. 649, 680 (1892) (Tariff Act of
+1890); J.W. Hampton, Jr., & Co. v. United States, 276
+U.S. 394, 401-402 (1928) (Tariff Act of 1922); Dames &
+Moore, 453 U.S. at 672, 686 (IEEPA and inherent au-
+thority); see also, e.g., Tariff Act of 1930, ch. 497, § 338,
+46 Stat. 704 (19 U.S.C. 1338) (Smoot-Hawley); Trade
+Expansion Act of 1962, Pub. L. No. 87-794, § 232, 76
+Stat. 877 (19 U.S.C. 1862); Trade Act of 1974, Pub. L.
+No. 93-618, Tits. II & III, 88 Stat. 2011, 2042 (19 U.S.C.
+2251 et seq., 2411 et seq.).
+In addition, the major-questions doctrine addresses
+the “particular and recurring problem” of “agencies as-
+serting highly consequential power beyond what Con-
+gress could reasonably be understood to have granted.”
+West Virginia v. EPA, 597 U.S. 697, 724 (2022) (empha-
+sis added). Those concerns dissipate when, as here, Con-
+gress delegates authority directly to the President—
+“the most democratic and politically accountable official
+in Government,” Seila Law LLC v. CFPB, 591 U.S. 197,
+224 (2020).
+Relatedly, the major-questions doctrine applies
+where there is an apparent “ ‘mismatch[]’ ” between the
+breadth of the asserted power and the “narrow[ness]”
+of the statute in which the agency claims to have discov-
+ered it. Biden v. Nebraska, 600 U.S. 477, 517-518 (2023)
+(Barrett, J., concurring). No such mismatch exists
+here, given that IEEPA addresses national emergen-
+cies (the most important of circumstances) and directly
+authorizes the President (the most important person in
+12
+government) to take certain actions in response to those
+emergencies. IEEPA, on its face, is designed to ad-
+dress major questions, and thus it would make little
+sense to construe the statute to avoid addressing major
+questions. Nor is this a case where “an agency claims
+to discover in a long-extant statute an unheralded
+power.” Utility Air Regulatory Group v. EPA, 573 U.S.
+302, 324 (2014). Congress has long granted Presidents
+extremely broad authority over tariffs, including under
+the very statute on which IEEPA was modeled. See pp.
+9-11, supra.
+c. Petitioners argue (Pet. 23-24) that the govern-
+ment’s reading of IEEPA violates the nondelegation
+doctrine, but that contention, too, lacks merit. The non-
+delegation doctrine plays a “more limited role” in “the
+national security and foreign policy realms” than in
+the domestic sphere. Consumers’ Research, 2025 WL
+1773630, at *22 (Kavanaugh, J., concurring). In “au-
+thorizing action by the President in respect of subjects
+affecting foreign relations,” Congress may “leave the
+exercise of the power to his unrestricted judgment, or
+provide a standard far more general than that which has
+always been considered requisite with respect to do-
+mestic affairs.” United States v. Curtiss-Wright Export
+Corp., 299 U.S. 304, 324 (1936). In particular, Congress
+may “invest the President with large discretion in mat-
+ters arising out of the execution of statutes relating to
+trade and commerce with other nations.” Marshall
+Field, 143 U.S. at 691.
+That makes sense given that Article II gives the
+President the “lead role in foreign policy.” American
+Insurance Association v. Garamendi, 539 U.S. 396, 415
+(2003) (citations and ellipsis omitted). Here, where the
+President possesses both his own inherent constitu-
+13
+tional authority over foreign relations and a broad del-
+egation of authority from Congress under IEEPA, “his
+authority is at its maximum, for it includes all that he
+possesses in his own right plus all that Congress can
+delegate,” and his actions are “supported by the strong-
+est of presumptions and the widest latitude of judicial
+interpretation.” Youngstown Sheet & Tube Co. v. Saw-
+yer, 343 U.S. 579, 635-637 (1952) (Jackson, J., concur-
+ring in the judgment and opinion of the Court). Indeed,
+any “limitations” on Congress’s authority to delegate
+are “less stringent in cases where the entity exercising
+the delegated authority itself possesses independent
+authority over the subject matter.” United States v.
+Mazurie, 419 U.S. 544, 556-557 (1975). When Congress
+delegates “authority over matters of foreign affairs,”
+therefore, it “must of necessity paint with a brush
+broader than that it customarily wields in domestic ar-
+eas.” Zemel v. Rusk, 381 U.S. 1, 17 (1965); cf. Michael
+W. McConnell, The President Who Would Not Be King
+334 (2020).
+In any event, even if the domestic nondelegation doc-
+trine were applicable, IEEPA’s provisions authorizing
+the President to “regulate” imports “to deal with any
+unusual and extraordinary [foreign] threat * * * to the
+national security, foreign policy, or economy of the
+United States” during a “national emergency,” 50 U.S.C.
+1701(a), 1702(a)(1)(B), easily satisfy that doctrine. See
+United States v. Shih, 73 F.4th 1077, 1092 (9th Cir. 2023)
+(collecting cases), cert. denied, 144. S. Ct. 820 (2024).
+4. Finally, this Court should deny certiorari before
+judgment given the ongoing proceedings before the
+Federal Circuit. Two other sets of plaintiffs filed suits
+challenging the tariffs in the CIT. Addressing both
+challenges, the CIT granted a universal permanent in-
+14
+junction against the collection of the tariffs. See V.O.S.
+Selections, 772 F. Supp. 3d at 1383. The en banc Fed-
+eral Circuit has stayed that injunction, see V.O.S. Selec-
+tions, Inc. v. Trump, No. 25-1812, 2025 WL 1649290, at *1
+(June 10, 2025) (per curiam); expedited the appeal; and
+scheduled oral argument on July 31, 2025, see 6/13/25
+Order, V.O.S. Selections, supra (No. 25-1812).
+Once the Federal Circuit issues its decision, this
+Court would likely have an opportunity to determine
+whether to grant certiorari and, if so, to hear the case
+during the October 2025 Term. To the extent that cer-
+tiorari would be warranted, that case would be a better
+vehicle than this one for resolving the tariffs’ legality
+because that case originates in the CIT, which has ex-
+clusive jurisdiction over suits challenging tariffs. If the
+Court ultimately grants review in the Federal Circuit
+case, and if it believes that there is any meaningful
+doubt as to the CIT’s exclusive jurisdiction, it could
+simply address the jurisdictional question in that case
+or grant review in this case after the D.C. Circuit has
+issued its judgment.
+CONCLUSION
+The petition for a writ of certiorari before judgment
+should be denied.
+Respectfully submitted.
+D. JOHN SAUER
+Solicitor General
+BRETT A. SHUMATE
+Assistant Attorney General
+MICHAEL S. RAAB
+BRAD HINSHELWOOD
+DANIEL WINIK
+SOPHIA SHAMS
+Attorneys
+JULY 2025
