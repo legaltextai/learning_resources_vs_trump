@@ -157,6 +157,8 @@ This is a first attempt, not a finished product. Better precedent retrieval, mod
 
 ---
 
+**Disclaimer:** This is an experiment—one of the first steps toward deploying language models as part of empirical legal research. It is not legal advice. Do not rely on this analysis when placing bets or making decisions.
+
 **Data Sources:**
 - Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, Sara C. Benesh, and Michael J. Nelson. 2025 Supreme Court Database, Version 2025 Release 01. http://supremecourtdatabase.org
 - CourtListener, Free Law Project. https://www.courtlistener.com
