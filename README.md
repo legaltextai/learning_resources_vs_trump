@@ -77,7 +77,7 @@ The swing votes are Kavanaugh and Barrett. Both have supported the Major Questio
 
 Here's what surprised me: the three liberal justices are predicted to vote *for* the Trump administration's tariff authority.
 
-At first glance, this seems backwards. Justices Sotomayor and Kagan dissented in *Trump v. Hawaii*. They're generally skeptical of expansive executive power claims.
+At first glance, this seems backwards. All four liberal justices dissented in *Trump v. Hawaii*—Sotomayor with Ginsburg, Breyer with Kagan. They're generally skeptical of expansive executive power claims.
 
 But the model isn't tracking politics—it's tracking doctrine. And doctrinally, the liberal justices have consistently opposed the Major Questions Doctrine. Justice Kagan authored the *Gundy* plurality defending broad congressional delegation, joined by Sotomayor. Kagan's *West Virginia v. EPA* dissent called MQD a "get-out-of-text-free card" that "appoints [the Court] instead of Congress or the expert agency—the decision-maker on climate policy." In *Biden v. Nebraska*, Kagan's dissent (joined by Jackson) continued this critique.
 
