@@ -79,7 +79,7 @@ Here's what surprised me: the three liberal justices are predicted to vote *for*
 
 At first glance, this seems backwards. All four liberal justices dissented in *Trump v. Hawaii*—Sotomayor with Ginsburg, Breyer with Kagan. They're generally skeptical of expansive executive power claims.
 
-But the model isn't tracking politics—it's tracking doctrine. And doctrinally, the liberal justices have consistently opposed the Major Questions Doctrine. Justice Kagan authored the *Gundy* plurality defending broad congressional delegation, joined by Sotomayor. Kagan's *West Virginia v. EPA* dissent called MQD a "get-out-of-text-free card" that "appoints [the Court] instead of Congress or the expert agency—the decision-maker on climate policy." In *Biden v. Nebraska*, Kagan's dissent (joined by Jackson) continued this critique.
+But the model isn't tracking politics—it's tracking doctrine. And doctrinally, the liberal justices have consistently opposed the Major Questions Doctrine. Justice Kagan authored the *Gundy* plurality defending broad congressional delegation, joined by Sotomayor. Kagan's *West Virginia v. EPA* dissent called MQD a "get-out-of-text-free card" that "appoints [the Court] instead of Congress or the expert agency—the decision-maker on climate policy." In *Biden v. Nebraska*, Kagan's dissent (joined by Sotomayor and Jackson) continued this critique.
 
 Their jurisprudential commitment to rejecting MQD is stronger than any situational distaste for this particular president's tariffs. Doctrine, it turns out, is stickier than politics.
 
@@ -134,7 +134,7 @@ The full pipeline consists of eight Python scripts, each handling a specific ste
 7. **estimate_justice_probabilities.py** — Final probability synthesis
 8. **md_to_pdf.py** — Format output for human review
 
-The total cost was about $15 in API calls. Total time spent was about 4 hours. The Spaeth database and CourtListener are free.
+The total cost was about $15 in API calls. Total time spent was about 4 hours. The Spaeth database and CourtListener are free›.
 
 ## What Happens Next
 
