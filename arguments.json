@@ -1,0 +1,3061 @@
+{
+  "case_info": {
+    "case_name": "Learning Resources, Inc. v. Trump",
+    "case_numbers": [
+      "24-1287",
+      "25-250"
+    ],
+    "court": "Supreme Court of the United States",
+    "argument_date": "2025-11-05",
+    "question_presented": "Whether IEEPA authorizes the President to impose tariffs"
+  },
+  "parties": {
+    "petitioner": {
+      "name": "Learning Resources, Inc. and hand2mind, Inc.",
+      "counsel": [
+        "Pratik A. Shah (Akin Gump)",
+        "Neal K. Katyal (oral argument)"
+      ],
+      "description": "Family-owned educational toy companies challenging IEEPA tariffs"
+    },
+    "respondent": {
+      "name": "Donald J. Trump, President of the United States, et al.",
+      "counsel": [
+        "D. John Sauer (Solicitor General)"
+      ],
+      "description": "Federal government defending IEEPA tariff authority"
+    },
+    "supporting_respondent": {
+      "name": "States of Oregon, Arizona, Colorado, Connecticut, Delaware, Illinois, Maine, Minnesota, Nevada, New Mexico, New York, Vermont",
+      "counsel": [
+        "Benjamin Gutman (Oregon Solicitor General)"
+      ]
+    }
+  },
+  "spaeth_codes_reference": {
+    "note": "IEEPA (50 U.S.C. 1701-1707) was enacted as Title II of Public Law 95-223 (1977), which also amended TWEA in Title I. The Spaeth database code 376 ('Trading with the Enemy Act, as amended') covers both TWEA and IEEPA.",
+    "primary_issue_code": {
+      "code": 130015,
+      "description": "executive authority vis-a-vis congress or the states"
+    },
+    "secondary_issue_codes": [
+      {
+        "code": 90120,
+        "description": "judicial review of administrative agency's or administrative official's actions and procedures"
+      },
+      {
+        "code": 80350,
+        "description": "miscellaneous economic regulation"
+      }
+    ],
+    "primary_legal_provision": {
+      "code": 376,
+      "description": "Trading with the Enemy Act, as amended (includes IEEPA - Title II of P.L. 95-223)"
+    },
+    "secondary_legal_provisions": [
+      {
+        "code": 100,
+        "description": "Article I, Section 1 (delegation of powers)"
+      },
+      {
+        "code": 131,
+        "description": "Article II, Section 1 (executive power)"
+      },
+      {
+        "code": 133,
+        "description": "Article II, Section 2 (commander-in-chief) - foreign affairs/national security"
+      },
+      {
+        "code": 511,
+        "description": "Executive Order - tariffs implemented via presidential proclamations/EOs"
+      }
+    ]
+  },
+  "legal_issues": [
+    {
+      "issue_id": "ISSUE-01",
+      "category": "statutory_interpretation",
+      "description": "Whether 'regulate importation' in IEEPA Section 1702(a)(1)(B) includes the power to impose tariffs",
+      "central_question": true,
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 376,
+      "spaeth_provision_description": "Trading with the Enemy Act, as amended (includes IEEPA)"
+    },
+    {
+      "issue_id": "ISSUE-02",
+      "category": "major_questions",
+      "description": "Whether the Major Questions Doctrine applies to limit IEEPA tariff authority given the unprecedented scope and economic significance",
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 100,
+      "spaeth_provision_description": "Article I, Section 1 (delegation of powers)"
+    },
+    {
+      "issue_id": "ISSUE-03",
+      "category": "nondelegation",
+      "description": "Whether IEEPA unconstitutionally delegates legislative taxing power to the President without sufficient standards",
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 100,
+      "spaeth_provision_description": "Article I, Section 1 (delegation of powers)"
+    },
+    {
+      "issue_id": "ISSUE-04",
+      "category": "jurisdiction",
+      "description": "Whether federal district courts or the Court of International Trade have exclusive jurisdiction over IEEPA tariff challenges",
+      "spaeth_issue_code": 90320,
+      "spaeth_issue_description": "judicial administration: jurisdiction or authority of federal district courts or territorial courts",
+      "spaeth_provision_code": 600,
+      "spaeth_provision_description": "Infrequently litigated statutes"
+    },
+    {
+      "issue_id": "ISSUE-05",
+      "category": "foreign_affairs",
+      "description": "Whether presidential foreign affairs authority affects interpretation of IEEPA powers",
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 131,
+      "spaeth_provision_description": "Article II, Section 1 (executive power)"
+    },
+    {
+      "issue_id": "ISSUE-06",
+      "category": "historical_practice",
+      "description": "Whether 50 years of non-use of IEEPA for tariffs informs statutory interpretation",
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 376,
+      "spaeth_provision_description": "Trading with the Enemy Act, as amended (includes IEEPA)"
+    },
+    {
+      "issue_id": "ISSUE-07",
+      "category": "constitutional_structure",
+      "description": "Whether reading tariff power into 'regulate exportation' would violate the Export Clause prohibition on export taxes",
+      "spaeth_issue_code": 130015,
+      "spaeth_issue_description": "executive authority vis-a-vis congress or the states",
+      "spaeth_provision_code": 124,
+      "spaeth_provision_description": "Article I, Section 9, Paragraph 5 (export clause)"
+    }
+  ],
+  "arguments": [
+    {
+      "argument_id": "ARG-P01",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Congress has never used the word 'regulate' alone to authorize taxation or tariffs. When Congress delegates tariff power, it always uses explicit terms like 'duty,' 'tariff,' or 'tax.'",
+      "detail": "The word 'regulate' appears approximately 1,499 times in the U.S. Code, but never to authorize taxation or revenue-raising. When Congress intends to permit tariffs, it explicitly uses terms like 'duty,' 'tariff,' 'tax,' or 'import surcharge.' Title 19 contains numerous examples of explicit tariff delegations with substantive and temporal limits. The ordinary meaning of 'regulate' is to 'control by rule' or 'subject to restrictions,' not to impose monetary exactions.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "statutory_text",
+          "description": "Section 122 of Trade Act uses 'duties' explicitly, limited to 15% for 150 days",
+          "citation": "19 U.S.C. Section 2132(a)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 716-723"
+        },
+        {
+          "type": "statutory_text",
+          "description": "Section 301 authorizes 'duties or other import restrictions' with explicit procedural requirements",
+          "citation": "19 U.S.C. Section 2411(c)(1)(B)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 736-745"
+        },
+        {
+          "type": "case_law",
+          "description": "Chief Justice Marshall distinguished taxing power from commerce power",
+          "citation": "Gibbons v. Ogden, 22 U.S. (9 Wheat) 1, 201 (1824)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 1287-1295"
+        },
+        {
+          "type": "dictionary_definition",
+          "description": "Contemporary dictionary defines 'regulate' as 'control by rule' or 'subject to restrictions'",
+          "citation": "The Concise Oxford Dictionary of Current English 943 (6th ed. 1976)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 1271-1274"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R01",
+        "ARG-R03"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Gibbons",
+          "case_name": "Gibbons v. Ogden",
+          "citation": "22 U.S. (9 Wheat.) 1 (1824)",
+          "year": 1824,
+          "relevance": "Commerce power scope; regulation vs taxation distinction",
+          "url": "https://www.courtlistener.com/opinion/85412/gibbons-v-ogden/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1824), predates current justices"
+        },
+        {
+          "case_id": "1975-133",
+          "case_name": "FEDERAL ENERGY ADMINISTRATION et al. v. ALGONQUIN SNG, INC., et al.",
+          "citation": "426 U.S. 548",
+          "year": 1976,
+          "relevance": "Algonquin - 'adjust imports' includes license fees; monetary methods",
+          "url": "https://www.courtlistener.com/opinion/109489/federal-energy-administration-v-algonquin-sng-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1976 predates all current justices"
+        },
+        {
+          "case_id": "1983-134",
+          "case_name": "CHEVRON U. S. A. INC. v. NATURAL RESOURCES DEFENSE COUNCIL, INC., et al.",
+          "citation": "467 U.S. 837",
+          "year": 1984,
+          "relevance": "Chevron - agency deference (overruled by Loper Bright)",
+          "url": "https://www.courtlistener.com/opinion/111221/chevron-u-s-a-inc-v-natural-resources-defense-council-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1984 predates all current justices"
+        },
+        {
+          "case_id": "2023-015",
+          "case_name": "LOPER BRIGHT ENTERPRISES v. RAIMONDO",
+          "citation": "144 S. Ct. 2244",
+          "year": 2024,
+          "relevance": "Loper Bright - overruled Chevron; statutory interpretation",
+          "url": "https://www.courtlistener.com/opinion/9491091/loper-bright-enterprises-v-raimondo/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P02",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-07"
+      ],
+      "summary": "Reading tariff power into 'regulate exportation' would be unconstitutional because the Constitution prohibits export taxes, proving 'regulate' cannot mean 'tax.'",
+      "detail": "IEEPA gives the President power to 'regulate importation or exportation.' If 'regulate' includes power to tax, IEEPA would unconstitutionally authorize export taxes in violation of Article I, Section 9, Clause 5. The word 'regulate' cannot be a 'chameleon' meaning one thing for imports and another for exports. The Government offers no coherent response to this structural problem.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 124,
+        "provision_description": "Article I, Section 9, Paragraph 5 (export clause)"
+      },
+      "evidence": [
+        {
+          "type": "constitutional_text",
+          "description": "Export Clause prohibits taxes on exports",
+          "citation": "U.S. Const. art. I, Section 9, cl. 5",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 301"
+        },
+        {
+          "type": "statutory_text",
+          "description": "IEEPA authorizes regulation of both 'importation or exportation'",
+          "citation": "50 U.S.C. Section 1702(a)(1)(B)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 401"
+        },
+        {
+          "type": "case_law",
+          "description": "Single use of statutory phrase must have fixed meaning",
+          "citation": "Cochise Consultancy, Inc. v. United States ex rel. Hunt, 587 U.S. 262, 268 (2019)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1138-1141"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R05"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Board-Trustees",
+          "case_name": "Board of Trustees v. United States",
+          "citation": "289 U.S. 48 (1933)",
+          "year": 1933,
+          "relevance": "Tariffs may be imposed under commerce power, not just taxing power",
+          "url": "https://www.courtlistener.com/opinion/102065/board-of-trustees-of-univ-of-ill-v-united-states/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1933), predates current justices"
+        },
+        {
+          "case_id": "Cochise",
+          "case_name": "Cochise Consultancy, Inc. v. United States ex rel. Hunt",
+          "citation": "587 U.S. 262 (2019)",
+          "year": 2019,
+          "relevance": "Single statutory phrase must have consistent meaning",
+          "url": "https://www.courtlistener.com/opinion/4618957/cochise-consultancy-inc-v-united-states-ex-rel-hunt/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P03",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-06"
+      ],
+      "summary": "No President in IEEPA's nearly 50-year history has ever invoked it to impose tariffs, demonstrating settled understanding that IEEPA does not authorize tariffs.",
+      "detail": "Despite being the 'most frequently cited emergency authority' with 69 invocations since 1977, no President until now has claimed IEEPA authorizes tariffs. Prior Presidents have used IEEPA for asset freezes, financial sanctions, embargoes, and travel restrictions - but never tariffs. This consistent practice informs interpretation of statutory scope.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "historical_practice",
+          "description": "No President in 50 years invoked IEEPA for tariffs",
+          "citation": "Pet.App.27a",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 1605-1607"
+        },
+        {
+          "type": "case_law",
+          "description": "Agency's longstanding practice can inform statutory interpretation",
+          "citation": "Loper Bright Enters. v. Raimondo, 603 U.S. 369, 386 (2024)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1098-1102"
+        },
+        {
+          "type": "historical_practice",
+          "description": "President Trump previously used Section 232 and 301 for tariffs, not IEEPA",
+          "citation": "Proclamation No. 9704, 83 Fed. Reg. 11,619 (Mar. 8, 2018)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1215-1219"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R02"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Yoshida",
+          "case_name": "United States v. Yoshida Int'l, Inc.",
+          "citation": "526 F.2d 560 (C.C.P.A. 1975)",
+          "year": 1975,
+          "relevance": "Nixon tariffs under TWEA upheld; 'regulate importation' includes tariffs",
+          "url": "https://www.courtlistener.com/opinion/349089/united-states-v-yoshida-international-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Federal Circuit case (CCPA 1975), not in SCOTUS database"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "2023-015",
+          "case_name": "LOPER BRIGHT ENTERPRISES v. RAIMONDO",
+          "citation": "144 S. Ct. 2244",
+          "year": 2024,
+          "relevance": "Loper Bright - overruled Chevron; statutory interpretation",
+          "url": "https://www.courtlistener.com/opinion/9491091/loper-bright-enterprises-v-raimondo/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P04",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "None of the eight other verbs surrounding 'regulate' in Section 1702(a)(1)(B) involves revenue-raising, confirming Congress did not intend to delegate taxing power.",
+      "detail": "The verbs in IEEPA Section 1702(a)(1)(B) are: 'investigate,' 'block,' 'regulate,' 'direct and compel,' 'nullify,' 'void,' 'prevent,' and 'prohibit.' Under noscitur a sociis, words are known by their companions. None of these verbs involves taxation or revenue-raising. This confirms Congress did not bury taxing power in 'regulate.'",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "statutory_text",
+          "description": "The complete list of verbs in Section 1702(a)(1)(B)",
+          "citation": "50 U.S.C. Section 1702(a)(1)(B)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 776-789"
+        },
+        {
+          "type": "case_law",
+          "description": "Noscitur a sociis principle - word known by company it keeps",
+          "citation": "Yates v. United States, 574 U.S. 528, 543 (2015)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1083-1089"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R06"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Yates",
+          "case_name": "Yates v. United States",
+          "citation": "574 U.S. 528 (2015)",
+          "year": 2015,
+          "relevance": "Noscitur a sociis - word known by company it keeps",
+          "url": "https://www.courtlistener.com/opinion/2768169/yates-v-united-states/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P05",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-02"
+      ],
+      "summary": "The Major Questions Doctrine applies because the claimed tariff authority represents an unprecedented assertion of power with extraordinary economic and political significance.",
+      "detail": "The IEEPA tariffs constitute the largest peacetime tax increase in American history - over $3 trillion in projected revenue over 10 years. They increased the effective tariff rate tenfold to the highest in over a century. Congress does not hide such vast economic power in vague statutory language. The lack of historical precedent plus the breadth of claimed authority indicates the tariffs exceed legitimate reach.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 100,
+        "provision_description": "Article I, Section 1 (delegation of powers)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Lack of historical precedent plus breadth of claimed authority indicates exceeded reach",
+          "citation": "NFIB v. OSHA, 595 U.S. 109, 119 (2022)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1114-1116"
+        },
+        {
+          "type": "case_law",
+          "description": "Major questions require clear congressional authorization",
+          "citation": "Biden v. Nebraska, 600 U.S. 477, 504-506 (2023)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1109-1110"
+        },
+        {
+          "type": "economic_data",
+          "description": "CBO projects $3.3 trillion in tariff revenue over 10 years",
+          "citation": "Gov't Br. 11",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 918-922"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R04"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "1951-088",
+          "case_name": "YOUNGSTOWN SHEET & TUBE CO. ET AL. v. SAWYER",
+          "citation": "343 U.S. 579",
+          "year": 1952,
+          "relevance": "Youngstown - steel seizure; Jackson's three-zone framework for presidential power",
+          "url": "https://www.courtlistener.com/opinion/105018/youngstown-sheet-tube-co-v-sawyer/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1952 predates all current justices"
+        },
+        {
+          "case_id": "2018-003",
+          "case_name": "GUNDY v. UNITED STATES",
+          "citation": "139 S. Ct. 2116",
+          "year": 2019,
+          "relevance": "Gundy - SORNA delegation; nondelegation doctrine standards",
+          "url": "https://www.courtlistener.com/opinion/9231240/gundy-v-united-states/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "judgment",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        },
+        {
+          "case_id": "2019-071",
+          "case_name": "SEILA LAW LLC v. CONSUMER FINANCIAL PROTECTION BUREAU",
+          "citation": "140 S. Ct. 2183",
+          "year": 2020,
+          "relevance": "SEILA LAW - CFPB structure; removal power limits",
+          "url": "https://www.courtlistener.com/opinion/4764451/seila-law-llc-v-consumer-financial-protection-bureau/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2019-074",
+          "case_name": "TRUMP v. MAZARS USA, LLP",
+          "citation": "140 S. Ct. 2019",
+          "year": 2020,
+          "relevance": "Trump v. Mazars - congressional oversight of President",
+          "url": "https://www.courtlistener.com/opinion/4766665/trump-v-mazars-usa-llp/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2021-045",
+          "case_name": "WEST VIRGINIA v. ENVIRONMENTAL PROTECTION AGENCY",
+          "citation": "142 S. Ct. 2587",
+          "year": 2022,
+          "relevance": "West Virginia v. EPA - major questions doctrine; generation shifting rule",
+          "url": "https://www.courtlistener.com/opinion/6623243/west-virginia-v-epa/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "NFIB-OSHA",
+          "case_name": "NFIB v. OSHA",
+          "citation": "595 U.S. 109 (2022)",
+          "year": 2022,
+          "relevance": "Vaccine mandate stayed; major questions doctrine application",
+          "url": "https://www.courtlistener.com/opinion/6225645/nfib-v-osha/",
+          "justice_votes": [],
+          "justice_votes_note": "Emergency application (2022), may not be in standard Spaeth database"
+        },
+        {
+          "case_id": "2022-038",
+          "case_name": "BIDEN v. NEBRASKA",
+          "citation": "600 U.S. 477",
+          "year": 2023,
+          "relevance": "Biden v. Nebraska - student loan forgiveness; major questions doctrine",
+          "url": "https://www.courtlistener.com/opinion/10049655/biden-v-nebraska/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P06",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Title 19's detailed tariff architecture with specific limits would be rendered meaningless if IEEPA authorized unlimited tariffs with no constraints.",
+      "detail": "Congress has created an elaborate system of tariff statutes in Title 19, each with careful substantive, procedural, and temporal limits. Section 122 limits tariffs to 15% for 150 days. Section 201 requires ITC findings and caps rate increases at 50%. If IEEPA authorized unlimited tariffs, these carefully crafted limitations would be superfluous and easily circumvented.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 600,
+        "provision_description": "Infrequently litigated statutes"
+      },
+      "evidence": [
+        {
+          "type": "statutory_text",
+          "description": "Section 122 limits: 15% maximum, 150 days duration",
+          "citation": "19 U.S.C. Section 2132(a)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 716-723"
+        },
+        {
+          "type": "statutory_text",
+          "description": "Section 201 requires ITC finding and caps rate at 50% above existing",
+          "citation": "19 U.S.C. Section 2253(a)(3)(A)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 732-735"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R01"
+      ],
+      "relevant_cases": []
+    },
+    {
+      "argument_id": "ARG-P07",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-06"
+      ],
+      "summary": "Congress enacted IEEPA specifically to LIMIT presidential emergency powers, not to grant unlimited authority to reshape the global economy.",
+      "detail": "IEEPA was enacted in 1977 after Congress studied abuses of TWEA emergency powers. The legislative history shows Congress was concerned about 'open-endedness' of TWEA. Congress added procedural constraints, triggering conditions, and exceptions. It would be anomalous to interpret a statute designed to constrain as granting unprecedented, unlimited tariff authority.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "legislative_history",
+          "description": "House Report showing concern about TWEA's open-endedness",
+          "citation": "H.R. Rep. No. 95-459 (1977)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 491"
+        },
+        {
+          "type": "statutory_text",
+          "description": "IEEPA added enumerated exceptions not in TWEA",
+          "citation": "50 U.S.C. Section 1702(b)(1)-(4)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 404-405"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R02"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Yoshida",
+          "case_name": "United States v. Yoshida Int'l, Inc.",
+          "citation": "526 F.2d 560 (C.C.P.A. 1975)",
+          "year": 1975,
+          "relevance": "Nixon tariffs under TWEA upheld; 'regulate importation' includes tariffs",
+          "url": "https://www.courtlistener.com/opinion/349089/united-states-v-yoshida-international-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Federal Circuit case (CCPA 1975), not in SCOTUS database"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "1983-125",
+          "case_name": "Regan v. Wald",
+          "citation": "468 U.S. 222 (1984)",
+          "year": 1984,
+          "relevance": "IEEPA authorities 'essentially the same as' TWEA",
+          "url": "https://www.courtlistener.com/opinion/111243/regan-v-wald/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1984 predates all current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-P08",
+      "side": "petitioner",
+      "issue_ids": [
+        "ISSUE-04"
+      ],
+      "summary": "The district court properly exercised jurisdiction because IEEPA is not a 'law providing for tariffs' and the CIT's exclusive jurisdiction does not apply.",
+      "detail": "CIT jurisdiction under 28 U.S.C. Section 1581(i)(1) applies only to actions 'arising out of any law of the United States providing for tariffs.' This case arises out of IEEPA, which does not provide for tariffs. The executive orders lack 'authority of law' and thus are not 'laws providing for tariffs.' The district court's jurisdiction analysis was correct.",
+      "spaeth_codes": {
+        "issue_code": 90320,
+        "issue_description": "judicial administration: jurisdiction or authority of federal district courts or territorial courts",
+        "provision_code": 600,
+        "provision_description": "Infrequently litigated statutes"
+      },
+      "evidence": [
+        {
+          "type": "statutory_text",
+          "description": "CIT exclusive jurisdiction statute",
+          "citation": "28 U.S.C. Section 1581(i)(1)",
+          "source_doc": "04_petitioner_response_brief.txt",
+          "location": "lines 386"
+        },
+        {
+          "type": "case_law",
+          "description": "K Mart resolved both jurisdiction and merits by finding district court jurisdiction",
+          "citation": "K Mart Corp. v. Cartier, Inc., 485 U.S. 176, 182 (1988)",
+          "source_doc": "01_petition_for_cert.txt",
+          "location": "lines 1359-1366"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-R08"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "1987-043",
+          "case_name": "K MART CORPORATION v. CARTIER, INC., et al.",
+          "citation": "485 U.S. 176",
+          "year": 1988,
+          "relevance": "K Mart v. Cartier - gray market goods; district court jurisdiction",
+          "url": "https://www.courtlistener.com/opinion/112019/k-mart-corp-v-cartier-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1988 predates all current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R01",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "The phrase 'regulate importation' plainly includes tariffs because tariffs are a traditional, commonplace method of regulating imports since the Founding.",
+      "detail": "The ordinary meaning of 'regulate' encompasses controlling and adjusting by rule. Since the Founding, tariffs have been recognized as a quintessential way to regulate trade. Chief Justice Marshall, James Madison, and Justice Story all recognized that regulating commerce includes imposing duties. McGoldrick v. Gulf Oil held that 'laying a duty on imports is also an exercise of the power to regulate foreign commerce.'",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 111,
+        "provision_description": "Article I, Section 8, Paragraph 3 (interstate commerce clause)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Laying duty on imports is exercise of power to regulate foreign commerce",
+          "citation": "McGoldrick v. Gulf Oil Corp., 309 U.S. 414, 428 (1940)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1148-1149"
+        },
+        {
+          "type": "case_law",
+          "description": "Power to regulate commerce not controverted even by imposition of duties",
+          "citation": "Gibbons v. Ogden, 9 Wheat. 1, 202 (1824)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1154"
+        },
+        {
+          "type": "historical_practice",
+          "description": "Justice Story: 'No one can doubt that power to regulate trade involves power to tax it'",
+          "citation": "2 Joseph Story, Commentaries on the Constitution Section 1076 (1833)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1159-1161"
+        },
+        {
+          "type": "dictionary_definition",
+          "description": "Regulate means 'to fix, establish or control; to adjust by rule'",
+          "citation": "Black's Law Dictionary 1156 (5th ed. 1979)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1137-1139"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P01"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Gibbons",
+          "case_name": "Gibbons v. Ogden",
+          "citation": "22 U.S. (9 Wheat.) 1 (1824)",
+          "year": 1824,
+          "relevance": "Commerce power scope; regulation vs taxation distinction",
+          "url": "https://www.courtlistener.com/opinion/85412/gibbons-v-ogden/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1824), predates current justices"
+        },
+        {
+          "case_id": "McGoldrick",
+          "case_name": "McGoldrick v. Gulf Oil Corp.",
+          "citation": "309 U.S. 414 (1940)",
+          "year": 1940,
+          "relevance": "Laying duty on imports is exercise of commerce power",
+          "url": "https://www.courtlistener.com/opinion/103319/mcgoldrick-v-gulf-oil-corp/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1940), predates current justices"
+        },
+        {
+          "case_id": "1975-133",
+          "case_name": "FEDERAL ENERGY ADMINISTRATION et al. v. ALGONQUIN SNG, INC., et al.",
+          "citation": "426 U.S. 548",
+          "year": 1976,
+          "relevance": "Algonquin - 'adjust imports' includes license fees; monetary methods",
+          "url": "https://www.courtlistener.com/opinion/109489/federal-energy-administration-v-algonquin-sng-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1976 predates all current justices"
+        },
+        {
+          "case_id": "1983-134",
+          "case_name": "CHEVRON U. S. A. INC. v. NATURAL RESOURCES DEFENSE COUNCIL, INC., et al.",
+          "citation": "467 U.S. 837",
+          "year": 1984,
+          "relevance": "Chevron - agency deference (overruled by Loper Bright)",
+          "url": "https://www.courtlistener.com/opinion/111221/chevron-u-s-a-inc-v-natural-resources-defense-council-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1984 predates all current justices"
+        },
+        {
+          "case_id": "2023-015",
+          "case_name": "LOPER BRIGHT ENTERPRISES v. RAIMONDO",
+          "citation": "144 S. Ct. 2244",
+          "year": 2024,
+          "relevance": "Loper Bright - overruled Chevron; statutory interpretation",
+          "url": "https://www.courtlistener.com/opinion/9491091/loper-bright-enterprises-v-raimondo/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R02",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-06"
+      ],
+      "summary": "Congress ratified the interpretation that 'regulate importation' includes tariffs when it reenacted TWEA language in IEEPA after the Yoshida decision upheld Nixon's tariffs.",
+      "detail": "President Nixon imposed tariffs under TWEA in 1971, which were upheld in Yoshida (1975). Congress was aware of this when it enacted IEEPA in 1977, reenacting the same 'regulate importation' language. When Congress adopts language from an earlier act, courts presume Congress adopted the construction given to that language. The House Report specifically cited Yoshida.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Yoshida upheld Nixon tariffs under TWEA's 'regulate importation' language",
+          "citation": "United States v. Yoshida Int'l, Inc., 526 F.2d 560 (C.C.P.A. 1975)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 788-792"
+        },
+        {
+          "type": "case_law",
+          "description": "When Congress adopts language, courts presume it adopted the construction",
+          "citation": "Georgia v. Public.Resource.Org, 590 U.S. 255, 270 (2020)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1212-1214"
+        },
+        {
+          "type": "legislative_history",
+          "description": "House Report cited Yoshida's interpretation of TWEA authorizing tariffs",
+          "citation": "H.R. Rep. No. 459, 95th Cong., 1st Sess. 5 (1977)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 318"
+        },
+        {
+          "type": "case_law",
+          "description": "IEEPA authorities 'essentially the same as' TWEA",
+          "citation": "Regan v. Wald, 468 U.S. 222, 228 (1984)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1206-1208"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P03",
+        "ARG-P07"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Yoshida",
+          "case_name": "United States v. Yoshida Int'l, Inc.",
+          "citation": "526 F.2d 560 (C.C.P.A. 1975)",
+          "year": 1975,
+          "relevance": "Nixon tariffs under TWEA upheld; 'regulate importation' includes tariffs",
+          "url": "https://www.courtlistener.com/opinion/349089/united-states-v-yoshida-international-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Federal Circuit case (CCPA 1975), not in SCOTUS database"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "1983-125",
+          "case_name": "Regan v. Wald",
+          "citation": "468 U.S. 222 (1984)",
+          "year": 1984,
+          "relevance": "IEEPA authorities 'essentially the same as' TWEA",
+          "url": "https://www.courtlistener.com/opinion/111243/regan-v-wald/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1984 predates all current justices"
+        },
+        {
+          "case_id": "2023-015",
+          "case_name": "LOPER BRIGHT ENTERPRISES v. RAIMONDO",
+          "citation": "144 S. Ct. 2244",
+          "year": 2024,
+          "relevance": "Loper Bright - overruled Chevron; statutory interpretation",
+          "url": "https://www.courtlistener.com/opinion/9491091/loper-bright-enterprises-v-raimondo/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R03",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Algonquin held that 'adjust imports' includes license fees (monetary exactions), making 'regulate importation' - a broader phrase - an even clearer case for including tariffs.",
+      "detail": "In Algonquin, the Court held that a statute authorizing the President 'to adjust imports' encompassed not just quotas but also 'monetary methods' like license fees. Since 'regulate importation' is broader than 'adjust imports,' the authority to impose tariffs follows a fortiori. The Court rejected the argument that Congress must use consistently explicit, well-defined language when delegating tariff authority.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 600,
+        "provision_description": "Infrequently litigated statutes"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Algonquin: 'adjust imports' includes monetary methods like license fees",
+          "citation": "FEA v. Algonquin SNG, Inc., 426 U.S. 548, 561 (1976)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1263-1268"
+        },
+        {
+          "type": "case_law",
+          "description": "Court rejected 'anomalous departure' argument about explicit tariff language",
+          "citation": "Algonquin, 426 U.S. at 557",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 1281-1288"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P01"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "1975-133",
+          "case_name": "FEDERAL ENERGY ADMINISTRATION et al. v. ALGONQUIN SNG, INC., et al.",
+          "citation": "426 U.S. 548",
+          "year": 1976,
+          "relevance": "Algonquin - 'adjust imports' includes license fees; monetary methods",
+          "url": "https://www.courtlistener.com/opinion/109489/federal-energy-administration-v-algonquin-sng-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1976 predates all current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R04",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-02",
+        "ISSUE-05"
+      ],
+      "summary": "The Major Questions Doctrine is inapplicable in the foreign affairs context where the President has inherent Article II authority and Congress deliberately grants broad emergency powers.",
+      "detail": "The Court has never applied MQD in the foreign affairs context. One would expect Congress to confer major powers on the President to address major international crises - that is a natural, common-sense expectation. The President has inherent Article II foreign affairs authority, and IEEPA adds congressional authorization on top of that. Under Youngstown Zone 1, the President's actions receive the strongest presumption of validity.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 131,
+        "provision_description": "Article II, Section 1 (executive power)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "When President acts pursuant to congressional authorization, strongest presumption of validity",
+          "citation": "Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 635, 637 (1952) (Jackson, J., concurring)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 480-484"
+        },
+        {
+          "type": "case_law",
+          "description": "MQD applied by FCC v. Consumers' Research but not in foreign affairs",
+          "citation": "FCC v. Consumers' Research, 145 S. Ct. 2482 (2025)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 147"
+        },
+        {
+          "type": "case_law",
+          "description": "President has broad inherent foreign affairs authority",
+          "citation": "American Insurance Association v. Garamendi, 539 U.S. 396, 414 (2003)",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 49-50"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P05"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Curtiss-Wright",
+          "case_name": "United States v. Curtiss-Wright Export Corp.",
+          "citation": "299 U.S. 304 (1936)",
+          "year": 1936,
+          "relevance": "President's plenary foreign affairs power; broad delegation permitted",
+          "url": "https://www.courtlistener.com/opinion/102726/united-states-v-curtiss-wright-export-corp/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1936), predates current justices"
+        },
+        {
+          "case_id": "1951-088",
+          "case_name": "YOUNGSTOWN SHEET & TUBE CO. ET AL. v. SAWYER",
+          "citation": "343 U.S. 579",
+          "year": 1952,
+          "relevance": "Youngstown - steel seizure; Jackson's three-zone framework for presidential power",
+          "url": "https://www.courtlistener.com/opinion/105018/youngstown-sheet-tube-co-v-sawyer/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1952 predates all current justices"
+        },
+        {
+          "case_id": "1964-095",
+          "case_name": "ZEMEL v. RUSK, SECRETARY OF STATE, et al.",
+          "citation": "381 U.S. 1",
+          "year": 1965,
+          "relevance": "Zemel - passport restrictions; broad delegation in foreign affairs",
+          "url": "https://www.courtlistener.com/opinion/107045/zemel-v-rusk/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1965 predates all current justices"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "1987-149",
+          "case_name": "MORRISON, INDEPENDENT COUNSEL v. OLSON et al.",
+          "citation": "487 U.S. 654",
+          "year": 1988,
+          "relevance": "Morrison v. Olson - independent counsel; executive power limits",
+          "url": "https://www.courtlistener.com/opinion/112139/morrison-v-olson/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1988 predates all current justices"
+        },
+        {
+          "case_id": "2002-079",
+          "case_name": "AMERICAN INSURANCE ASSOCIATION, et al. v. JOHN GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA",
+          "citation": "539 U.S. 396",
+          "year": 2003,
+          "relevance": "American Insurance Assn v. Garamendi - executive agreements; foreign affairs preemption",
+          "url": "https://www.courtlistener.com/opinion/130156/american-ins-assn-v-garamendi/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2009-088",
+          "case_name": "FREE ENTERPRISE FUND AND BECKSTEAD AND WATTS, LLP v. PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD et al.",
+          "citation": "561 U.S. 477",
+          "year": 2010,
+          "relevance": "Free Enterprise Fund - PCAOB removal; executive authority",
+          "url": "https://www.courtlistener.com/opinion/6797299/free-enterprise-fund-v-public-co-accounting-oversight-board/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2013-069",
+          "case_name": "NLRB v. NOEL CANNING",
+          "citation": "573 U.S. 513",
+          "year": 2014,
+          "relevance": "NLRB appointments; executive authority vis-a-vis Congress",
+          "url": "https://www.courtlistener.com/opinion/2959745/nlrb-v-noel-canning/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2014-011",
+          "case_name": "ZIVOTOFSKY v. KERRY",
+          "citation": "576 U.S. 1",
+          "year": 2015,
+          "relevance": "Zivotofsky - President's foreign affairs recognition power",
+          "url": "https://www.courtlistener.com/opinion/2806208/zivotofsky-v-kerry/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "Trump-Hawaii",
+          "case_name": "Trump v. Hawaii",
+          "citation": "585 U.S. 667 (2018)",
+          "year": 2018,
+          "relevance": "Deference to executive in immigration/national security context",
+          "url": "https://www.courtlistener.com/opinion/4511149/trump-v-hawaii/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2019-071",
+          "case_name": "SEILA LAW LLC v. CONSUMER FINANCIAL PROTECTION BUREAU",
+          "citation": "140 S. Ct. 2183",
+          "year": 2020,
+          "relevance": "SEILA LAW - CFPB structure; removal power limits",
+          "url": "https://www.courtlistener.com/opinion/4764451/seila-law-llc-v-consumer-financial-protection-bureau/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2019-074",
+          "case_name": "TRUMP v. MAZARS USA, LLP",
+          "citation": "140 S. Ct. 2019",
+          "year": 2020,
+          "relevance": "Trump v. Mazars - congressional oversight of President",
+          "url": "https://www.courtlistener.com/opinion/4766665/trump-v-mazars-usa-llp/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2020-029",
+          "case_name": "COLLINS v. YELLEN",
+          "citation": "141 S. Ct. 1761",
+          "year": 2021,
+          "relevance": "Collins v. Yellen - FHFA structure; executive authority",
+          "url": "https://www.courtlistener.com/opinion/6448146/collins-v-yellen/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2020-044",
+          "case_name": "UNITED STATES v. ARTHREX INC.",
+          "citation": "141 S. Ct. 1970",
+          "year": 2021,
+          "relevance": "Arthrex - appointments clause; executive control",
+          "url": "https://www.courtlistener.com/opinion/4893420/united-states-v-arthrex-inc/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2021-045",
+          "case_name": "WEST VIRGINIA v. ENVIRONMENTAL PROTECTION AGENCY",
+          "citation": "142 S. Ct. 2587",
+          "year": 2022,
+          "relevance": "West Virginia v. EPA - major questions doctrine; generation shifting rule",
+          "url": "https://www.courtlistener.com/opinion/6623243/west-virginia-v-epa/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2022-038",
+          "case_name": "BIDEN v. NEBRASKA",
+          "citation": "600 U.S. 477",
+          "year": 2023,
+          "relevance": "Biden v. Nebraska - student loan forgiveness; major questions doctrine",
+          "url": "https://www.courtlistener.com/opinion/10049655/biden-v-nebraska/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 118,
+              "justice_name": "Ketanji Brown Jackson",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R05",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Regulatory tariffs on foreign commerce are distinct from domestic revenue-raising taxes; tariffs regulate trade, not raise revenue as their primary purpose.",
+      "detail": "The tariffs here are regulatory, not revenue-raising. The power exercised is the foreign commerce power, not the taxing power. Tariffs would be most effective if no one ever paid them - their purpose is to regulate behavior, not generate revenue. The taxing power is distinct from the commerce power; tariffs may be imposed under either but serve different functions.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 110,
+        "provision_description": "Article I, Section 8, Paragraph 1 (taxing, spending, general welfare, or uniformity clause)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Taxing power distinct from commerce power; duties may be imposed under commerce power",
+          "citation": "Board of Trustees v. United States, 289 U.S. 48, 58 (1933)",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 52-53"
+        },
+        {
+          "type": "case_law",
+          "description": "Court rejected state's argument that tariffs are necessarily an exertion of taxing power",
+          "citation": "Board of Trustees, 289 U.S. at 57",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 623-624"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P02"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Board-Trustees",
+          "case_name": "Board of Trustees v. United States",
+          "citation": "289 U.S. 48 (1933)",
+          "year": 1933,
+          "relevance": "Tariffs may be imposed under commerce power, not just taxing power",
+          "url": "https://www.courtlistener.com/opinion/102065/board-of-trustees-of-univ-of-ill-v-united-states/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1933), predates current justices"
+        },
+        {
+          "case_id": "McGoldrick",
+          "case_name": "McGoldrick v. Gulf Oil Corp.",
+          "citation": "309 U.S. 414 (1940)",
+          "year": 1940,
+          "relevance": "Laying duty on imports is exercise of commerce power",
+          "url": "https://www.courtlistener.com/opinion/103319/mcgoldrick-v-gulf-oil-corp/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1940), predates current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R06",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Plaintiffs concede IEEPA authorizes quotas, which are economically equivalent to tariffs; it makes no sense to allow quotas but not tariffs.",
+      "detail": "Plaintiffs admit that 'regulate importation' includes quotas on imported goods. As Algonquin illustrates, quotas and tariffs are substantively equivalent - both affect price and quantity of foreign imports. Plaintiffs never explain why Congress would authorize quotas to cap quantities but not tariffs, which can achieve similar results. Indeed, some tariffs here are 'so high as to effectively prevent importation' - showing tariffs can be equivalent to prohibitions, which IEEPA expressly authorizes.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "License fee as much as quota has initial and direct impact on imports",
+          "citation": "Algonquin, 426 U.S. at 571",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 351-352"
+        },
+        {
+          "type": "statutory_text",
+          "description": "IEEPA expressly authorizes President to 'prohibit' importation",
+          "citation": "50 U.S.C. Section 1702(a)(1)(B)",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 440-441"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P04"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "1975-133",
+          "case_name": "FEDERAL ENERGY ADMINISTRATION et al. v. ALGONQUIN SNG, INC., et al.",
+          "citation": "426 U.S. 548",
+          "year": 1976,
+          "relevance": "Algonquin - 'adjust imports' includes license fees; monetary methods",
+          "url": "https://www.courtlistener.com/opinion/109489/federal-energy-administration-v-algonquin-sng-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1976 predates all current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R07",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-03",
+        "ISSUE-05"
+      ],
+      "summary": "The nondelegation doctrine has little or no force in foreign affairs where the President has inherent Article II authority and Congress may delegate broadly.",
+      "detail": "This Court has repeatedly held that strict limitations on domestic delegations do not apply in foreign affairs. Congress must 'paint with a broader brush' given unpredictable foreign contingencies. The President is the constitutional actor in foreign affairs and Congress supplements, not creates, his authority. IEEPA provides adequate standards through its emergency declaration requirements, time limits, exceptions, and congressional oversight.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 100,
+        "provision_description": "Article I, Section 1 (delegation of powers)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Strict limitation on domestic delegations does not apply to external affairs",
+          "citation": "Youngstown, 343 U.S. at 637 n.2 (Jackson, J., concurring)",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 289-291"
+        },
+        {
+          "type": "case_law",
+          "description": "In foreign affairs Congress must paint with broader brush",
+          "citation": "Zemel v. Rusk, 381 U.S. 1, 17 (1965)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 2069-2070"
+        },
+        {
+          "type": "case_law",
+          "description": "President has vast share of responsibility for foreign relations",
+          "citation": "United States v. Curtiss-Wright Export Corp., 299 U.S. 304 (1936)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 192"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P05"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "Curtiss-Wright",
+          "case_name": "United States v. Curtiss-Wright Export Corp.",
+          "citation": "299 U.S. 304 (1936)",
+          "year": 1936,
+          "relevance": "President's plenary foreign affairs power; broad delegation permitted",
+          "url": "https://www.courtlistener.com/opinion/102726/united-states-v-curtiss-wright-export-corp/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1936), predates current justices"
+        },
+        {
+          "case_id": "1951-088",
+          "case_name": "YOUNGSTOWN SHEET & TUBE CO. ET AL. v. SAWYER",
+          "citation": "343 U.S. 579",
+          "year": 1952,
+          "relevance": "Youngstown - steel seizure; Jackson's three-zone framework for presidential power",
+          "url": "https://www.courtlistener.com/opinion/105018/youngstown-sheet-tube-co-v-sawyer/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1952 predates all current justices"
+        },
+        {
+          "case_id": "1964-095",
+          "case_name": "ZEMEL v. RUSK, SECRETARY OF STATE, et al.",
+          "citation": "381 U.S. 1",
+          "year": 1965,
+          "relevance": "Zemel - passport restrictions; broad delegation in foreign affairs",
+          "url": "https://www.courtlistener.com/opinion/107045/zemel-v-rusk/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1965 predates all current justices"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "1987-149",
+          "case_name": "MORRISON, INDEPENDENT COUNSEL v. OLSON et al.",
+          "citation": "487 U.S. 654",
+          "year": 1988,
+          "relevance": "Morrison v. Olson - independent counsel; executive power limits",
+          "url": "https://www.courtlistener.com/opinion/112139/morrison-v-olson/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1988 predates all current justices"
+        },
+        {
+          "case_id": "2002-079",
+          "case_name": "AMERICAN INSURANCE ASSOCIATION, et al. v. JOHN GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA",
+          "citation": "539 U.S. 396",
+          "year": 2003,
+          "relevance": "American Insurance Assn v. Garamendi - executive agreements; foreign affairs preemption",
+          "url": "https://www.courtlistener.com/opinion/130156/american-ins-assn-v-garamendi/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2009-088",
+          "case_name": "FREE ENTERPRISE FUND AND BECKSTEAD AND WATTS, LLP v. PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD et al.",
+          "citation": "561 U.S. 477",
+          "year": 2010,
+          "relevance": "Free Enterprise Fund - PCAOB removal; executive authority",
+          "url": "https://www.courtlistener.com/opinion/6797299/free-enterprise-fund-v-public-co-accounting-oversight-board/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2013-069",
+          "case_name": "NLRB v. NOEL CANNING",
+          "citation": "573 U.S. 513",
+          "year": 2014,
+          "relevance": "NLRB appointments; executive authority vis-a-vis Congress",
+          "url": "https://www.courtlistener.com/opinion/2959745/nlrb-v-noel-canning/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "special_concurrence",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2014-011",
+          "case_name": "ZIVOTOFSKY v. KERRY",
+          "citation": "576 U.S. 1",
+          "year": 2015,
+          "relevance": "Zivotofsky - President's foreign affairs recognition power",
+          "url": "https://www.courtlistener.com/opinion/2806208/zivotofsky-v-kerry/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2018-003",
+          "case_name": "GUNDY v. UNITED STATES",
+          "citation": "139 S. Ct. 2116",
+          "year": 2019,
+          "relevance": "Gundy - SORNA delegation; nondelegation doctrine standards",
+          "url": "https://www.courtlistener.com/opinion/9231240/gundy-v-united-states/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "judgment",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "unknown",
+              "opinion": "unknown"
+            }
+          ]
+        },
+        {
+          "case_id": "2020-029",
+          "case_name": "COLLINS v. YELLEN",
+          "citation": "141 S. Ct. 1761",
+          "year": 2021,
+          "relevance": "Collins v. Yellen - FHFA structure; executive authority",
+          "url": "https://www.courtlistener.com/opinion/6448146/collins-v-yellen/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2020-044",
+          "case_name": "UNITED STATES v. ARTHREX INC.",
+          "citation": "141 S. Ct. 1970",
+          "year": 2021,
+          "relevance": "Arthrex - appointments clause; executive control",
+          "url": "https://www.courtlistener.com/opinion/4893420/united-states-v-arthrex-inc/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 116,
+              "justice_name": "Brett M. Kavanaugh",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 117,
+              "justice_name": "Amy Coney Barrett",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R08",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-04"
+      ],
+      "summary": "The CIT has exclusive jurisdiction because presidential modifications to the Harmonized Tariff Schedule are 'law of the United States' providing for tariffs.",
+      "detail": "Under 19 U.S.C. Section 3004(c)(1)(C), presidential modifications to the HTSUS 'shall be considered to be statutory provisions of law for all purposes.' Plaintiffs' claims arise out of those modifications - they seek to declare them unlawful, enjoin their enforcement, and set them aside. This falls squarely within the CIT's exclusive jurisdiction under Section 1581(i)(1).",
+      "spaeth_codes": {
+        "issue_code": 90320,
+        "issue_description": "judicial administration: jurisdiction or authority of federal district courts or territorial courts",
+        "provision_code": 600,
+        "provision_description": "Infrequently litigated statutes"
+      },
+      "evidence": [
+        {
+          "type": "statutory_text",
+          "description": "Presidential HTSUS modifications considered statutory provisions of law",
+          "citation": "19 U.S.C. Section 3004(c)(1)(C)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 264-265"
+        },
+        {
+          "type": "statutory_text",
+          "description": "CIT exclusive jurisdiction over civil actions arising out of tariff laws",
+          "citation": "28 U.S.C. Section 1581(i)(1)(B) and (D)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 276-277"
+        }
+      ],
+      "counter_argument_refs": [
+        "ARG-P08"
+      ],
+      "relevant_cases": [
+        {
+          "case_id": "1987-043",
+          "case_name": "K MART CORPORATION v. CARTIER, INC., et al.",
+          "citation": "485 U.S. 176",
+          "year": 1988,
+          "relevance": "K Mart v. Cartier - gray market goods; district court jurisdiction",
+          "url": "https://www.courtlistener.com/opinion/112019/k-mart-corp-v-cartier-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1988 predates all current justices"
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R09",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-05"
+      ],
+      "summary": "The President's determinations that trade deficits and drug trafficking constitute 'unusual and extraordinary threats' warranting emergency action are essentially unreviewable.",
+      "detail": "IEEPA requires the President to find an 'unusual and extraordinary threat' to national security, foreign policy, or economy. These determinations involve foreign policy and national security judgments that courts are ill-equipped to second-guess. The President's threat assessments receive substantial deference. Congress provided political oversight through reporting requirements and termination power, not judicial review.",
+      "spaeth_codes": {
+        "issue_code": 90120,
+        "issue_description": "judicial review of administrative agency's or administrative official's actions and procedures",
+        "provision_code": 131,
+        "provision_description": "Article II, Section 1 (executive power)"
+      },
+      "evidence": [
+        {
+          "type": "case_law",
+          "description": "Courts defer to executive determinations in immigration/national security context",
+          "citation": "Trump v. Hawaii, 585 U.S. 667 (2018)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 188"
+        },
+        {
+          "type": "case_law",
+          "description": "Executive determinations not subject to judicial review",
+          "citation": "Dalton v. Specter, 511 U.S. 462 (1994)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 136"
+        }
+      ],
+      "counter_argument_refs": [],
+      "relevant_cases": [
+        {
+          "case_id": "Curtiss-Wright",
+          "case_name": "United States v. Curtiss-Wright Export Corp.",
+          "citation": "299 U.S. 304 (1936)",
+          "year": 1936,
+          "relevance": "President's plenary foreign affairs power; broad delegation permitted",
+          "url": "https://www.courtlistener.com/opinion/102726/united-states-v-curtiss-wright-export-corp/",
+          "justice_votes": [],
+          "justice_votes_note": "Pre-modern era case (1936), predates current justices"
+        },
+        {
+          "case_id": "1980-152",
+          "case_name": "DAMES & MOORE v. REGAN, SECRETARY OF TREASURY, et al.",
+          "citation": "453 U.S. 654",
+          "year": 1981,
+          "relevance": "Dames & Moore - IEEPA hostage claims; presidential emergency powers",
+          "url": "https://www.courtlistener.com/opinion/110564/dames-moore-v-regan/",
+          "justice_votes": [],
+          "justice_votes_note": "Case from 1981 predates all current justices"
+        },
+        {
+          "case_id": "Dalton",
+          "case_name": "Dalton v. Specter",
+          "citation": "511 U.S. 462 (1994)",
+          "year": 1994,
+          "relevance": "Executive determinations not subject to judicial review",
+          "url": "https://www.courtlistener.com/opinion/1087960/dalton-v-specter/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2002-079",
+          "case_name": "AMERICAN INSURANCE ASSOCIATION, et al. v. JOHN GARAMENDI, INSURANCE COMMISSIONER, STATE OF CALIFORNIA",
+          "citation": "539 U.S. 396",
+          "year": 2003,
+          "relevance": "American Insurance Assn v. Garamendi - executive agreements; foreign affairs preemption",
+          "url": "https://www.courtlistener.com/opinion/130156/american-ins-assn-v-garamendi/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "dissent",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "2014-011",
+          "case_name": "ZIVOTOFSKY v. KERRY",
+          "citation": "576 U.S. 1",
+          "year": 2015,
+          "relevance": "Zivotofsky - President's foreign affairs recognition power",
+          "url": "https://www.courtlistener.com/opinion/2806208/zivotofsky-v-kerry/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "special_concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        },
+        {
+          "case_id": "Trump-Hawaii",
+          "case_name": "Trump v. Hawaii",
+          "citation": "585 U.S. 667 (2018)",
+          "year": 2018,
+          "relevance": "Deference to executive in immigration/national security context",
+          "url": "https://www.courtlistener.com/opinion/4511149/trump-v-hawaii/",
+          "justice_votes": [
+            {
+              "justice_id": 108,
+              "justice_name": "Clarence Thomas",
+              "vote": "concurrence",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 111,
+              "justice_name": "John G. Roberts Jr.",
+              "vote": "majority",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 112,
+              "justice_name": "Samuel A. Alito Jr.",
+              "vote": "majority",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 113,
+              "justice_name": "Sonia Sotomayor",
+              "vote": "dissent",
+              "opinion": "concurring"
+            },
+            {
+              "justice_id": 114,
+              "justice_name": "Elena Kagan",
+              "vote": "dissent",
+              "opinion": "author"
+            },
+            {
+              "justice_id": 115,
+              "justice_name": "Neil M. Gorsuch",
+              "vote": "majority",
+              "opinion": "author"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "argument_id": "ARG-R10",
+      "side": "respondent",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "summary": "Tariffs 'deal with' the declared emergencies as leverage to bring trading partners to negotiate, consistent with IEEPA's purpose and prior presidential practice.",
+      "detail": "IEEPA requires the President to use powers to 'deal with' the declared threat. The trafficking tariffs deal with the fentanyl crisis by pressuring China, Canada, and Mexico to take enforcement action. The trade tariffs have brought 75+ trading partners to negotiate, resulting in framework agreements worth trillions. President Nixon used tariffs similarly - as leverage to achieve the Smithsonian Agreement addressing balance-of-payments crisis.",
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "evidence": [
+        {
+          "type": "historical_practice",
+          "description": "More than 75 trading partners approached US to negotiate after tariffs",
+          "citation": "Exec. Order No. 14,266, 90 Fed. Reg. 15,625, 15,626 (Apr. 15, 2025)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 659-661"
+        },
+        {
+          "type": "economic_data",
+          "description": "US announced trade deals with EU, Indonesia, Philippines, Vietnam, Japan, South Korea, UK",
+          "citation": "CAFC Doc. 158, at 36 (Greer)",
+          "source_doc": "03_govt_opening_brief.txt",
+          "location": "lines 664-667"
+        },
+        {
+          "type": "historical_practice",
+          "description": "Nixon tariffs used as leverage, leading to Smithsonian Agreement in 5 months",
+          "citation": "Yoshida, 526 F.2d at 568-569",
+          "source_doc": "05_govt_reply_brief.txt",
+          "location": "lines 556-559"
+        }
+      ],
+      "counter_argument_refs": [],
+      "relevant_cases": [
+        {
+          "case_id": "Yoshida",
+          "case_name": "United States v. Yoshida Int'l, Inc.",
+          "citation": "526 F.2d 560 (C.C.P.A. 1975)",
+          "year": 1975,
+          "relevance": "Nixon tariffs under TWEA upheld; 'regulate importation' includes tariffs",
+          "url": "https://www.courtlistener.com/opinion/349089/united-states-v-yoshida-international-inc/",
+          "justice_votes": [],
+          "justice_votes_note": "Federal Circuit case (CCPA 1975), not in SCOTUS database"
+        }
+      ]
+    }
+  ],
+  "oral_argument_exchanges": [
+    {
+      "exchange_id": "OA-001",
+      "issue_ids": [
+        "ISSUE-02",
+        "ISSUE-05"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 131,
+        "provision_description": "Article II, Section 1 (executive power)"
+      },
+      "justice": "Justice Thomas",
+      "advocate": "General Sauer",
+      "question": "Why doesn't the major questions doctrine apply to the President in this case?",
+      "response": "In foreign affairs context, where President has inherent Article II authority, it's natural to expect Congress to confer major powers to address major international crises. This is Justice Jackson's Youngstown framework - broad powers subject to ongoing political oversight.",
+      "page": "6-8",
+      "key_quote": "One would expect Congress to confer major powers on the President to address major international crises."
+    },
+    {
+      "exchange_id": "OA-002",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-05"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 111,
+        "provision_description": "Article I, Section 8, Paragraph 3 (interstate commerce clause)"
+      },
+      "justice": "Justice Kagan",
+      "advocate": "General Sauer",
+      "question": "What exactly are the Article II powers you're relying on? Tariffs are quintessential Article I powers - power to tax, regulate foreign commerce.",
+      "response": "We have two layers - bedrock of President's inherent Article II foreign affairs powers, plus sweeping congressional delegation. We're not asserting taxing power; these are regulatory tariffs under foreign commerce power.",
+      "page": "8-10",
+      "key_quote": "We don't contend that what's being exercised here is the power to tax. It's the power to regulate foreign commerce. These are regulatory tariffs."
+    },
+    {
+      "exchange_id": "OA-003",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "justice": "Justice Sotomayor",
+      "advocate": "General Sauer",
+      "question": "How is a quota equivalent to revenue-raising? A quota sets a limit but doesn't generate revenue. Why when Congress intended regulate to mean taxing, it used taxes simultaneously?",
+      "response": "In Algonquin, the Court held 'adjust imports' includes monetary methods like license fees without using word 'tariffs.' Congress is not bound to specific words when delegating tariff authority.",
+      "page": "12-16",
+      "key_quote": "The phrase 'adjust imports' was held to include monetary methods despite not mentioning tariffs."
+    },
+    {
+      "exchange_id": "OA-004",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-07"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "justice": "Justice Jackson",
+      "advocate": "General Sauer",
+      "question": "IEEPA was designed to limit presidential authority. Congress was concerned about TWEA abuses. How can we interpret a constraining statute as granting unlimited authority?",
+      "response": "Congress changed triggering conditions and procedures but kept the same operative language including 'regulate importation.' Natural inference is Congress did not intend to change scope of tools available.",
+      "page": "18-21",
+      "key_quote": "Congress took the language from TWEA and enacted the very same phrase 'regulate importation' in IEEPA."
+    },
+    {
+      "exchange_id": "OA-005",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-06"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "justice": "Justice Kavanaugh",
+      "advocate": "General Sauer",
+      "question": "What's the significance of the Nixon example and precedent here? What was the scope of the Nixon tariffs?",
+      "response": "Nixon imposed 10% tariff across the board to address balance-of-payments deficit. Used as leverage to bring trading partners to negotiate - achieved Smithsonian Agreement in 5 months. Upheld by Federal Circuit predecessor under 'regulate importation.' Two years later, Congress reenacted same phrase in IEEPA.",
+      "page": "23-25",
+      "key_quote": "The tariff there was used as here, in part as leverage to get our trading partners to the negotiating table."
+    },
+    {
+      "exchange_id": "OA-006",
+      "issue_ids": [
+        "ISSUE-01"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "justice": "Justice Barrett",
+      "advocate": "General Sauer",
+      "question": "Can you point to any other statute where 'regulate importation' has been used to confer tariff-imposing authority?",
+      "response": "TWEA as interpreted in Yoshida, and the related 'adjust imports' in Section 232. We also rely on historical sources showing long pedigree of foreign commerce power delegations including tariffs.",
+      "page": "25-28",
+      "key_quote": "The only two statutes are TWEA as interpreted in Yoshida and the closely related 'adjust imports' in Section 232."
+    },
+    {
+      "exchange_id": "OA-007",
+      "issue_ids": [
+        "ISSUE-01",
+        "ISSUE-06"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 376,
+        "provision_description": "Trading with the Enemy Act, as amended"
+      },
+      "justice": "Justice Kagan",
+      "advocate": "Neal Katyal",
+      "question": "[To petitioner's counsel] Walk us through the 50-year history of IEEPA non-use for tariffs.",
+      "response": "IEEPA has been invoked 69 times - for asset freezes, embargoes, sanctions, travel restrictions. Never once for tariffs. No President until now claimed this authority. This consistent practice informs statutory meaning.",
+      "page": "97-110",
+      "key_quote": "69 invocations of IEEPA and not once did any President claim tariff authority until now."
+    },
+    {
+      "exchange_id": "OA-008",
+      "issue_ids": [
+        "ISSUE-03"
+      ],
+      "spaeth_codes": {
+        "issue_code": 130015,
+        "issue_description": "executive authority vis-a-vis congress or the states",
+        "provision_code": 100,
+        "provision_description": "Article I, Section 1 (delegation of powers)"
+      },
+      "justice": "Chief Justice Roberts",
+      "advocate": "General Sauer",
+      "question": "On nondelegation - how does IEEPA provide sufficient intelligible principle if it grants unlimited tariff authority?",
+      "response": "IEEPA provides standards: must deal with unusual and extraordinary threat, must address national security/economy, subject to congressional oversight and reporting, default one-year limit on emergencies. This Court has upheld broader delegations in foreign affairs.",
+      "page": "70-75",
+      "key_quote": "Congress retained robust political oversight over the President's exercise of emergency powers."
+    }
+  ],
+  "cross_reference_map": {
+    "statutory_interpretation": {
+      "petitioner_arguments": [
+        "ARG-P01",
+        "ARG-P02",
+        "ARG-P04",
+        "ARG-P06"
+      ],
+      "respondent_arguments": [
+        "ARG-R01",
+        "ARG-R02",
+        "ARG-R03",
+        "ARG-R05",
+        "ARG-R06",
+        "ARG-R10"
+      ]
+    },
+    "major_questions": {
+      "petitioner_arguments": [
+        "ARG-P05"
+      ],
+      "respondent_arguments": [
+        "ARG-R04"
+      ]
+    },
+    "nondelegation": {
+      "petitioner_arguments": [
+        "ARG-P05"
+      ],
+      "respondent_arguments": [
+        "ARG-R07"
+      ]
+    },
+    "historical_practice": {
+      "petitioner_arguments": [
+        "ARG-P03",
+        "ARG-P07"
+      ],
+      "respondent_arguments": [
+        "ARG-R02"
+      ]
+    },
+    "jurisdiction": {
+      "petitioner_arguments": [
+        "ARG-P08"
+      ],
+      "respondent_arguments": [
+        "ARG-R08"
+      ]
+    },
+    "foreign_affairs": {
+      "petitioner_arguments": [],
+      "respondent_arguments": [
+        "ARG-R04",
+        "ARG-R07",
+        "ARG-R09"
+      ]
+    },
+    "constitutional_structure": {
+      "petitioner_arguments": [
+        "ARG-P02"
+      ],
+      "respondent_arguments": [
+        "ARG-R05"
+      ]
+    }
+  },
+  "source_documents": [
+    {
+      "filename": "01_petition_for_cert.txt",
+      "party": "petitioner",
+      "doc_type": "Petition for Certiorari",
+      "lines": 1432
+    },
+    {
+      "filename": "02_govt_opposition_to_cert.txt",
+      "party": "respondent",
+      "doc_type": "Opposition to Certiorari",
+      "lines": 640
+    },
+    {
+      "filename": "03_govt_opening_brief.txt",
+      "party": "respondent",
+      "doc_type": "Opening Brief",
+      "lines": 2628
+    },
+    {
+      "filename": "04_petitioner_response_brief.txt",
+      "party": "petitioner",
+      "doc_type": "Response Brief",
+      "lines": 2613
+    },
+    {
+      "filename": "05_govt_reply_brief.txt",
+      "party": "respondent",
+      "doc_type": "Reply Brief",
+      "lines": 1369
+    },
+    {
+      "filename": "oral_argument.txt",
+      "party": "both",
+      "doc_type": "Oral Argument Transcript",
+      "lines": 6656
+    }
+  ]
+}
