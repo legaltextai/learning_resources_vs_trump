@@ -1,6 +1,6 @@
 # I Used Claude Code To Predict How the Supreme Court Will Rule on Trump's Tariffs
 
-*Learning Resources v. Trump*—a case that could determine whether a president can impose trillions of dollars in tariffs by declaring a "national emergency" over trade deficits. The legal question is narrow: does the word "regulate" in a 1977 statute include the power to tax? The practical stakes are enormous.
+*[Learning Resources v. Trump](https://www.supremecourt.gov/docket/docketfiles/html/public/24-1287.html)*—a case that could determine whether a president can impose trillions of dollars in tariffs by declaring a "national emergency" over trade deficits. The legal question is narrow: does the word "regulate" in a 1977 statute include the power to tax? The practical stakes are enormous.
 
 I wanted to know how the Court would rule. Not as punditry—everyone has opinions—but as a genuine empirical question. Could I build a system that examines how each justice has actually voted in similar cases, feeds that data to an AI model, and produces probability estimates?
 
