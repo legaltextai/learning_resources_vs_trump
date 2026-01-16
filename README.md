@@ -134,7 +134,7 @@ The full pipeline consists of eight Python scripts, each handling a specific ste
 7. **estimate_justice_probabilities.py** — Final probability synthesis
 8. **md_to_pdf.py** — Format output for human review
 
-The total cost was about $15 in API calls. Total time spent was about 4 hours. The Spaeth database and CourtListener are free›.
+The total cost was about $15 in API calls. Total time spent was about 4 hours. The Spaeth database and CourtListener are free.
 
 ## What Happens Next
 
@@ -146,7 +146,7 @@ Future improvements could include supplementing the Spaeth database with keyword
 
 ---
 
-*The code and full analysis are available at [repository link]. The case is Learning Resources v. Trump, No. 25-XXX.*
+*The code and full analysis are available at [github.com/legaltextai/learning_resources_vs_trump](https://github.com/legaltextai/learning_resources_vs_trump). The case is Learning Resources v. Trump, No. 24-1287.*
 
 This is a first attempt, not a finished product. Better precedent retrieval, model fine-tuning on judicial reasoning, human-in-the-loop validation, and systematic evaluation against historical outcomes could all improve accuracy. If you're working on similar problems—or want to—I'd welcome ideas, suggestions, or collaboration.
 
