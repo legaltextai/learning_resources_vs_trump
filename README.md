@@ -123,16 +123,14 @@ And of course, justices occasionally surprise everyone. They change their minds.
 
 ## The Code
 
-The full pipeline consists of eight Python scripts, each handling a specific step:
+The full pipeline consists of six Python scripts, each handling a specific step:
 
-1. **extract_arguments.py** — Parse briefs into structured argument objects
-2. **add_relevant_cases.py** — Query Spaeth database for precedent cases
-3. **add_case_urls.py** — Link cases to CourtListener
-4. **add_justice_votes.py** — Extract each justice's vote per case
-5. **extract_opinions.py** — Pull full opinion text via API
-6. **analyze_justice_positions.py** — First-pass analysis per argument
-7. **estimate_justice_probabilities.py** — Final probability synthesis
-8. **md_to_pdf.py** — Format output for human review
+1. **add_relevant_cases.py** — Query Spaeth database for precedent cases
+2. **add_case_urls.py** — Link cases to CourtListener
+3. **add_justice_votes.py** — Extract each justice's vote per case
+4. **extract_opinions.py** — Pull full opinion text via API
+5. **analyze_justice_positions.py** — First-pass analysis per argument
+6. **estimate_justice_probabilities.py** — Final probability synthesis
 
 The total cost was about $15 in API calls. Total time spent was about 4 hours. The Spaeth database and CourtListener are free.
 
