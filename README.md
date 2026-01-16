@@ -30,9 +30,9 @@ I built a pipeline with four main components.
 
 With all this data, I ran two separate analyses.
 
-**First pass: Position analysis.** I asked Claude to analyze, for each argument in the case, how each justice's prior opinions and votes would likely inform their view. This produced a detailed report—essentially a research memo showing which precedents cut which way for each justice on each legal issue.
+**First pass: Position analysis.** I asked Claude to analyze, for each argument in the case, how each justice's prior opinions and votes would likely inform their view. This produced a [detailed report](https://github.com/legaltextai/learning_resources_vs_trump/blob/main/justice_position_analysis.md)—essentially a research memo showing which precedents cut which way for each justice on each legal issue.
 
-**Second pass: Probability synthesis.** Taking the position analysis as input, I then asked the model to synthesize everything into probability estimates.
+**Second pass: Probability synthesis.** Taking the position analysis as input, I then asked the model to synthesize everything into [probability estimates](https://github.com/legaltextai/learning_resources_vs_trump/blob/main/justice_vote_probabilities.md).
 
 **Third pass: Oral argument validation.** After the Court heard the case, I fed the 190-page oral argument transcript to the model and asked it to compare each justice's actual questioning against the predicted positions. This served as a sanity check—if a justice we predicted at 78% for petitioner was lobbing softballs at the government, something would be off.
 
