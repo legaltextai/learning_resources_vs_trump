@@ -142,12 +142,7 @@ Soon, the Court will issue its opinion. If the model is right, Learning Resource
 
 Either way, the exercise was worthwhile. The data exists—decades of opinions, votes, and reasoning patterns, all public. We now have models capable of synthesizing it. The question is whether we use them. 
 
-Future improvements could include supplementing the Spaeth database with keyword and semantic search to surface relevant cases that don't fit neatly into coded categories, fine-tuning a model on each justice's reasoning frameworks, training on legal issue spotting, and adding human-in-the-loop checkpoints throughout the research process. 
-
-
-## For the Adventurous
-
-If you're the type who puts money where your analysis is, prediction markets offer a way to test these estimates against the crowd. 
+Future improvements could include supplementing the Spaeth database with keyword and semantic search to surface relevant cases that don't fit neatly into coded categories, fine-tuning a model on each justice's reasoning frameworks, training on legal issue spotting, and adding human-in-the-loop checkpoints throughout the research process.
 
 ---
 
